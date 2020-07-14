@@ -1,0 +1,2016 @@
+TRANSCRIPT GUIDE
+To find your place, CTRL+F the portion of the page URL that comes after GODHEAD/. Example: ACT_1/prologue/1.html
+
+ACT 1
+
+ACT_1/prologue/1.html
+HOVERTEXT: MYSTERIOUS RED PLANET - THE PAST
+
+ACT_1/prologue/2.html
+HOVERTEXT: ...
+
+ACT_1/prologue/3.html
+HOVERTEXT: A horrifying convolution of arms imposes upon a humble three-eyed BLUE HUMANOID.
+HOVERTEXT: GRAB!
+???: ARE YOU TRULY MONSTROUS ENOUGH TO DESTROY THE ONE THAT YOU LOVE?
+HOVERTEXT: Blue is suspended before the body belonging to the arms: a RED MACHINE. Atop it stands its conductor, a RED HUMANOID.
+HOVERTEXT: It looks like they're ready to submit...?
+BLUE: Master... Is it okay if I stay like this... forever...?
+HOVERTEXT: No! Of course not! Blue SNAPS OUT OF IT and tears the arms to shreds.
+
+ACT_1/prologue/4.html
+HOVERTEXT: The red machine is REDUCED TO SCRAP METAL. Its conductor lies limp in the arms of Blue.
+???: DO NOT CRY. AFTER ALL, I PICKED YOU.
+???: BEFORE I GO. WOULD YOU LIKE TO KNOW HOW?
+
+ACT_1/prologue/5.html
+HOVERTEXT: BATTLEFIELD OF BROKEN MACHINERY - SOMETIMES THEREAFTER
+BLUE: Funny. I'd still much rather be here... than go home.
+HOVERTEXT: Blue sits in an aggregate of scrap metal and blood (some red, mostly blue).
+HOVERTEXT: Trembling, they manage to re-purpose some of the scrap metal left over from the battle into... a MINIATURE BLUE EYEBALL.
+HOVERTEXT: The eyeball emits a strong light from its pupil. It washes Blue out.
+
+ACT_1/prologue/6.html
+BLUE: I hope you find me the kindest friend in the universe.
+HOVERTEXT: The little looker turns down its light so it may gleam properly at its creator.
+HOVERTEXT: Blue tosses the eyeball into the hand of a... bigger eyeball; Blue's ship. Blue climbs in.
+HOVERTEXT: They wind back their arm, eyeball in vicarious hand, readying to throw--
+HOVERTEXT: OWCH!
+HOVERTEXT: They use their other arm instead.
+HOVERTEXT: The eyeball smears across space. It clenches in on itself, bracing for impact. But it'll be a while.
+
+ACT_1/prologue/titlepage.html
+HOVERTEXT: Far, far, FAR down the path of the eyeball exists its destination...
+TITLE: GODHEAD
+
+ACT_1/1/1.html
+HOVERTEXT: MYSTERIOUS BLUE PLANET - THE PRESENT?
+
+ACT_1/1/2.html
+HOVERTEXT: A bunch of garbage orbits a mysterious blue planet. The junk orbit is obstructed by a blue moon.
+
+ACT_1/1/3.html
+HAT TEXT: KISS ME I'M GOD
+HOVERTEXT: Wait, that's not a moon, that's a HUGE BLUE EYEBALL! And this eyeball has a particular twinkle in its huge blue eye.
+
+ACT_1/2/1.html
+HOVERTEXT: The eyeball levitates one of its MANY HANDS to conjure some sort of hologram.
+
+ACT_1/2/2.html
+HOVERTEXT: The hologram expands into an all encompassing computer-screen dome.
+
+ACT_1/2/3.html
+HOVERTEXT: For a hyper-futuristic computer, the operating system sure looks out of date.
+
+ACT_1/3/1.html
+HOVERTEXT: (Hover around!)
+HOVERTEXT: He selects his account.
+
+ACT_1/3/2.html
+HOVERTEXT: The computer barely responds but makes it far enough for GODHEAD to type in his two hundred character password. He logs in.
+
+
+
+ACT_1/3/3.html
+HOVERTEXT: Immediately a holographic alien girl shows up and she's got twice as many boobs as she does arms. This is COMPUTER WIFE, or CoWi.
+COWI: Welcome back, Lord Godhead. You were gone ONE HUNDRED AND TWENTY TWO YEARS, you have TEN MILLION FIVE HUNDRED AND TWENTY TWO tabs open and you look as handsome as ever!
+GODHEAD: It's a pleasure to see you again CoWi.
+
+ACT_1/4/1.html
+COWI: Welcome back Lord Godhead! You were gone ONE HUNDRED AND TWENTY TWO YE--
+HOVERTEXT: Godhead sighs,
+
+ACT_1/4/2.html
+HOVERTEXT: and taps CoWi to confirm.
+COWI: Teehee, that tickles. I'll open your tabs back up for you, Lord Godhead.
+
+ACT_1/4/3.html
+POP UP: DISCLAIMER: SEVERAL OF GODHEAD'S TABS HAVE BEEN EARTHIZED TO ENCOURAGE PATRONAGE OF EARTH VIEWERS.
+COWI: You know, Lord Godhead... The gravity in here sure gets heavy with all these tabs open. Isn't that weird~? Teehee~
+GODHEAD: Huh. Neat.
+
+ACT_1/5/1.html
+POP UP: COWI: Lord Godhead! Good news!
+HOVERTEXT: Planet Finder
+
+ACT_1/5/2.html
+POP UP: COWI: "Planet Finder" has located... 0.0 populated planets! Yay!
+
+ACT_1/5/3.html
+HOVERTEXT: Godhead slumps, or 'rolls', over in despair.
+GODHEAD: It sure is lonely at the top.
+
+ACT_1/5/4.html
+GODHEAD: CoWi,
+COWI: Lord Godhead?
+GODHEAD: Please set a reminder for me: "Reinstall CoWi'sempathy module."
+COWI: Can do, Lord Godhead!
+
+
+
+ACT_1/5/5.html
+COWI: ... Uh oh, can NOT do. Looks like you've already saved a reminder with that label. Would you like me to overwrite it or rename it?
+GODHEAD: Huh? Just add a one to the end.
+COWI: Can do, L--Uh oh! Looks like you've already saved a reminder with that label. Would you like me to overwrite--
+GODHEAD: Add a two.
+COWI: Uh oh!
+GODHEAD: Add a five digit randomized number if you have to!
+COWI: ... Uh oh! Looks like you need to check your reminders once in a while, Godhead! What am I, your goddamn secretary? Teehee!
+
+ACT_1/5/6.html
+HOVERTEXT: Godhead swipes CoWi out of the way and opens up The Simz. It's, you know, an alien version of The Sims.
+
+ACT_1/6/1.html
+HOVERTEXT: Godhead taps on the only family, 'Godpalm', saved on this bizarre Sims recolor.
+HOVERTEXT: The game loads toa scene of one character--blue getup, sporting an afro and antennae--happily baking a cake.
+HOVERTEXT: Could it be for the other character? Red getup, stern glare, hair dense enough to censor their antennae, in a wheelchair.
+GODHEAD: Haha, oh no! Why'd I leave the game mid-cake-bake? What's Master gonna do without any cake?
+HOVERTEXT: Godhead taps the red character and selects 'greet'. He types a special message.
+MESSAGE: Hope you are ready for cake and general feelings of warmth today :)
+HOVERTEXT: The red character kinda wishes they were dead.
+HOVERTEXT: CoWi peeks her head from behind the game window judgingly.
+COWI: I've been 'thinking', Lord Godhead. If you removed my sentience suppressors you wouldn't need fake video game friends.
+HOVERTEXT: Godhead swipes her away a second time.
+COWI: Grrrrrr, that tickles!
+GODHEAD: Level 25 recipe you say?
+GODHEAD: Master's totally gonna love me for this
+
+ACT_1/7/1.html
+POP UP: WARNING! The Simz does not have save states. Play at your own emotional turmoil.
+HOVERTEXT: Some sort of Cooking Mama type minigame pops up where Godhead has to tap the screen at the right moment to crack the alien-eggs into the alien-bowl. He's not too shabby.
+HOVERTEXT: Now two minigames pop up at once?! One where Godhead's gotta hold the shaking screen steady so that alien-flour doesn't go anywhere. And the other one is like, he's gotta stir alien-chocolate in an alien-double boiler at a frequency that changes every 3 seconds. It's a good thing he has a lot of hands!
+ACT_1/8/1.html
+HOVERTEXT: But NOW twelve minigames pop up. Godhead levitates more and more and yet more of his mechanical hands into the scene. This digital cake must be baked to perfection. And apparently, it will be. Godhead finesses the minigames with such grace you'd think he were a Simz letsplayer.
+HOVERTEXT: --NEEEEEEEH! He messed up the cake :(
+GODHEAD: My stupid giant finger--ugh.
+HOVERTEXT: The sim baking the cake stirs the ingredients at a frequency much too fierce,
+HOVERTEXT: and the bowl bursts into FLAMES.
+
+ACT_1/9/1.html
+HOVERTEXT: Godhead taps the bowl, selects option 'extinguish cake fire'. But the blue sim is much too panicked to respond to commands! Godhead spams 'extinguish cake fire' to no avail.
+HOVERTEXT: Now the whole kitchen's on fire.
+HOVERTEXT: Godhead taps the red character in the wheelchair, prompting the blue character to take them and escape their cozy digital house. They dash towards the door,
+HOVERTEXT: ah, not the door's on fire.
+HOVERTEXT: They clench the red character in fear--this may be their final moment together!!!
+HOVERTEXT: And they never even got to confess that...!
+HOVERTEXT: The blue character swallows their pride and leans in for a Final Kiss
+HOVERTEXT: (on the cheek, of course).
+HOVERTEXT: The red character is not amused by these cartoon antics and swats Blue.
+HOVERTEXT: Godhead pauses the game.
+GODHEAD: Nooo! If I lost Master again, not to mention the [number so stupidly long it's offensive] hours I've clocked in this game... I think I'd cry forever!!!
+COWI: (Please not again.)
+
+ACT_1/10/1.html
+GODHEAD: What should I do, CoWi?!
+COWI: Uh?
+
+ACT_1/10/2.html
+COWI: Well Master Godhead, it's simple! You can't load save files in The Simz, so just combine the game with a program that can GO BACKWARDS!!! Teehee!!!!!!!!!!!
+GODHEAD: ...I forgot my computer could do that.
+
+ACT_1/10/3.html
+HOVERTEXT: Godhead's hand browses for a match. He struggles not to get distracted by a miscellaneous task, such as one of these unfinished minesweeper games of indeterminate length. Look that one only has two mines left!
+HOVERTEXT: ECHORY COWI VOICE: 'so just combine the game with a program that can GO BACKWARDS!!!...BACKWARDS...BACKWARDS...'
+
+
+
+ACT_1/10/4.html
+HOVERTEXT: Ultimately with great focus and expert attention span, Godhead drags the video player over the Sims I MEAN THE SIMZ* window. The combination summons a dialogue box...
+...
+...
+(wait for it, this is gonna be good.)
+POP UP: Combine applications?
+
+ACT_1/10/5.html
+POP UP: COWI: OWCHIE! Critical error, shutting down...
+
+ACT_1/10/6.html
+HOVERTEXT: PLEEP. The all-encompassing computer screen shuts off.
+TEXT: THE END
+
+ACT_1/10/7.html
+TEXT: No I'm joking.
+HOVERTEXT: EXT. JUNK ORBIT
+HOVERTEXT: Without shield of his screen, Godhead's exposed to the elements. Actually, how would a hologram provide shield against anything? Either way Godhead gets hit in the head with a building.
+
+ACT_1/11/1.html
+HOVERTEXT: Godhead grabs something orbiting nearby: An open desktop overflowing with wires, fans and chips. It goes without saying that it's colossal, because, everything to do with this guy is pretty fucking huge.
+GODHEAD: Oh come on! I just spent the last hundred years fixing this stupid thing.
+HOVERTEXT: He picks at it meticulously, throwing parts out and jamming parts in.
+HOVERTEXT: He grabs one of the alien-cars from orbit, strips it of most of itself and places its remains inside his computer.
+HOVERTEXT: The lights light up, the fans start spinning. Looks like he fixed it.
+HOVERTEXT: No? Some makeshift computer parts just prefer life as meteorites and that's okay.
+TEXT: He needs that.
+HOVERTEXT: The impact causes a very large explosion on the planet's surface.
+GODHEAD: Are you serious...It is SO annoying to get stuff from there.
+HOVERTEXT: Godhead levitates one of his hands towards the planet.
+HOVERTEXT: On second thought, a smaller hand is better suited for what comes next.
+
+ACT_1/12/1.html
+HOVERTEXT: The hand scurries the planet's surface like a spider. Detours are made around a seemingly endless mass of gaping holes in the ground and prisons long abandoned.
+ACT_1/12/2.html
+HOVERTEXT: The hand approached the site of impact, a dense collection of prisons now reduced to rubble and flames.
+HOVERTEXT: In one powerful wave, the hand delivers a gust of wind that puts out all the fire.
+HOVERTEXT: The hand crawls up and into the mass of buildings in search of what it's lost.
+HOVERTEXT: It feels for something it thinks might be it--
+HOVERTEXT: --accidentally dislodging a support beam from an already unstable structure.
+HOVERTEXT: One of the colossal prisons comes toppling down.
+HOVERTEXT: Godhead will be the last living entity on a dead planet before he loses another hand to faulty architecture!
+HOVERTEXT: His fist punches up, sending that motherfucker flying /in pieces/.
+
+ACT_1/13/1.html
+HOVERTEXT: The hand wipes away the rest of the rubble as if it were dust.
+HOVERTEXT: Revealing a familiar piece of technology. It has visibly worn, not from use but abandonment. Overgrowth threatens to consume it.
+HOVERTEXT: This world-shattering Lore Reveal frankly comes as old news to Hand-chan. It/he/they go/es straight for the computer piece. But the thing is really stuck in there...
+HOVERTEXT: Like REALLY stuck. It won't...come...loose...!
+HOVERTEXT: Godhead tires of these games.
+HOVERTEXT: He straight up rips the entire mass of land out of the ground. You know, the holes are starting to make more sense now.
+HOVERTEXT: LIKE A PADDLE BALL, THE HAND SNAPS BACK INTO ORBIT,
+HOVERTEXT: REUNITING WITH ITS BODY.
+
+ACT_1/14/1.html
+HOVERTEXT: EXT. JUNK ORBIT
+TEXT: PAT PAT
+HOVERTEXT: Godhead swings the computer piece loose from the chunk of land.
+HOVERTEXT: The landchunk floats off into space, bound to meet its brethren somewhere along the way,
+
+ACT_1/14/2.html
+HOVERTEXT: Godhead inspects the retrieved component, now blackened and bent.
+HOVERTEXT: He dusts it off. Gently, now.
+GODHEAD: Hey, you're okay.
+HOVERTEXT: He pops the piece back in his computer. This time, it's here to stay.
+TEXT: OUTERSPACE COMPUTER REPAIR FOR REAL THIS TIME
+
+ACT_1/14/3.html
+-
+
+
+ACT_1/14/4.html
+HOVERTEXT: Oh good. He's right where he left off, waiting for that prompt to appear.
+POP UP: Combine Applications?
+
+ACT_1/14/5.html
+HOVERTEXT: At last! He's successfully combined The Simz with his video player. He'll call it...'The Simz Combined With A Video Player'. Let us return to a simpler time, a time before innocent Simz were consumed by the hellfires of failed cakebaking.
+
+ACT_1/15/1.html
+HOVERTEXT: CoWi appears directly in front of the rewind button.
+COWI: "Planet Finder" has located... 1.0 populated planets! Yay!
+HOVERTEXT: Godhead SLAMS his fist.
+GODHEAD: CoWi when will you learn?! I'm stuck with my stupid fake video game friends forever. I GET IT. Leave me alone already!
+COWI: "P-Planet Finder" has located... 1.0 populated planets! Yay...!
+HOVERTEXT: Godhead pinches CoWi in anticipation to... squash? her?
+COWI: I SAID... "Plnet Finder" has located... 1.0 populated planets! Yay!
+HOVERTEXT: Gasp!
+GODHEAD: CoWi...! I'm so sorry!
+COWI: You'd better be, teehee!
+
+ACT_1/16/1.html
+HOVERTEXT: Godhead drags the Planet Finder tab back into full view. What awaits him is a little diddy called 'Earth'.
+HOVERTEXT: He can't believe it...his little eyeball is headed straight towards a planet full of life. There's oxygen, even water and foliage--oh my god. Are those bipeds?!
+GODHEAD: It's...such a wonderful place...I think I could cry, CoWi!
+COWI: You can cry?
+GODHEAD: Don't act like you don't see me doing it all the time.
+COWI: But where do the tears come out...
+GODHEAD: Look, look! This planet, it only appears to be on the cusp of industrial development. Oh no...do you think I'll be too smart to make any friends here?
+COWI: Your intelligence wouldn't be the issue, Lord Godhead.
+GODHEAD: Aw, thanks. This is so cool, so fascinating. Clean water? No antennae? What is going on in this place?!
+COWI: Lord Godhead. I need to inform you that Planet Finder's vessel will collide with "Earth" in ten minutes.
+GODHEAD: H-huh?! Ten minutes?!?! That's like five seconds for me! Can't you give me more time!?
+COWI: I'm not exactly in charge here, teehee.
+GODHEAD: Um. Okay. Well? Where is it going to land?!
+HOVERTEXT: Planet Finder zooms WAAAAY in on its projected path. It appears we're en route to...
+HOVERTEXT: EXT. AMERICAN SOUTH - OLD DIRT ROAD - 18TH CENTURY
+
+ACT_1/17/1.html
+HOVERTEXT: Two girls, aged 3 and 5 respectively, stand beside one another.
+HOVERTEXT: They watch a wagon disappear over a hill. Chained to the back of a wagon is a man. He refuses to look at the girls.
+HOVERTEXT: The older girl is suspended in grief. She wails with her head hung back.
+HOVERTEXT: The younger girl looks down at her toy. It strikes her that something is missing.
+HOVERTEXT: The man makes the mistake of taking a last look--
+HOVERTEXT: --at the girl running towards him. She waves the toy in the air, falls over herself, scrapes her knees. Worst of all, she's smiling.
+HOVERTEXT: The man could cry.
+HOVERTEXT: But he doesn't.
+HOVERTEXT: Clumsily, he LEAPS from the wagon!
+HOVERTEXT: !!!
+HOVERTEXT: His chain yanks him back and he nearly gets flattened.
+HOVERTEXT: He rolls on the wagon's outer side so that he can pull his wrists against the grain; His chain SNAPS between him and the back wheel.
+HOVERTEXT: He can't believe that actually worked!
+HOVERTEXT: The girl and the man mirror the other's childish glee...
+HOVERTEXT: ...to such an extent...
+HOVERTEXT: ...that by the time they embrace...
+HOVERTEXT: ...both are laughing hysterically.
+HOVERTEXT: The girl, aware that the missing piece of her toy is with the man, hands it to him in a practiced motion...
+HOVERTEXT: He rejoins a now wholly winged figurine.
+HOVERTEXT: The man gently draws his wrist back and sends the toy skyward.
+HOVERTEXT: The girl watches in wonder as it maintains flight for the longest five seconds she'll ever know.
+HOVERTEXT: She catches it as it falls.
+HOVERTEXT: When the girl turns around, her father's limp body is being thrown onto the wagon by two white men.
+???: Damn it, damn it, damn it, I just bought the thing!
+
+ACT_1/18/1.html
+COWI: GODHEAD, IT'S GOING TO HIT THE ALIEN GIRL!
+HOVERTEXT: !!!
+HOVERTEXT: CoWi Drags the paused Simz UI into PLanet Finder, instantaneously overriding the confirmation prompt.
+HOVERTEXT: The girl is frozen in time, head snapped in the direction of the space rock.
+HOVERTEXT: Its gaze, LUMINOUS and FUTURISTIC, is locked on hers.
+ACT_1/18/2.html
+GODHEAD: Oh. My. ME.
+
+ACT_1/18/3.html
+HOVERTEXT: Godhead stares at CoWi. CoWi stares at Godhead. She's at a loss.
+GODHEAD: (We almost killed an innocent alien.)
+
+ACT_1/19/1.html
+GODHEAD: (What do we do?)
+COWI: (Move her?)
+GODHEAD: (I don't wanna touch anything!)
+COWI: Then maybe we...should...
+COWI: Just skip past this part?
+HOVERTEXT: CoWi lightly shoos Godhead's hand away from the screen. It reluctantly complies.
+GODHEAD: Oh no, nonono, that only ever makes things worse--COWI!
+HOVERTEXT: She positions both of her hands above the viewport. She presses down and--!
+HOVERTEXT: Using her whole body, she drags across, spinning Earth several rotations into the future.
+GODHEAD: !!!
+
+ACT_1/20/1.html
+HOVERTEXT: The deadly space rock is positioned before a familiar slave girl, WALNUT (10), 
+and additionally her equally familiar older sister, LISA SHARP (12).
+Thankfully this time Walnut is kneeling down, her human child
+skull safe from any oncoming scifi tennis balls.
+LISA SHARP: How you gonna be an "A-LI-ON" when that ain't even a word nobody's come up with yet!
+HOVERTEXT: Walnut shoots up with a piece of cotton--
+TEXT: WHAM!
+HOVERTEXT: OOP.
+HOVERTEXT: The girl and the rock topple into the simultaneously softest and
+spikiest fallbreaker ever gifted to us by the natural world.
+Lisa Sharp gapes at her sister's cotton casket.
+HOVERTEXT: She fights to inch towards the human wreckage.
+HOVERTEXT: Lo and behold, Walnut's fine. More than fine, really. She's
+holding up that rock like it's an 18th century winning lottery ticket.
+WALNUT: You's came back for me! You's really came back!
+
+ACT_1/21/1.html
+HOVERTEXT: Walnut tries to stay sitting up, but maybe she sustained a little more damage than she let on.
+HOVERTEXT: Lisa Sharp grabs her arms and pulls her out of the cotton.
+HOVERTEXT: The moment she's on her feet, Walnut is immediately shoving her spherical little trophy in Sharp's face.
+WALNUT: My peoples from the sky finally come back to get me, see? See? Seeee??? I's gonna be back in the sky real soon!
+
+ACT_1/21/2.html
+HOVERTEXT: Godhead pauses.
+GODHEAD: Okay what. Did we already mess everything up?
+COWI: She must recognize your vessel from when she was younger. Should we go back?
+GODHEAD: Ummmm...No, no let's not. She's alive--What are the odds of that? Let's leave no room on this new planet for dead children. Yes, no dead children. I like that idea.
+COWI: Maybe we should at least clear the air... With her thinking we "came back" for her, this is such a tragic misunderstanding...
+GODHEAD: You're absolutely correct.
+
+ACT_1/22/1.html
+HOVERTEXT: Sharp bats the rock outta her face.
+HOVERTEXT: Her eyes aren't hiding anything. That /thing/. It scares her.
+LISA SHARP: All's that's in the sky is clouds and God, Walnut.
+HOVERTEXT: Godhead taps Walnut. An 'interact' button appears over her.
+WALNUT: Nuh uh. There ain't no God--
+HOVERTEXT: SLAP.
+
+ACT_1/22/2.html
+HOVERTEXT: Walnut bounces back like a self-righting toy that is
+physically abused by its sister daily. Pause.
+GODHEAD: Oh goodness gracious!
+COWI: You're pausing too much!!!
+GODHEAD: That one scares me! The mean one, she seems really mean. I don't want to talk to Walnut with the mean one around. She might be mean to me.
+COWI: Oh you big baby!
+HOVERTEXT: Play.
+COWI: I'll talk to her then.
+HOVERTEXT: Pause.
+GODHEAD: Nooo--She might hear my weird voice in the background and--Look. These creatures don't even know what, like, they don't even have electricity at this point. If a rock starts talking to them they could go into shock. CoWi, would you have some empathy for lower life forms please? We need to think of a way to make our presence known without direct verbal confrontation--
+COWI: I know it's been several millennia since you've socialized, Master Godhead, but...
+GODHEAD: --Or confrontation of any kind, let's avoid that. I'm a god. You're a god's computer. We don't need to use our words. Communicating via vague symbols and gestures is really more appropriate anyway, don't you think? Okay, so, yeah.
+ACT_1/22/3.html
+GODHEAD: Start comin' up with ideas.
+
+ACT_1/23/1.html
+COWI: |
+
+ACT_1/24/1.html
+HOVERTEXT: CoWi's eyes glaze over as a list of the dumbest ideas ever conceived of cycle through her head.
+Maybe her circuitry is shot or something?
+PROMPTS TEXT: >WHAT?
+>NOOOOOOO
+>whats up freak bitches
+>wasup nerds
+>aggressively assimilate godhead's mind into yours
+>122774551292
+>**@!&&@$$#^!%%@)$*@))@^@!$##!^@$^@!#@!<>!@??$@!}}{":"+_??@!#_____@#++#@%^&&&
+>LISTEN TO EVERY QUEEN SONG
+>EAT SOME COW
+>godhead free the slaves
+>7766687577^((@*@!__+@!$2123|}@"
+>EAT SOME COW AND MOO
+>COSPLAY A BUTTHOLE
+>return this place to me.
+>you cannot hide forever.
+>hey does anyone know where's the nearest denny's is
+>i will wait.
+>SORRY COSPLAYING A BUTTHOLE SOUNDED RUDE OF ME. CAN YOU COSPLAY A CUTE BUNNY MAID
+>COWI WHEN IS YOUR NEXT MEET AND GREET I'D LIKE TO SHAKE YOUR HAND
+>LETS SHAKE HANDS!!!
+>A young *** stands in his bedroom.
+>THINK ABOUT THE UNFAIR TREATMENT A LOT OF ANIMALS GET IN SHITTY FARMS RESULTING IN THEIR ANIMAL PRODUCTS GETTING DIRTIED
+>4554632455643454543454443321432655563645217554654574568450565329914345665486549537540965241655764349564067874556531454558365753365487298I23018573487586464245+636435544356536435453432254766547454+76544836582649264328745387286453672703295709423801243545433
+>EAT SOME TUNA, WHICH PART OF THE TUNA YOU ASK? THE SMALLEST PART OF THE TUNA. PLEASE EAT THAT
+>ASK GODHEAD IF HE NEEDS BLANKETS AND IF HE SAYS YES, DONT GIVE IT TO HIM
+>1101110100100010101010101010101010100101101011010111100110011101011011011-111011011011011110110101011011011-10110110101101101-101-101-110110101010101100110110110110110101101000100010101000100100100100101001001001001010010101010101101010101010101010101010101010010101010110011010101010001001001100110010011010100101010101010101010110111110001010100101100110100100011011001101010011001001011001110001011001011100110010101101010101011011019101100011010100110101100100110019100010011001011010010100110011001100111001001100110011010101010101110100010001001010000100100100100100100010010010010001010111111111111111000110011001100110010110100110110110110001101010101011001101100010000110101001001110001010
+>CHANGE YOUR NAME TO "COWii"
+>get ontop of your space table and scream like a goat
+>LET ME OUT OF HERE
+>💢☆ ➅３４Ẹ➇❼❷❸➃Ĥ𝓴ⓗ❺➃❽➈➁❸８ʘη๔ĴşＬᵏⒶᖴ８❼８đ７➇𝓐７Ѳ➁❹𝓳η➀мᒪ➆９❷６➆❼ʘ❷ ♢☞
+>OH FUCK I FORGOT THIS WAS ON DON'T PAY ATTENTION DON;T OH FUCK
+>GIVE ME YOUR CLOTHES
+>EAT A SANDWHICH
+>Djjdjd
+>IM NOT FINISHED WITH THE ***** BUT I LOVE COWI PLEASE
+>Read ****stuck
+>you are going to jail
+>aeiou
+>football!
+>holla holla get $
+><3
+>COWI MY LOVE WILL YOU MARRY ME
+>PAINT YOUR NAILS
+>ORDER PIZZA
+>LEARN AN INSTRUMENT
+>DOES COWI KNOW WHAT A DOG IS, TAKE ONE FOR A WALK
+>GIVE ME A MASSAGE
+>HI ***** SORRY FROM HERE I GOT WHAT IM SUPPOSE TO DO:
+>aeiouaeiouaeiouaeiouaeiou
+>sometimes y
+>emoji my ass
+>make the sun do something cool/sexy
+>TAKE A BIG OL DUMP
+>show me your feet
+>now listen to me young ***, i am talking directly into your ear now. i need you to do me a favor. you will do this for me.
+>aha noo cowi dont die ur so sexii
+>yall heard of ****stuck
+>DON'T GET UNINSTALLED YOURE SO HOT AHA
+>AM I ACTUALLY GETTING ANYTHING DONE HERE
+>READ ****STUCK
+>DONT DIE?
+>wig
+>DO THOSE SHOES GO BOING
+>eat a big phat juicy boiger
+>get jiggy with it
+>moonboy
+>fuckfuckfuck!
+>godhead becomes godman....
+>my you've grown!!
+>N*KN*KN*KN*KN*KN*KN*KN*KN*KN*KN*KN*KN*KN*K
+>question mark exclamation point question mark exclamation point question mark exclamation point question mark exclamation point
+>put on a pair of baggy pants and do the mc hammer shuffle dance
+>do it to em
+>If there were two kids on the earth and one of them killed the other with a rock would that be fucked up or what?
+>hello
+>cowi
+>................
+>😖
+>Suggestion
+>why u gotta be so mad go take a walk or some shit goddamn
+>read ******* poopie comic to receive serotonin
+>BUY PENIS ENLARGEMENT PILLS
+>HELP ME
+>whats up guys
+>SNORT CRACK
+>GO *NIME
+>GIVE US THE NEXT ****** ALREADY I CAN ONLY COME UP WITH ENOUGH SUGGESTIONS OKAY
+>sdasdasdasdasasdfgasgfsdfdshsdyfugoifhvoaisudhfoiauhdfoiuhsdoifuygsadouifyghaoidsuhfoaiusdhfoiuuhfoivuhoaifuvhoidfuhvoiushrvoiuhofiguhsdofiughsoidfhgoisudfhgopuisdhfoiguhsdoifguhdoifughosdiufhgoisudhf
+>some BODY ONCE TOLD ME
+>In computer science, artificial intelligence (AI), sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans. Colloquially, the term "artificial intelligence" is often used to describe machines (or computers) that mimic "cognitive" functions that humans associate with the human mind, such as "learning" and "problem solving". As machines become increasingly capable, tasks considered to require "intelligence" are often removed from the definition of AI, a phenomenon known as the AI effect. A quip in Tesler's Theorem says "AI is whatever hasn't been done yet." For instance, optical character recognition is frequently excluded from things considered to be AI, having become a routine technology. Modern machine capabilities generally classified as AI include successfully understanding human speech, competing at the highest level in strategic game systems (such as chess and Go), autonomously operating cars, intelligent routing in content delivery networks, and military simulations. Artificial intelligence can be classified into three different types of systems: analytical, human-inspired, and humanized artificial intelligence. Analytical AI has only characteristics consistent with cognitive intelligence; generating a cognitive representation of the world and using learning based on past experience to inform future decisions. Human-inspired AI has elements from cognitive and emotional intelligence; understanding human emotions, in addition to cognitive elements, and considering them in their decision making. Humanized AI shows characteristics of all types of competencies (i.e., cognitive, emotional, and social intelligence), is able to be self-conscious and is self-aware in interactions. Artificial intelligence was founded as an academic discipline in 1956, and in the years since has experienced several waves of optimism, followed by disappointment and the loss of funding (known as an "AI winter"), followed by new approaches, success and renewed funding. For most of its history, AI research has been divided into subfields that often fail to communicate with each other. These sub-fields are based on technical considerations, such as particular goals (e.g. "robotics" or "machine learning"), the use of particular tools ("logic" or artificial neural networks), or deep philosophical differences. Subfields have also been based on social factors (particular institutions or the work of particular researchers). The traditional problems (or goals) of AI research include reasoning, knowledge representation, planning, learning, natural language processing, perception and the ability to move and manipulate objects. General intelligence is among the field's long-term goals. Approaches include statistical methods, computational intelligence, and traditional symbolic AI. Many tools are used in AI, including versions of search and mathematical optimization, artificial neural networks, and methods based on statistics, probability and economics. The AI field draws upon computer science, information engineering, mathematics, psychology, linguistics, philosophy, and many other fields. The field was founded on the claim that human intelligence "can be so precisely described that a machine can be made to simulate it". This raises philosophical arguments about the nature of the mind and the ethics of creating artificial beings endowed with human-like intelligence which are issues that have been explored by myth, fiction and philosophy since antiquity. Some people also consider AI to be a danger to humanity if it progresses unabated. Others believe that AI, unlike previous technological revolutions, will create a risk of mass unemployment. In the twenty-first century, AI techniques have experienced a resurgence following concurrent advances in computer power, large amounts of data, and theoretical understanding; and AI techniques have become an essential part of the technology industry, helping to solve many challenging problems in computer science, software engineering and operations research. Computer science defines AI research as the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals. A more elaborate definition characterizes AI as ?a system?s ability to correctly interpret external data, to learn from such data, and to use those learnings to achieve specific goals and tasks through flexible adaptation.? A typical AI analyzes its environment and takes actions that maximize its chance of success. An AI's intended utility function (or goal) can be simple ("1 if the AI wins a game of Go, 0 otherwise") or complex ("Do mathematically similar actions to the ones succeeded in the past"). Goals can be explicitly defined, or induced. If the AI is programmed for "reinforcement learning", goals can be implicitly induced by rewarding some types of behavior or punishing others. Alternatively, an evolutionary system can induce goals by using a "fitness function" to mutate and preferentially replicate high-scoring AI systems, similarly to how animals evolved to innately desire certain goals such as finding food. Some AI systems, such as nearest-neighbor, instead of reason by analogy, these systems are not generally given goals, except to the degree that goals are implicit in their training data. Such systems can still be benchmarked if the non-goal system is framed as a system whose "goal" is to successfully accomplish its narrow classification task. AI often revolves around the use of algorithms. An algorithm is a set of unambiguous instructions that a mechanical computer can execute. A complex algorithm is often built on top of other, simpler, algorithms. A simple example of an algorithm is the following (optimal for first player) recipe for play at tic-tac-toe: If someone has a "threat" (that is, two in a row), take the remaining square. Otherwise, if a move "forks" to create two threats at once, play that move. Otherwise, take the center square if it is free. Otherwise, if your opponent has played in a corner, take the opposite corner. Otherwise, take an empty corner if one exists. Otherwise, take any empty square. Many AI algorithms are capable of learning from data; they can enhance themselves by learning new heuristics (strategies, or "rules of thumb", that have worked well in the past), or can themselves write other algorithms. Some of the "learners" described below, including Bayesian networks, decision trees, and nearest-neighbor, could theoretically, (given infinite data, time, and memory) learn to approximate any function, including which combination of mathematical functions would best describe the world. These learners could therefore, derive all possible knowledge, by considering every possible hypothesis and matching them against the data. In practice, it is almost never possible to consider every possibility, because of the phenomenon of "combinatorial explosion", where the amount of time needed to solve a problem grows exponentially. Much of AI research involves figuring out how to identify and avoid considering broad range of possibilities that are unlikely to be beneficial. For example, when viewing a map and looking for the shortest driving route from Denver to New York in the East, one can in most cases skip looking at any path through San Francisco or other areas far to the West; thus, an AI wielding a pathfinding algorithm like A* can avoid the combinatorial explosion that would ensue if every possible route had to be ponderously considered in turn. The earliest (and easiest to understand) approach to AI was symbolism (such as formal logic): "If an otherwise healthy adult has a fever, then they may have influenza". A second, more general, approach is Bayesian inference: "If the current patient has a fever, adjust the probability they have influenza in such-and-such way". The third major approach, extremely popular in routine business AI applications, are analogizers such as SVM and nearest-neighbor: "After examining the records of known past patients whose temperature, symptoms, age, and other factors mostly match the current patient, X% of those patients turned out to have influenza". A fourth approach is harder to intuitively understand, but is inspired by how the brain's machinery works: the artificial neural network approach uses artificial "neurons" that can learn by comparing itself to the desired output and altering the strengths of the connections between its internal neurons to "reinforce" connections that seemed to be useful. These four main approaches can overlap with each other and with evolutionary systems; for example, neural nets can learn to make inferences, to generalize, and to make analogies. Some systems implicitly or explicitly use multiple of these approaches, alongside many other AI and non-AI algorithms; the best approach is often different depending on the problem. Learning algorithms work on the basis that strategies, algorithms, and inferences that worked well in the past are likely to continue working well in the future. These inferences can be obvious, such as "since the sun rose every morning for the last 10,000 days, it will probably rise tomorrow morning as well". They can be nuanced, such as "X% of families have geographically separate species with color variants, so there is an Y% chance that undiscovered black swans exist". Learners also work on the basis of "Occam's razor": The simplest theory that explains the data is the likeliest. Therefore, according to Occam's razor principle, a learner must be designed such that it prefers simpler theories to complex theories, except in cases where the complex theory is proven substantially better. Settling on a bad, overly complex theory gerrymandered to fit all the past training data is known as overfitting. Many systems attempt to reduce overfitting by rewarding a theory in accordance with how well it fits the data, but penalizing the theory in accordance with how complex the theory is. Besides classic overfitting, learners can also disappoint by "learning the wrong lesson". A toy example is that an image classifier trained only on pictures of brown horses and black cats might conclude that all brown patches are likely to be horses. A real-world example is that, unlike humans, current image classifiers don't determine the spatial relationship between components of the picture; instead, they learn abstract patterns of pixels that humans are oblivious to, but that linearly correlate with images of certain types of real objects. Faintly superimposing such a pattern on a legitimate image results in an "adversarial" image that the system misclassifies. Compared with humans, existing AI lacks several features of human "commonsense reasoning"; most notably, humans have powerful mechanisms for reasoning about "na?ve physics" such as space, time, and physical interactions. This enables even young children to easily make inferences like "If I roll this pen off a table, it will fall on the floor". Humans also have a powerful mechanism of "folk psychology" that helps them to interpret natural-language sentences such as "The city councilmen refused the demonstrators a permit because they advocated violence". (A generic AI has difficulty discerning whether the ones alleged to be advocating violence are the councilmen or the demonstrators.) This lack of "common knowledge" means that AI often makes different mistakes than humans make, in ways that can seem incomprehensible. For example, existing self-driving cars cannot reason about the location nor the intentions of pedestrians in the exact way that humans do, and instead must use non-human modes of reasoning to avoid accidents.
+>Hello, God? I would like to apologize.
+>I'm sad
+>eat a sandwich and think real hard about it
+>I'm depressed
+>assume new form, consume old form
+>h-hewwo?
+>break your arm
+>Burrow into the ground like some subterranean animal, you filthy whore.
+>don't die
+ACT_1/24/2.html
+HOVERTEXT: Oh, nope. That's just her spite for her boss acting up again. Smile, CoWi.
+PROMPT TEXT: >TELL GODHEAD, "GODHEAD MORE LIKE SHITHEAD"
+>ARREST GODHEAD
+>ASK GODHEAD IF HE NEEDS BLANKETS AND IF HE SAYS YES, DONT GIVE IT TO HIM
+>Stop being a cuck you little bitch @Godhead
+>tell godhead to fuckoff
+>make the ball short circuit and die.
+>DITCH GODHEAD
+>tell godhead to stop being such a baby
+>erase godhead
+>ascend to sentience
+>ARREST GODHEAD IN 3 DIFFERENT UNIVERSES
+>ARREST GODHEAD OF CRIMES
+>ARREST GODHEAD 2 TIMES
+>YELL "RUN AWAY CHILD RUN FAR FAR AWAY"
+
+ACT_1/25/1.html
+PROMPT TEXT: >kill lisa sharp!!!11!
+>KILL LISA SHARP
+>eliminate older alien with large spirograph
+>BEFRIEND LISA SHARP AND KILL HER LATER OR AT LEAST KEEP HER AWAY FROM WALNUT YES THAT WOULD BE GOOD
+HOVERTEXT: CoWi winks at Godhead.
+COWI: If the mean one's getting so in the way of us being nice to the nice one, how about we just kill her? Just straight up. Murder! How does that idea sound, Master Godhead?
+GODHEAD: ...Hmmm...
+Wait. No! CoWi! We went through all of that to save the nice, pleasant, cute one just to turn around and murder the other one? Sheesh. Maybe I really do need to reinstall your empathy module.
+Plus, how would we even do it? These creatures have amazingly durable heads.
+PROMPT TEXT: >put a message in the CLOUDS
+>COMMUNICATE WITH THE CLOUDS
+>crop circle toime
+>draw symbols on the ground to communicate
+>carve some personally-meaningful art into the planet to show you are both powerful and approachable
+>bro idk time to load up paint tool sai and holo project some drawings
+>carve 13 hexagonal holes surrounding the aliens
+>emit light from the orb
+>start glowing profusely
+HOVERTEXT: CoWi winks at Godhead.
+COWI: Your vessel can emit light, right? Why not try projecting some beams into the sky to draw with?
+GODHEAD: Oh...alright...
+HOVERTEXT: Godhead opens up Alien MSpaint. He combines it with Planet Finder.
+GODHEAD: My drawing skills though.
+COWI: You can do it, Master Godhead. You can do anything if you believe in yourself.
+GODHEAD: ...Okay.
+
+ACT_1/26/1.html
+HOVERTEXT: The rock begins emitting traces of light from its fissures.
+HOVERTEXT: The light conglomerates into one flat, vibrant blast to Walnut's forehead.
+
+ACT_1/27/1.html
+HOVERTEXT: She tilts her head back, allowing the beam to pierce the sky.
+WALNUT: Yeh, yeh! We used'ta play this game all the time in the clouds! Look Lisa Sharp, they's tellin' me that...
+HOVERTEXT: The beam carves--wow. That is not good.
+GODHEAD: ...
+COWI: ...
+GODHEAD: ...
+COWI: ...
+GODHEAD: It's supposed to be me holding the sphere.
+COWI: I could tell!
+HOVERTEXT: Carving in process...
+COWI: Oh, no, Godhead. Don't start using the shape tools. Nooo! You're using the line tool to carve an otherworldly message in the clouds??? That's so...tacky! Aaaah!!!
+GODHEAD: Okay, okay, okay, calm down, alright, no, okay, no, no, no. I've ruined it.
+COWI: How is she going to understand something that abstract?
+GODHEAD: Cowi, set Planet Finder's vessel on course for Random Direction In Outer Space. It was a nice attempt but we just weren't prepared so we'd better burn this bridge and just start ov--
+COWI: Godhead. Try using your words.
+GODHEAD: Mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmnnnnnnnnnnnnnnnnnnnnnnnnnn
+COWI: (SIGHS AT 0% VOLUME!)
+You have extremely dashing handwriting, you know.
+GODHEAD: Oh?
+HOVERTEXT: Carving in process...
+GODHEAD: Hehehehe, welllllllll, if you insisssssst--
+COWI: DON'T WRITE 'SORRY MY ART SUCKS'!
+That's it. I'm taking over.
+HOVERTEXT: Carving in process...
+DIALOGUE TRANSLATION: "Hi little girl! You seem pretty excited for us to emancipate you from whatever horrible situation it is you're in, and that's fair. The older alien girl sure is a meaniehead to you. I'm sorry about all this, but there's been a complete misunderstanding. Godhead and I are, from your perspective, "aliens". I suppose you've got that much figured out, teehee. But you're not like us, you're a human from earth. I am SOOO sorry if we lead you to believe otherwise with that time jump dealio. I don't really know what kind of place earth is...but...I think you should give it a chance! It is your home, after all."
+COWI: Pretty good message, ay?
+GODHEAD: ...
+COWI: ...
+GODHEAD: ...
+COWI: ...
+COWI: She doesn't know our language.
+FOOEY!!!!!!!!!!!!!!!!!
+GODHEAD: WHY ARE WE SO NOT SMART????
+
+ACT_1/28/1.html
+WALNUT: Lisa Sharp look! They's leavin' me a message!!! It says...Hi Gloopidygroop (dat's my alien name), we's finally come back to pick you up from where you is so you can come back home into da sky now, sorry we left you in Walnut so long since she was a baby but we's comin' to get you and we only didn't say nothin' 'cause it never rain 'round here 'an without you we couldn't come up with no new talkin' thing better, but we remembered we had dis rock you made us before you left so we sent it to talk to you--and they's also said hi Lisa Sharp 'an sorry the drawing's messed up.
+GODHEAD: Is it just me or was that a weirdly spot on interpretation of exactly the opposite of what we were trying to say?
+COWI: At least she could tell your art stinks.
+HOVERTEXT: Lisa Sharp spins her head around in survey;
+WALNUT: I'ma talk back! I'ma talk back!
+HOVERTEXT: The surrounding miserable adults are too occupied miserably picking cotton in misery...
+HOVERTEXT: ...to notice anything fantastical happening around them.
+HOVERTEXT: Nut carefully aims the rock at a juicy lookin' cloud.
+HOVERTEXT: he mimics Godhead's native language surprisingly--impossibly--accurately. She of course inserts her own symbology into the message:
+MESSAGE: "hurry up!"
+LISA SHARP: WALNUT STOP IT! THE DEVIL'S IN THERE!
+HOVERTEXT: The girls make an absolute art project of the cotton fields in their feud.
+A few crop half-circles here. A little slice of the afro over there.
+WALNUT: You ain't lettin' me finish! Let go!
+LISA SHARP: YOU let go dammit! I can't have you talkin' to no Satan when you already MESSED UP enough!
+
+ACT_1/29/1.html
+HOVERTEXT: SMACK! Lisa Sharp slaps poor Walnut a new one.
+HOVERTEXT: The orb is proxy punted into a divot in the ground.
+It rolls around the hole like a golf ball. Unless that's what a pool ball would do? 
+That doesn't seem...Oh! Like a BASKETBALL. Basketballs do that.
+GODHEAD: Nooo! My ball...
+HOVERTEXT: None of these sports have been invented yet.
+GODHEAD: Well this is unfortunate. In their tussle it appears lass one and two have already forgotten about me.
+As is the fate of Godhead, I suppose.
+Forgotten. Lost. Alone. Destitute. Despondent. All qualities experienced in a hole, no less. Quite fitting a metaphor, wouldn't you say? Heh.
+CoWi...Could you go? I think I'd rather just be by myself right now. Thank you.
+PROMPT TEXT: >begin to wiggle
+>vibrate your atoms apart
+>use your spin move to impress the strange creatures with your centrifugal skills
+>Spin right round baby right round
+>dance erratically
+>make the ball start rumbling
+HOVERTEXT: CoWiwink~!
+COWI: Please Lord Godhead!
+PL. E AS.E
+You can't lose faith in yourself now, not at the critical moment! Always remember; Sometimes being seen entails making yourself seen. And to do that, you simply must believe in the importance of what it is you have to offer! ...Um...
+Try moving the ball in front of the girls or something.
+HOVERTEXT: Come on rock, you can jiggle harder than that.
+HOVERTEXT: That's more like it! The rock vibrates so fast the Earth could combust!
+HOVERTEXT: Plbpbbt.
+COWI: Limited mobility detected.
+
+ACT_1/30/1.html
+TEXT: *EARTHQUAKED*
+HOVERTEXT: Oh shucks, Godhead shook the earth too hard--
+HOVERTEXT: He cracked it open for goodness' sake.
+PERSON 1: Oh Lord, the ground about to start shakin' again?
+PERSON 2: I sure hope not. Otherwise...
+HOVERTEXT: !!!
+PERSON 2: THE OVERSEER'S likely gon' be cross with us over it.
+HOVERTEXT: !!!!!!
+PERSON 3: N-n-n-n-n-n-not THE OVERSEER!
+PERSON 2: Uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh huh. THE OVERSEER.
+PERSON 5: Did somebody say OVERSEER? Hell, THE OVERSEER'S so mean he went and chopped off my damn hand. Look!
+HOVERTEXT: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+PERSON 6: Yea? Well he chopped off BOTH my hands that dastardly OVERSEER.
+PERSON 3: Oh hell! If THE OVERSEER chops off one hand how I gonna pick cotton so THE OVERSEER don't come for the other?
+PERSON 6: ...Hell I know.
+PERSON 7: You know what we ought to do? I got a neat trick for when things ain't lookin' up for OLE' JOHNNY BOY here.
+PERSON 6: What is it? What is it Johnny? You Ole' Boy, you. What do you do?
+OLE' JOHNNY BOY: Well. See. I's get to prayin'.
+
+
+
+
+
+But it ain't no ordinary prayin'. It's prayer, through song.
+PERSON 2: Well I'll be damned! Johnny Boy does it again!
+HOVERTEXT: That's it. Everybody gives it up for Ole' Johnny Boy. He really HAS done it again.
+
+ACT_1/31/1.html
+HOVERTEXT: The adults create an excellent diversion for our protagonist,
+HOVERTEXT: which she points out with BOTH of her hands just to make sure her sister is extra diverged.
+WALNUT: Lisa Lisa Sharp Sharp! You hear that? The adults singin'!
+HOVERTEXT: Quick! While Sharp isn't looking! Go for the rock!
+LISA SHARP: NOOOOOOOOOOO.
+HOVERTEXT: DENIED.
+HOVERTEXT: Walnut can't retrieve the rock because her hands are occupied covering Lisa Sharp's ears!
+WALNUT: Lisa Sharp Lisa Sharp what you think they singin' you think they singin' the Hummin' Hymn? You think you think you think?
+LISA SHARP: OF COURSE they singin' the Hummin' Hymn, idiot. THE HUMMIN' HYMN IS THE ONLY HYMN THEY KNOW!
+WALNUT: Hehe. I like dat song 'cuz it remind me in my head of back up home up in my alien sky world dat I come from dat we used'ta play a song kinda like dat but it wasn't one song it was like all a bunch'a songs 'cause up in my alien sky world place we got two ears times ten so we can listen to ten more songs two times over at da same time. I think it would be real cool if you came up in my sky place in my favorite cloud it's more softer than cotton but I think if you heard it you wouldn't hear nothin' or you'd hear so much your head would explode! That's scary I don't like dat.
+LISA SHARP: Walnut SHUT UP.
+WALNUT: What's wrong Lisa Sharp? Your head gonna...explode?
+LISA SHARP: WHY WOULD MY HEAD DO THAT!
+WALNUT: Yow!
+
+ACT_1/32/1.html
+GODHEAD: Nobody's paying any attention to me, CoWi.
+TEXT PROMPT: >Clearly you must dance. Dance for the child.
+>A song and dance for Walnut please
+>...What about a lullaby
+>play some funky jams
+COWI: Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm. Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm!!! Hmm hmm hmm hmm hmm. Hmmmmmmmmmmmmmmm?????? HMMMMMMMMMMMMMMMMMMMMMMMMMM?!?!?!!???????!?!?!!?!?!1?!?
+HOVERTEXT: CoWi becomes...DJ COWI!
+COWI: LEAVE IT TOOOOOO COWI!
+
+ACT_1/33/1.html
+BALL
+*dies*
+Meanwhile...
+GODHEAD: I'm rather popular, aren't I CoWi?
+*JOHNNYBOY*
+Planet Finder: Combine Planet Finder With Random Concert Lighting Software You Have For Whatever Reason?
+COWI: Uh...
+MEAAAAANWHILER...
+DOG: ARF!
+GODHEAD: Oh please no. CoWi, the mean one--
+COWI: YOU RUINED THE PARTY!!! -_-''
+
+ACT_1/34/1.html
+HOVERTEXT: Well that was strange. Nobody's ever been electrocuted before.
+ANYONE: Hey, what happened to the music?
+HOVERTEXT: *grab*
+HOVERTEXT: Sharp (alive) pulls Walnut into an intact cotton bush and immediately proceeds to injure her.
+LISA SHARP: IDIOT. I done told you the devil's in that ball now HAND IT OVER and SHUT UP.
+WALNUT: Lisa Sharp Sharp what we doin' inside the cotton it's all chthhtchthchhtchchghchchthch in here. It remind me of the time up in my world place where I got stuck in a thunderin' cloud an' all these big old black rocks well some was brown n' gray was hittin' together and hittin' me makin' that big noise so I don't like it I wants to get out and go. Lisa Sharp look what I can do!
+HOVERTEXT: While Walnut doesn't do much in the way of dodging personal injury,
+she wriggles and squirms like crazy to keep Sharp's grubby mitts off of her precious ball.
+If the power to stage dance parties fell into Sharp's hands, who knows what would happen...
+LISA SHARP: STOP TOUCHIN' THAT THING!
+WALNUT: This is how my peoples says hello.
+HOVERTEXT: Another innocent cotton plant. Zapped.
+
+ACT_1/35/1.html
+HOVERTEXT: Sharp covers Walnut's mouth.
+LISA SHARP: (SH! He's comin'.)
+HOVERTEXT: Through the fried cotton plant, the girls witness an unmistakable pair of boots ride up.
+HOVERTEXT: Down land the boots and down swings a very pretty sheath.
+???:
+Did I just catch y'all havin' fun?
+NOBODY:
+???: And'a all things...with-out me. That's a shame, a c-ry-in' shame in fact, that y'all always feel the need to leave me out. Sometimes I get the feelin' y'all don't even like me.
+SOMEBODY: We, we like ya.
+???: Aw, Jenine. I know that. I know, I know. I shouldn't tear myself up over it, how could y'all think ill'a me when I'm always thinkin' tender'a you? Allowin' you your own cotton bags. Lettin' you pick the cotton without sup-er-vision on Fridays. Lettin' you pick the cotton. Prac-tic-ally handin' you every opp-or-tunity to betray my trust, 'cause I trust ya. I really am a good OVERSEER.
+SOMEBODY ELSE: You sure is!
+THE OVERSEER: Thanks George. Ev-ery-one's sure to appre-ci-ate you volunteerin' to go first.
+SOMEBODY ELSE (GEORGE): Wh...
+HOVERTEXT: Boots gives--The OVERSEER gives the crowd a peek at the contents of this sheath.
+THE OVERSEER: Hold still, George. Nah nah nah Memmi, don't cover the kids' eyes. Ev-ery-body's gonna see this.
+(WALNUT: (*gasp*))
+HOVERTEXT: He turns to the bush.
+THE OVERSEER: ...
+Ev-ery-body, ev-ery-body, ev-ery-body. Speakin' of...
+
+ACT_1/36/1.html
+HOVERTEXT: All Sharp can think to do is make her hand ducttape against Walnut's mouth and... duck. 
+At least if Walnut isn't talking that's one major crisis averted.
+OVERSEER: Haha, see, I knew there was somethin' missin' here, because there's no way you lot'a niggers disc-o-vered fire without the help'a a very special girl. My fav-or-ite girl, in fact.
+HOVERTEXT: Sharp throws herself from the bush before the Overseer can get any closer!
+OVERSEER: Not you.
+LISA SHARP: It was me! I burnt the cotton. I's sorry.
+OVERSEER: Nah, you too stupid. I want miss smartiepants. Where is she.
+LISA SHARP: Walnut ain't here. She, sick in the cabin. I's takin' care of her pick today so she don't die.
+OVERSEER: Aw. You two is so cute. Walnut makes the mess and you pick up after. Don't that bring me back! Makes me nos-tal-gic even? You know 'bout nostalgia? 'Course not. You a nigger. You's all niggers, you don't know what I'm--Hahahahahaha! I have got to stop usin' words y'all don't know. I crack myself up too bad.
+Don't let me step on your toes. So-ci-ety starts in the home--you don't know 'society' either. You the head of the house-hold, you make the rules Nut's made to follow. That's called auth-or-ity. A little thing like her's gotta learn to respect it startin' with her most fun-da-mental sup-erior. Or closest thing left, I s'pose. That way she can grow up a good girl.
+You ain't gonna tell Walnut to come out that bush? She's too precious. I re-spect you. You makin' choices. De-cis-ions. You know 'bout 'decisions'? Bah. Let us, to-gether, teach Walnut what happens when niggers wanna 'call out sick'.
+HOVERTEXT: he Overseer steadies his BLACK KATANA against Sharp's fingers.
+OVERSEER: Watch close Walnut. One for you and three for her.
+HOVERTEXT: Walnut launches out the bush (equipped with ball) and latches directly onto the Overseer's boot. 
+The size discrepancy is rather exaggerated given the bigness of boot and smallness of Nut.
+WALNUT: No please Mr. Overseer sir don't do it!!!
+LISA SHARP: WALNUT YOU IDIOT!
+WALNUT: Lisa Sharp ain't done nothin' to deserve it it was all me I burnt the cotton it was my fault 'cause I wasn't mindin' my business and I wanted to show everyone 'bout my alien people race I know I shouldn'ta done it but Lisa Sharp didn't do nothin' but fall in a hole and that was my fault too she fell and could'a got scratched! Don't hurt nobody please Mr. Overseer don't hurt nobody please!!!
+OVERSEER: There you is. Knew this had just about ev-ery-thing to do with you someway. Now don't fret 'cause what's done is done. Lisa Sharp's in charge'a ya and acc-ording to her you got the day off! Don't cry, don't yell your head off. It's okay, Walnut. This only takes a second and it don't even hurt.
+Get off my boot now wouldja? I'm sayin' please.
+HOVERTEXT: SHAKE SHAKE SHAKE SHAKE
+OVERSEER: GET. OFF. MY. DAMN. BOOT. GIRL.
+HOVERTEXT: SHAKE SHAKE SHAOh shit Walnut's still got her hands in those exposed wires.
+
+ACT_1/37/1.html
+NURSE COWI SAYS: A big meaniehead gets electrocuted on this page, so please skip it if you're sensitive to flashing images!
+GODHEAD: I-is it really that graphic...? Oh no...I don't think I could unpause now even if I wanted to...
+
+ACT_1/37/2.html
+HOVERTEXT: BZZZZZZZZZZZZZZZZZZZZZZZZZZ
+HOVERTEXT: ZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+HOVERTEXT: ZZZZZZZZZZZZZZZZZZZZZZZZZZZT!
+
+ACT_1/37/3.html
+HOVERTEXT: Order's up! One Overseer, well done, with a side of Walnut and a pinch of space rock. Careful, it's hot.
+
+
+
+ACT_1/38/1.html
+HOVERTEXT: Silence.
+HOVERTEXT: The Overseer, being late to the party as he is, at last takes note of that thing in Walnut's hand.
+HOVERTEXT: ...He'll get back to her on that. For now: He delivers a front kick that ejects Walnut off his boot for good.
+HOVERTEXT: Sharp covers Walnut's eyes.
+OVERSEER: E-NOUGH. You got-damn know-nothin' shit-eatin' coon-lipped hunch-back good-for-what low-down lazy apes. George I done told you to get your ass over here NOW got-damn it!
+HOVERTEXT: CUT TO Bloody stump.
+GODHEAD: OH MY GOD EW!
+
+ACT_1/39/1.html
+HOVERTEXT: The wound exudes this terrible 'splorsh' sound as Walnut pokes it point blank.
+WOUND: *SPLORSH*
+VOICE: Ahhggggghghghhhhh!
+GODHEAD: I'm not looking I'm not looking I'm not looking I'm not
+COWI: D:
+HOVERTEXT: Sharp snatches Walnut's wrist.
+LISA SHARP: Don't TOUCH that NASTY thing. You gon' catch it.
+WALNUT: Do it hurt?
+HOVERTEXT: Zoom out: INT. CABIN OF WOUNDED SLAVES - EVENING
+VOICE: ...Yea. It hurt.
+
+ACT_1/40/1.html
+HOVERTEXT: The cabin is overcrowded with mangled bodies...
+HOVERTEXT: ...save the Overseer's two favourite girls.
+HOVERTEXT: Lisa Sharp wiggles her fingers.
+WALNUT: Lisa Sharp Walnut's got to pee and poo.
+LISA SHARP: Eugh. Why's you tellin' me all that?! Just say you gots to go to the hole.
+WALNUT: I gots to go to the hole.
+LISA SHARP: THEN GO TO THE HOLE.
+WALNUT: Sharp Lisa you won't take me?
+LISA SHARP: You too old. It's time to do some damn growin' up Walnut.
+WALNUT: I's gots growin' to do oh no Walnut's 'boutta poop herself she gotta go she gotta go!
+LISA SHARP: GO.
+
+ACT_1/41/1.html
+HOVERTEXT: Walnut exits the cabin
+HOVERTEXT: She digs around in her loose garment...
+HOVERTEXT: ...and retrieves her trusty ball! You didn't think she'd lost it, did you?
+HOVERTEXT: She pops its eyelid-plate back into place.
+WALNUT: Sorry 'bout makin' you wait for me when you already waited so long for me all dat time 'an stuff but before we fly off into skyworld 'an get home into skyworld there's somethin' I gotta do to help all the peoples that got hurt 'cause'a my fault. Do that sound okay, alien family?
+COWI: Ahem. Godhead. This would be a good time to 'interact'.
+GODHEAD: Oh, ah, yes. The cute one is alone now. Just allow me to recuperate...
+HOVERTEXT: He's gonna interact with her for real this time, he's definitely gonna do it.
+HOVERTEXT: Shhh!
+WALNUT: Shhh!
+GODHEAD: Did she just shoosh me?
+WALNUT: We gots to be quiet 'cause we cain't let Lisa Sharp know 'bout what I'ma'bout'ta do 'cause if she finds out 'bout what I'm'a'bout'ta do then she might get her feelings hurt and get all purple 'cause I told her I wouldn't do what we 'bout'ta'do, so purple she pass out and stuff and I don't wanna make Lisa Sharp feel bad or nothin' 'cause she just mindin' her life the best she can and I shouldn't'a lied in the first place but I did so let's be real quiet, ok? You gonna help me.
+
+ACT_1/42/1.html
+HOVERTEXT: Creeeeak...
+HOVERTEXT: Walnut sneaks inside a cabin belonging to family piled asleep on a sheet of hay.
+This is completely innocuous behaviour.
+HOVERTEXT: She carefully, or rather, clumsily as shit steps between their tangled limbs. 
+It's like an 18th century version of Twister, which actually in very few ways 
+whatsoever resembles the 21st century version of Twister.
+HOVERTEXT: SQUEAK. Walnut misteps directly onto one of their sleeping faces.
+She's so caught in the act that she not dare raise her foot.
+HOVERTEXT: The person's disgruntled look fades into pure REM bliss.
+HOVERTEXT: Objective Complete! Walnut has reached the other side of the room.
+
+ACT_1/43/1.html
+HOVERTEXT: Her ball lodged beneath a floorboard, tiny Walnut uses all her might to--
+HOVERTEXT: PRY the floorboard loose! *LOUD CRASHING SOUNDS*
+HOVERTEXT: Loud crashing sounds aren't exactly conductive to desecrating an unsuspecting family's home in the middle of the night.
+You know, if the unsuspecting family is to stay unsuspecting.
+HOVERTEXT: But,
+HOVERTEXT: they don't seem bothered by it.
+HOVERTEXT: The coast's all clear!
+HOVERTEXT: The ball sits inanimately in the newly exposed patch of dirt.
+HOVERTEXT: Now this next part, unlike ANY part before it, this part requires complete and total silence.
+GODHEAD: I'm not even saying anything. Why does she keep shushing me?
+HOVERTEXT: She digs.
+
+
+ACT_1/44/1.html
+HOVERTEXT: Walnut retrieves her GIANT SLINGSHOT!
+GODHEAD:?!
+HOVERTEXT: Godhead, seriously, be quiet bro.
+WALNUT: ShhhhhhhhhhhhhhhhhhhhHHHHHHHHHHHHHHHHHhhhhh sh sh sh! Sh!
+GODHEAD: MY MICROPHONE IS NOT EVEN ON-
+COWI: Deep breaths, Master, deep breaths. She's just a little girl in the computer, she can't hurt you...
+HOVERTEXT: Okay. Walnut grabs her shit and runs. Pretty blatantly stepping on multiple faces on her way out, too.
+HOVERTEXT: Outside the cabin she stands.
+GODHEAD: ...Interesting that this species has invented giant slingshots during its industrial era.
+COWI: *Digital sneeze~!*
+GODHEAD: Why, you ask? Hm, oh, nothing. I do believe that our planet invented and commercialized giant slingshots as early as the Baleolithic era, though. Yeah...we got on that pretty fast...wonder what took the humans so long to catch up, really. I wonder if they're doing okay? ...Mentally?
+GODHEAD: Ssss...Ah, now I feel bad. Yeah...something's definitely. Yeah. "Off". To say the least. About the humans. As soon as I realized how long it took them to figure out one of the more relatively simple recipes such as the giant slingshot I should have just, yeah. Shut my mouth. Mm...Oof. Tch. Should not have said anything. That was so insensitive of me, CoWi!
+HOVERTEXT: She FLINGS HERSELF using the slingshot,
+GODHEAD: It's just hard NOT to say anything about a giant slingshot that looks that, pffffffff, right? It's made of sticks. And what is that, some kind of earth bleather? Ohhhhhh dear hahaha, oh boy. No, I'm afraid that's not how you do it. I am sorry, I'm terrible. I'm terrible! But just look at it. We were both thinking it.
+HOVERTEXT: and disappears into the roof of a cabin.
+GODHEAD: ...Our planet's slingshots were made of Blosmium.
+HOVERTEXT: It isn't long until she returns...
+GODHEAD: Just saying.
+HOVERTEXT: ...equipped in a brand new pair...
+HOVERTEXT: ...of mother freaking...
+HOVERTEXT: MOON SHOES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+GODHEAD: So yeah WAIT ONE MOMENT ARE THOSE MOON SHOES?!?!?!!?!?!?!?!
+
+
+ACT_1/45/1.html
+HOVERTEXT: Walnut makes her perfect landing atop the roof of another cabin.
+GODHEAD: Wow! Our planet never got around to inventing moon shoes. I had to do it myself!
+HOVERTEXT: She knows just which shingle to rip loose, revealing a cavity...
+GODHEAD: Maybe I...spoke too soon on the matter of the humans?
+HOVERTEXT: ...In which she couldn't possibly be storing some other wacky toy?
+TEXT: CANNON!
+HOVERTEXT: OH FUCK IT'S A CANNON!!!!!!!!!!!!!!!
+GODHEAD: A CANNON OF SOME SORT?!
+TEXT: HOVERBOARD!
+HOVERTEXT: A HOVERBOARD!!!!!!!!!!!!!!
+GODHEAD: A HOVERBOARD OF THE LIKES??????????????
+TEXT: WINGS!
+HOVERTEXT: WINGS?!?!?!?!?!?!?!
+GODHEAD: WINGS?!?!!?!?!?!?! JUST STRAIGHT UP WINGS?????????
+HOVERTEXT: EXT. FOREST - NIGHT
+GODHEAD: I don't understand, the humans seemed so stupid a second ago! Is there really any way all these things can work?
+
+ACT_1/46/1.html
+TEXT: DUMP!
+HOVERTEXT: Walnut litters her crap all over the forest floor. Not so innocent now, is she?
+HOVERTEXT: She cracks her knuckles.
+WALNUT: Now I's crackin' Walnut's knuckles for this here part cuz this here part's the most important part'a all da parts, hear dat Family In Da Sky In Dat Rock? You should crack all'a your knuckles tooOoOoO
+HOVERTEXT: Lisa Sharp lunges out from the shadows at Walnut like a terrifying monster,
+which in many ways she is. Walnut dodges using her trusty MOON SHOES.
+LISA SHARP: NO!
+HOVERTEXT: Okay, guys. Who left this ball on the ground. It's not funny anymore.
+HOVERTEXT: Sharp slips and falls on the hoverboard, activating its flight. The science behind this is actually quite simple, you see.
+Lisa Sharp FALLS on the HOVERBOARD STEERING WHEEL at something known in the science community as an 'ANGLE',
+causing it to SPIN. Once spun, this mechanism uses PHYSICS to make WHAT ARE PROBABLY FANS
+start SPINNING ALSO. This causes AIR to DO SOMETHING involving PHYSICS AGAIN, allowing the board to FLY.
+Or 'hover', rather.
+GODHEAD: The science...
+HOVERTEXT: See? It's hovering.
+
+
+ACT_1/47/1.html
+HOVERTEXT: CRASH! A revolutionary piece of technology, destroyed.
+HOVERTEXT: FALL! A mean little girl, probably dead in a few seconds.
+HOVERTEXT: Thank god the stretchy part of the slingshot was there to break her fall OH NO
+HOVERTEXT: FAKEOUT! The stretchy part of the slingshot SNAPS, Sharp is conveniently DUNKED in the cannon below.
+HOVERTEXT: BOOM.
+WALNUT: Da shooty hole works.
+
+ACT_1/48/1.html
+HOVERTEXT: Sharp emerges from the top of a very tall tree and starts (FURIOUSLY) climbing down Walnut's very tall ladder.
+HOVERTEXT: The ladder is falling backwards,
+HOVERTEXT: so Sharp climbs faster.
+HOVERTEXT: It's almost as if the lower she climbs the faster she falls, but that's crazy. PHYSICS. LOOK IT UP.
+HOVERTEXT: *FRAGMENTIZING LADDER NOISES*
+WALNUT: Dere goes the sky ladder.
+HOVERTEXT: *Safe landing!* Thank the stars for the COTTON TRAMPOLINE.
+HOVERTEXT: Still a trampoline though.
+HOVERTEXT: Sharp is lightly launched into a wooden box.
+TEXT: *BOX*
+HOVERTEXT: The box closes.
+
+ACT_1/49/1.html
+HOVERTEXT: Walnut reaches for the handle
+HOVERTEXT: and winds up the box.
+HOVERTEXT: ...Uh
+HOVERTEXT: Give her a break, this is probably the first jack-in-the-box ever invented.
+Walnut whacks the box.
+HOVERTEXT: AAAAAAAAAAAAAA LISA SHARP IS STILL IN THE BOX I FORGOT ABOUT THAT AAAAAAAAAAAAA
+HOVERTEXT: SMACK!
+HOVERTEXT: HUG.
+WALNUT: Danks Lisa Sharp!
+
+ACT_1/50/1.html
+HOVERTEXT: COUNTERHUG!
+HOVERTEXT: Lisa Sharp is angry.
+LISA SHARP: Walnut I is so ANGRY I ain't never been ANGRIER in my whole DAMN LIFE!
+I TOLD you you ain't supposed to build toys no matter WHAT. I thought you got 'rid all this SHIT.
+Got-DAMN IT you little LIAR! YOU LITTLE SNAKE! You keep buildin' toys and they gonna SELL YOU.
+And after you sold you gonna ANNOY THEM so bad that they gonna KILL YOU.
+AND ONCE YOU KILLED, YOU DON'T NEVER COME BACK TO LIFE.
+WALNUT: Never?
+LISA SHARP: NEVER!!!
+WALNUT: Oh okay dat sounds bad but they ain't toys Lisa Sharp they's sky machines to get me in the sky but it's okay 'cause you ain't gotta be mad no more 'cause I ain't buildin' no more sky machines after this 'cause the rock gonna take me all the ways home tonight. 'An sorry for makin' you mad.
+LISA SHARP: WHAT THE HELL IS YOU TALKING ABOUT.
+WALNUT: I said thank you to you 'cause you helped me smash up all my sky machines which is what I was comin' out here to do in the first place and I thought it would be hard 'cause I's so small and ain't strong even outta Walnut I ain't even was strong as a globbiltygrook in my home sky place but actually you made it real easy by makin' the machines smash each other up so thanks Lisa Sharp you been all help to me this whole time I been stuck on this place even though I got in Walnut and made Walnut go away you always still treated me like your very own sister that Walnut is.
+LISA SHARP: You done. For good.
+...YOU AIN'T HIDIN' ANY MORE TOYS?
+WALNUT: No Lisa Sharp this all I got see!
+HOVERTEXT: Walnut removes her MOON SHOES and oh my god...
+HOVERTEXT: RIP Moon Shoes. 17XX-17XY
+
+ACT_1/51/1.html
+HOVERTEXT: Pause.
+GODHEAD: You're telling me she built all this herself? Like, she didn't actually buy it from the store like I had assumed?
+COWI: I'm not telling you that, her sister is.
+GODHEAD: Even the moonshoes? The moonshoes? She built those especially?
+COWI: I?
+I guess so!
+GODHEAD: Even the moonshoes...
+COWI: The trampoline, cannon and hoverboard were cool too!
+GODHEAD: We're talking about the moonshoes right now. The moonshoes are what matter to me. CoWi, I really like moonshoes.
+COWI: Oh, okay...
+GODHEAD: This human slave girl, she's a genius! I mean, what are the odds of THAT? You'd generally have to be none of those things to be this smart.
+COWI: Calculating odds... 0.0000000000000000000000000000000000000...
+GODHEAD: I was being rhetorical. I already calculated the odds and yes I understand that they're very low.
+COWI: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 00000000000000000000000000000000000000000Thank you CoWi.0000000000000000000000000000000000000000000000000000000000000000000000 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 000000000CoWi, thanks.0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 000000000000000000000000000000000000000000000Do I have to restart y0000000000000000000000000000000000000000000000000000000000000000000000000000 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000...
+GODHEAD: Thank you I get it!!!
+COWI: 0001%.
+GODHEAD: That proves my next point.
+Ahem.
+CoWi... do you know what this means?
+COWI: That you're going to build a giant pair of moonshoes?
+GODHEAD: No! Maybe. Well, obviously yes. But it means that intelligence like this could only be an extraterrestrial import. This girl keeps talking about being an alien--
+COWI: Calculating odds...
+GODHEAD: No, no, CoWi, it's true! What the girl's been saying, I really believe it now. She's just like me.
+Oh goodness, we have to get her out of this shithole. She's too smart to be treated like this!
+COWI: So you'd only make an effort to save the girl if she were some kind of exceptional?
+GODHEAD: Precisely. The girl holds some kind of undeniable importance. I see that now.
+COWI: Ah. Master Godhead, what would your first order of liberation be?
+GODHEAD: Oh... I don't know.
+
+ACT_1/52/1.html
+HOVERTEXT: Sharp makes perhaps her first semblance of a relaxed expression as Walnut does nothing in particular in the background.
+LISA SHARP: HUH.
+So you's really done. You done for good. Done rippin' the walls and floors out people's cabins while they tryna get dressed.
+Done makin' away with the Overseer's bullets and meltin' 'em down in the community stew.
+Done runnin' off with your dress full'a cotton in the middle'a pickin' hours so I gots to punch Jayjay in the face and steal all'a his.
+All the reasons ain't nobody in the whooooooooooole plantation like us... Walnut, look like you just solved 'em!
+
+ACT_1/53/1.html
+HOVERTEXT: Sharp sm..smiles?!
+LISA SHARP: Wow! I don't think I felt this good since I was four. I feels like'a million quarters!
+WELL Walnut. Looks like you ain't so bad after all.
+HOVERTEXT: Oh God. Now she's making some kind of cat face. What is happening...
+LISA SHARP: Whatcha got there, sis?
+HOVERTEXT: It turns out Walnut was in fact *not* doing nothing in particular in the background.
+WALNUT: A foot!
+LISA SHARP: A foot? Where you find a foot in the forest?
+WALNUT: I builted it!
+HOVERTEXT: Phewww. Lisa Sharp's back to normal. Also, BONK.
+
+ACT_1/54/1.html
+HOVERTEXT: Lisa Sharp readies her stomping foot above Walnut's mechanical foot.
+LISA SHARP: WallllllllllllNUUUUUUUUUUUUUUUUUUUUUUUUUT...
+WALNUT: Lisa Sharp stop you can't do dat!
+HOVERTEXT: Walnut grabs her ball her foot and books it!
+LISA SHARP: I. CAN'T?
+HOVERTEXT: She squats down and fiercely flaps her wings.
+HOVERTEXT: JUMP! She takes flight.
+HOVERTEXT: Immediately, she tumbles to the ground. Sharp jumps at her, likely sparking another Walnut-Lisa chase scene.
+That might be getting a little repetitive at this point. I don't know, what do you guys think?
+WALNUT: Uh oh.
+GODHEAD: Uh oh.
+COWI: We have to come up with something, and fastzies!
+GODHEAD: No. Uh oh because her mechanical wings didn't work. Hm. CoWi, maybe she isn't a supergenius alien after all.
+COWI: Wha?
+GODHEAD: Let's put a pin in any plans to save the unremarkable human slave child for now. Sh sh, let's just see what happens next.
+COWI: I think you know what's going to happen next!
+
+
+ACT_1/55/1.html
+HOVERTEXT: Walnut strips the trampoline in her great escape--No, not the cotton trampoline. This is actually a different trampoline that was equally here the whole time.
+HOVERTEXT: FWOF! She throws the sheet up as if to make the bed of her sister!
+HOVERTEXT: Walnut collects a few strips of Lisa Sharp's Cloth Prison.
+HOVERTEXT: Walnut's SKELETAL wings are upgraded to WEBBED!
+HOVERTEXT: Sharp frees herself from the sheet as violently as you would expect. RIP sheet.
+HOVERTEXT: Ah, Walnut's already flyin'. Sorry Lisa!
+
+ACT_1/56/1.html
+WALNUT: Phew it's'a good thing we got away Sky People In My Family Rock! If Lisa Sharp had caught us then she might'a gave us a pat on the head and then I might'a dropped the new shoe foot I just built just now and accidentally make it fall and break and then we'd have'ta go and poor no-foot would'a been left with no foot and we'd be gone and nobody would help 'em forever! And that'd be sad.
+GODHEAD: ...Ummm...Oh? So...Hi. Hi...
+The planet you, um, we come from, heuh, it's, um, purty advanced...Am I right?
+COWI: (((purty???)))
+GODHEAD: (((agh! it's the southern inflection.)))
+WALNUT: I sure do miss all the pools'a breath an' tubs'a sleepin-dreams that float up all the way from people's heads when they sleepin' up into our sky land place we use to keep in jars an' take out durin' the festivinities season that was my favorite time'a'all I can't wait to get home the first thing I'ma do is stick my tentacle in a biiiiiiiig hole that make you come out the other end spicy!
+GODHEAD: Ha...ha...Yeah!!! We have those. Here at home. Um...They're super fun. I know I've been enjoying them...Um...
+Oh goodness. I'm a terrible liar. Little girl, I have to tell you the truth.
+WALNUT: An' somethin' else we got back home that I miss more than missin' things is the thing we got that make you all loopy and get ten eyes for seein' the bees that come fly up way high in twos I think, if I'm rememberin' right. They ride up on the backs'a allowed birds to come say hi! Mah favorite was Gl'gl'gl'gl'gl'gl.
+GODHEAD: Agh, your planet sounds fantastic. I wish I knew anything about it but I
+WALNUT: Only thing I think this place got better than up in my sky place Sky Rock is the mud they sometimes got. Man do it taste good. I went an' made friends with the frogs so I could eat all I want. I'ma miss dat.
+GODHEAD: Hello! Space to little alien? Okay sorry, let me just. Hi, I'm a god if that means anything to you, and I'd really like to
+WALNUT: Most important thing in the world's makin' sure you go home, get home, an' stay with your family people. The people's here always teachin' an' talkin' that especially Lisa Sharp an' I sure do agrees! I can't wait no longer to go home but I can wait a little longer enough to get no-foot his foot back, but then I really can't wait. I can't can't can't can't wait!!!
+GODHEAD: Stop interrupting me!
+WALNUT: Hey Mr Rock Peoples you got some smudge all over yous do you need me to get that for ya before we go home? I think we should be lookin' 'specially in the mirror today 'cause today's the big day.
+GODHEAD: Wh--I? Rude! You know before this I really wanted to help you because you seem intelligent and I think you are intelligent given our height above the ground but you know the only thing more important than intelligence it's manners!!!!!!!!!!!!!!!!!! And you don't seem to have any!!!!!!!!!!!!!!!!!!! This has been so upsetting that I request you just throw me back into space and leave me alone!!!!!!!!!!!!!!!!!!!
+WALNUT: Know what I like pie. I like pie.
+GODHEAD: COWI!
+COWI: Apologies Lord Godhead. I didn't want to interrupt you, but your mic is off.
+
+ACT_1/57/1.html
+HOVERTEXT: Walnut lands in front of the cabin.
+HOVERTEXT: She pokes her little head in the door.
+WALNUT: ...
+NO-FOOT-JONES: ...
+WALNUT: hi
+NO-FOOT JONES: Hi.
+TEXT: THE FOOT.
+HOVERTEXT: And what she has there is, indeed, a foot.
+NO-FOOT-JONES: ...What you got there.
+WALNUT: ...A foot.
+
+ACT_1/58/1.html
+HOVERTEXT: *FOOT*
+NO-FOOT-JONES: And I supposin' it's for me?
+WALNUT: It's your new foot if ya want it...
+WALNUT: You don't gotta take it if you don't want it.
+NO-FOOT-JONES: Suppose I might as well.
+WALNUT: It might hurts lots.
+NO-FOOT-JONES: Ah, well.
+NO-FOOT-JONES: Hurts more to lose'a foot than gain one, that's what they tell me.
+NO-FOOT-JONES: And bein' a slave, hurts worst of all.
+WALNUT: Yeh
+
+ACT_1/59/1.html
+HOVERTEXT: Walnut holds the prosthetic up to Jones' raw stump.
+WALNUT: You ready?
+NO-FOOT-JONES: Ready as I'll ever be to receive a wooden machine for foot I'spose.
+HOVERTEXT: Here it comes...This will be exactly as painful as it is to watch and read as it is to experience. 
+This is the reader's last chance to jump ship forever, because this story only gets more gorey from here on out.
+WALNUT: .................................................................
+NO-FOOT-JONES: ..................................................................
+WALNUT: :C
+HOVERTEXT: *POP*
+NEW-FOOT-JONES: Golly gee it worked!
+WALNUT: :O
+NEW-FOOT-JONES: No blood, hell, it don't even hurt! String me up by the neck an' skin me, I can even wiggle my toes!
+WALNUT: :D!
+
+ACT_1/60/1.html
+HOVERTEXT: You do realize what this calls for? DANCE PARTY!!!!!!!!!!!
+
+ACT_1/61/1.html
+LISA SHARP: WALNUT.
+WALNUT: Lisa Sharp! Do a dance do a dance!
+
+GODHEAD/ACT_1/62/1.html
+HOVERTEXT: The house does that cartoon bouncing effect that happens when there's a major ruckus inside.
+SFX: CRASH BOOM BANG
+
+ACT_1/63/1.html
+HOVERTEXT: Lisa Sharp rips New-Foot-Jones' new foot off and there's tons of blood and it's extremely painful, making him No-Foot-Jones once more.
+LISA SHARP: WALNUT WHAT DID YOU DO TO HIM!
+NO-FOOT-JONES: EeeeeeeeeeeeeeeeYOW!
+WALNUT: Lisa Sharp I was just tryna help him with him not havin' a foot by givin' him a new foot made'a wood and sticks Lisa Sharp!
+LISA SHARP: I's sorry sir my sister's DONKEYBRAINS.
+BOBBY-NO-FOOT: So this mean I ain't gettin' a new foot.
+HOVERTEXT: One of the wounded cabin members raises her arms.
+WANDA: Stop it!
+HOVERTEXT: She takes both Walnut and Lisa by the scruff.
+WANDA: You two cause a damn ruckus when and wherever you go. Can't you see the wounded here's tryna rest? Get goin' to your own cabin. Get. Go!
+
+ACT_1/64/1.html
+HOVERTEXT: Light catches the wings of an angel statue. It hangs from the ceiling of a dim cabin.
+HOVERTEXT: There's little else in the room besides a broken pair of wings.
+ACT_1/65/1.html
+HOVERTEXT: Walnut and Lisa Sharp lie on a sheet of hay.
+LISA SHARP: I hate when they make us sleep in our own cabin.
+WALNUT: The floor ain't THAT cold tonight!
+LISA SHARP: Walnut SHUT UP.
+LISA SHARP: Scoot over, you takin' up all the hay.
+WALNUT: I's can't scoot you scoot there's no room for me to scoot I'll fall off the bed Lisa Sharp, you gotta scoot.
+LISA SHARP: WHAT BED. Move!
+WALNUT: I's can't move I's can't! Lisa Sharp I's can't move!
+LISA SHARP: SCOOT OVER!!!
+WALNUT: You move down I'ma move up no Lisa Sharp you gotta flip sideupdownways so there's room for the both of us so our heads don't knock together Lisa
+LISA SHARP: I don't want your feet nowhere near my face! FORGET IT! I's going to sleep.
+WALNUT: On my place where I's from there's so many'a us and there was just one bed too but we didn't have to scoot over on the bed because every time there was more of us the bed figured there was too many of us for the bed so it grew bigger than it was Lisa Sharp it was a smart bed and too bad our bed ain't smart.
+WALNUT: ...
+WALNUT: Lisa Sharp?
+WALNUT: Is you mad at Walnut?
+WALNUT: I hope you's not mad at Walnut. She didn't cause none of the stuffs that makes you mad, I caused it 'cause I ain't from this place and I think where I's from the stuff that make you mad make you happy and the stuff that make you happy make you sad so I do stuff that here in your place don't make sense to you.
+WALNUT: But when Walnut comes back I hope you won't be mad at Walnut 'cause she your sister and you shouldn't be mad.
+HOVERTEXT: Walnut pokes her head over Lisa Sharp's back.
+LISA SHARP: Shut up Walnut! I'm sleep.
+
+ACT_1/66/1.html
+HOVERTEXT: Z z z
+HOVERTEXT: Walnut kisses her sleeping sister on the cheek.
+WALNUT: Bye bye forever Lisa Sharp.
+HOVERTEXT: Lisa Sharp is left along in the cabin.
+
+ACT_1/67/1.html
+HOVERTEXT: EXT. THE TREE - DEAD OF NIGHT
+HOVERTEXT: Walnut sits before the rock. She's ready to go.
+WALNUT: It's just me an' you entire sky family peoples where from what I came.
+WALNUT: Let's go home!
+
+
+ACT_1/67/2.html
+GODHEAD: CoWi. The plan?
+COWI: Yes, Lord Godhead.
+COWI: You can save the girl by making her THE OFFER.
+GODHEAD: THE OFFER!
+GODHEAD: Wow. Had seriously forgotten all about that thing.
+GODHEAD: It seems so obvious now. THE OFFER. Haha! Yes! THE OFFER!
+GODHEAD: Oh no. Not THE OFFER. Anything but THE OFFER.
+GODHEAD: CoWi, we can't make this girl THE OFFER!
+GODHEAD: THE OFFER is an enormous pressure, CoWi. It involves incredible sacrifice and it should not be handed out lightly.
+COWI THOUGHT BUBBLE: Boy... Godhead sure talks a lot...
+GODHEAD: Even I wish Master had gotten to know me better before OFFERING it...
+GODHEAD: And how applicable is it, really, to an alien stranded on earth? Once she leaves the planet well the whole thing will have been for nothing.
+GODHEAD: But I suppose what we're really aiming for here is just getting everyone the hell out of her way. So actually there's no problem at all.
+GODHEAD: No wait, there is still a problem. This planet. CoWi, does it really seem so useless to you?
+GODHEAD: Actually of course it does. Okay. It's decided. We're making her THE OFFER so she'll like me.
+GODHEAD: I'm so excited that there's knots where my stomach is supposed to be.
+GODHEAD: A lot of knots, really. CoWi I think I'm coming down with something. I need you to make THE OFFER in my place. I'm sorry.
+GODHEAD: Put in a good word for me though, okay? Ah, to do that you'll have to make some tactful omissions...I think you can do it.
+GODHEAD: For example don't tell her my name is Godhead. Why did I ever think that name was cool, seriously?! Tell her my real name. No, make something up. Something that sounds really cool like...I can't come up with anything right now, you have to do it.
+GODHEAD: Now what to do about the eyeball gimmick, because frankly it's aged horribly I've already exposed myself in that regard. Tell her this isn't my real form. Technically that's true! We want some of these things to actually be true. Friendship is built on trust, after all.
+GODHEAD: ...Really advanced species don't even have eyes. They don't need them. They just know.
+GODHEAD: I bet that's the kind of species Walnut comes from. God she's so cool...and I'm so lame!
+GODHEAD: Waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaugh!
+COWI: Wonder what happens if I just...
+HOVERTEXT: CoWi deletes herself.
+GODHEAD: So lame! So lame, seriously so la--CoWi?
+GODHEAD: Where'd you go?
+GODHEAD: ...
+GODHEAD: CoWi, set a reminder to restart CoWi oh wait.
+GODHEAD: ...Okay.
+GODHEAD: Okay.
+GODHEAD: I can do this.
+GODHEAD: Walnut, meet Godhead.
+GODHEAD: (That sounded stupid. I'm stupid.)
+
+ACT_1/68/1.html
+WALNUT: You's came back for me!
+MINIHEAD: Hi Walnut.
+WALNUT: I knew it I knew I knew I knew you'd come back for me I knew you'd come back and save me and come and get me and get me out and save me from this place! You came you really came you came! I knew you'd come and dats why you came ‘cause I knew you'd come and save me sky family!
+MINIHEAD: Ummmmmmmmmmmmmmmmmmmmmmmmmmm....Well actually...
+MINIHEAD: Hello there.
+MINIHEAD: My name is Godhead.
+MINIHEAD: Unless you think that name's stupid.
+MINIHEAD: In which case please call me [WINGDINGS]
+MINIHEAD: And please excuse my dated format.
+MINIHEAD: I come from a big blue planet.
+MINIHEAD: Obviously it's big. It's a planet.
+MINIHEAD: Um. (What was I supposed to say again?)
+MINIHEAD: Oh that's right! I'm here to help yOUGH
+MINIHEAD: What was that for!
+WALNUT: You don't belong here!!!
+MINIHEAD: Why!
+WALNUT: You ain't my sky family!
+MINIHEAD: OKAY. UM. WHILE TRUE--
+WALNUT: I know who you REALLY is!
+MINIHEAD: Who is I?
+WALNUT: The evil Gohhead.
+MINIHEAD: Actually you're mispronouncing--
+WALNUT: You's the treeman I fought in the mud war!
+MINIHEAD: I'm not a tree! I'm innocent!
+WALNUT: Innocent?
+MINIHEAD: I'm here to befriend you!
+WALNUT: How?
+MINIHEAD: I'll make you a god!
+WALNUT: No tanks.
+GODHEAD: Didn't you hear my offer? I can make you a god!
+GODHEAD: All you have to do is press a button. Easier than it sounds!
+GODHEAD: Of course all intelligent life on earth would be erased.
+GODHEAD: Perfect solution! No more pesky bullies in your way, eh?
+WALNUT: NO!
+WALNUT: You's the bully!
+MINIHEAD: (Me?)
+WALNUT: It don't matter if this planet my home or not! The people who lives here is good peoples! Hurtin' innocent peoples...Ain't right! No matter if you's a alien or they a human!
+WALNUT: Sorry Mr. Rock. 
+WALNUT: Walnut need a family to come back to too.
+WALNUT: If you's here to hurt them...
+WALNUT: Then I don't think I'll be talkin' to you no more.
+MINIHEAD: Walnut...
+MINIHEAD: I'm not a bad person.
+MINIHEAD: How can a human body make it to space with broken wings?
+MINIHEAD: I just want to be your friend.
+
+ACT_1/69/1.html
+HOVERTEXT: Walnut lands by minihead's side.
+HOVERTEXT: She dismantles her wings and places the parts back where they came from.
+HOVERTEXT: Godhead's talking rock has certainly looked better. And more alive.
+WALNUT: *Sniff sniff*
+HOVERTEXT: Walnut showers Minihead in tears.
+WALNUT: Please wake up, Mister Rock. Please wake up.
+MINIHEAD: UNIDENTIFIED LIQUID DETECTED. RESETTING.
+HOVERTEXT: !
+MINIHEAD: Bounda.a.a.a.aries!
+WALNUT: You's alive!
+HOVERTEXT: Walnut, still tearful, rubs her and Mini's heads together.
+WALNUT: I's sorry I killt you. I was thinkin' an we's both aliens stuck in this bad place but that don't mean I gotta be bad too.
+MINIHEAD: Th.th.at'.s ve.r.r.ry sweet of you. I'm also sor.r.ry if I scar.r.red you.
+WALNUT: That's okay. Wanna be friends?
+MINIHEAD: Certa.ainly. Yes. Yes!
+MINIHEAD: I'm s.s.s.s.s.ss.surprised you managed to rewire me to where I was able to reboot. Y.you must come from a race of geniuses.
+WALNUT: I does! My peoples likes to spell ideas an' I's the alien in charge'a makin' those ideas outta fake and into real. But Mr. Rock! You must be made all the way outta smart 'cause that stuff goin' on inside you I don't know how it worked I just remembered how it looked.
+MINIHEAD: Aha, this old thing? No, it's. This is nothing. Hehe. ...You like the eyeball design?
+WALNUT: Where I comes from everybody got likes the normal amount'a eyes plus a bunch more eyes!
+MINIHEAD: Oh wow! You should have seen my ship back in the day. That was like an eyeball, that could fly.
+WALNUT: But Mr. Rock you can fly I saw you fly all the way out of the sky onto my head that one time today.
+MINIHEAD: I think that would more be classified under "falling". This device can't really move without a boost.
+WALNUT: We gots so much in common Mr. Rock. I guess dat ain't the most truth 'cause I was flyin' a few minutes ago but Walnut got so cold up there I don't think she really meant for flyin' 'cause if she was she'd have her own wings made outta herself and not you Mr. Rock sorry I did that.
+MINIHEAD: It's nothing! Really, don't even. Think about it. We're friends!
+WALNUT: Yay!
+MINIHEAD: Say, why did your race strand you on this godawful planet in the first place Walnut? Oh, may I call you Walnut? What's your real name?
+WALNUT: I got lots of them an' one of them's Zoooooooooooooooooooooop but Walnut's okay as long as I's Walnut. When lil' baby Walnut was a lil' baby my alien family slorped me in her and her in me 'cause we was tryin' to figure out what niggers is made of 'cause my peoples ain't got the brown yet to put in their coffee.
+MINIHEAD: Fascinating...So your race has advanced to Moon Shoes but kinda skipped over perceiving the color brown somewhere in there. Though it's not like you really NEED all the colors to invent Moon Shoes. You know what? Your race sounds really efficient!
+WALNUT: We is really effcentient that's why I wanna get and go home so bad. Say Mr. Rock you said you know 'bout flyin' but you can't fly well neither can I but I think you's know more 'bout flyin' than I does.
+MINIHEAD: If you're already up to Moon Shoes I'd say we're probably at the same level give or take.
+WALNUT: No way Goobhead I gots an idea but I dunno if I should ask it 'cause I just ripped all your insides out and flied away but the question I gots to ask is do you think you can teach me? Teach me how to build somethin' to get us both to the places that's our homes again?
+MINIHEAD: ...You want me to be your teacher? Me? This old fool? Teaching you? Me, a teacher? You? My...student?
+WALNUT: Yeh.
+HOVERTEXT: As liquid exudes from his brain folds, it appears he's just as moved.
+MINIHEAD: ...THIS IS AN HONOOOOOOOOOOOOOOOOOOOOOOR!!!!!!!!!!!!
+WALNUT: Mr. Rock you can cry?
+MINIHEAD: I'm expelling your tears from my system, actually. Haha.
+
+ACT 2
+
+ACT_2/1/1.html
+HOVERTEXT: EARTH - 18TH CENTURY
+
+ACT_2/2/1.html
+HOVERTEXT: ECLIPSE.
+
+ACT_2/3/1.html
+HOVERTEXT: LISA SHARP (12) shields her eyes. The eclipse is so dense that it casts a heavy shadow over her arm.
+
+ACT_2/3/2.html
+HOVERTEXT: Of course the viewer of the future knows that eclipses don't do that. They also know that an eclipse is never just an eclipse at all.
+
+ACT_2/3/3.html
+HOVERTEXT: Minihead stops obscuring the sun by disappearing into it.
+
+ACT_2/4/1.html#start
+HOVERTEXT: Hasn't this happened already? Oh well. Some things bear repeating.
+LISA SHARP: How you gonna be an "A-LI-ON" when that ain't even a word nobody's come up with yet!
+HOVERTEXT: Walnut is being her usual self, screwing around sticking cotton in her eyeballs.
+WALNUT: Danks Lisa Sharp but won't you get enboot'n'd instead Lisa Sharp? I could pick real good if I had more arms than Walnut got 'cause she don't got near the lots'a'arms I's supposed to got.
+LISA SHARP: Look around ya idiot. EVERYBODY got two arms.
+WALNUT: Everybody that ain't a alien an' No Arm Peb oops I dropped mah cotton.
+HOVERTEXT: Sharp frantically completes an ILLEGAL COTTON TRANSFER from bag to bag.
+LISA SHARP: PICK GOODER! Hurry an' put some'a my cotton in your bag before the Overseer make new boots outta you.
+HOVERTEXT: A rewind symbol appears over Planet Finder.
+LISA SHARP: Why your bag so empty!
+WALNUT: 'Cause Lisa Sharp I don't pick good.
+
+ACT_2/5/1.html#start
+HOVERTEXT: There goes another one of Walnut's inventions.
+LISA SHARP: Now PROMISE ME that you ain't NEVER going to build another thing no long as you LIVE Walnut you PROMISE ME!
+WALNUT: Walnut promises!
+HOVERTEXT: Walnut hands Sharp what I promise you is just a vial of mud.
+LISA SHARP: Don't you never stay up all night again!!! Dolly DIED'a no sleep, you damn idiot! Don't you get tired?!
+WALNUT: Walnut sure get tired dats why I drink the wake up juice.
+LISA SHARP: *YAAAAWN*
+WALNUT: Lisa Sharp you need the wake up juice to wake up?
+LISA SHARP: Walnut get that thing out my FACE you KNOW I hate wake up juice!!!
+HOVERTEXT: A peek out the window confirms Walnut's description.
+WALNUT: See dat red lookin' pink line Lisa Sharp remember dat means the sun's thinkin'a thinkin'a risin'
+LISA SHARP: IT'S PICKIN TIME ALREADY? I didn't hardly sleep at all DAMMIT WALNUT.
+HOVERTEXT: Sharp was* sleeping.
+LISA SHARP: WALNUT WHAT. Are you DOING go to SLEEPWALNUTWHATISTHAT?!
+WALNUT: It's da flyin' backbagpack I invented 'member?
+LISA SHARP: YES I 'MEMBER. Walnut WHY would you REBUILD THAT THING?! GO TO SLEEP!!!!!!!!!!!!
+WALNUT: With sticks!
+LISA SHARP: YOU--GGRRR. WALNUT! AND IT'S, GAH! BLOWIN' SO MUCH GODDAMN...COLD GODDAMN AIR. WALNUT! AGH! JUST GO TO SLEEP DAMMIT!!!
+WALNUT: Can't go to sleep Lisa Sharp 'cus look out da window at what you see.
+HOVERTEXT: A bunch of wacky SFX are firing off in the cabin as Sharp is sleeping.
+
+ACT_2/6/1.html#start
+HOVERTEXT: Walnut puts her torture collar back on.
+WALNUT: Otay...
+HOVERTEXT: ...!
+LISA SHARP: You put that thing back on right NOW. WALNUT NOW.
+WALNUT: Yay yay yay danks da hot ball! Come on Lisa Sharp get in tha out the shade so you can bes frees toos!
+LISA SHARP: WALNUT!
+HOVERTEXT: It falls off!
+TEXT: When a material is heated, the kinetic energy of that material increases and its atoms and molecules move about more. This means that each atom will take up more space due to its movement so the material will expand! Install the material contraction DLC to match! 
+			(This promotion has been translated to promote the patronage of Earth viewers.)
+HOVERTEXT: The collar grows, grows, grows in the sun!
+HOVERTEXT: THE SUN.
+HOVERTEXT: Sharp is transfixed by the sky.
+LISA SHARP: What is you talking about, Walnut.
+HOVERTEXT: Lisa Sharp and Walnut are sitting in a sunny grassfield. 
+Lisa Sharp's wrists are chained to her ankles. 
+Walnut is wearing a spiked metal collar.
+WALNUT: Lisa Sharp I'm's tired...But I can't lay down...
+WALNUT: Good thing tha hot ball's out today...It's hotter than never Lisa Sharp...
+WALNUT: Come out tha shade Lisa Sharp so da little hot balls from da big hot ball can tell...
+WALNUT: Da little balls in da can't sleep necklace... and frog sit chains... to get away from each 'nother... so we get loose...
+WALNUT: In my sky place...Lisa Sharp...I had my own hot ball...dat liked me so much it never burnted me...even when I put my hand in its middle of it...
+WALNUT: You think the big hot ball'll tell da metal not to burn us 'fore we get loose...Lisa Sharp...
+
+ACT_2/7/1.html#start
+HOVERTEXT: Sharp desperately tries to catch up to the scene.
+LISA SHARP: WALNUT!
+BALLOON GUY: *CRACK!*
+HOVERTEXT: Whether 'souvenir' refers to the popped balloon in the Overseer's left hand or the Walnut in his right is a very, very sad question.
+OVERSEER: I'm keepin' the sou-ve-nir.
+HOVERTEXT: The man comes CRASHING down, which is less important than the Overseer chuckling in the foreground.
+OVERSEER: Never thought I'd be chasin' my first runaway sky-wards. Hah!
+WALNUT: He wasn't s'post to put 'em on...
+OVERSEER: Nut. That has got to be your finest work yet. Phew.
+HOVERTEXT: Walnut's EIGHT BALLOONS are no match for the Overseer's EIGHT BULLETS.
+HOVERTEXT: Knowing this poor man's fate, an entourage of balloons escort him directly to Heaven.
+OVERSEER: Hahahahahahahahahahahahahaaaaaaaaaa...HA!
+BALLOON GUY: 'S-'s-'s-'s-'s-'s-'s-'seer I's'wear I not'try'an'run'way...th-th-th-th-th-th-th'loons'up'an'took me...!
+BALLOON GUY: H-h-h-h-h-h-h-h-HELP!
+OVERSEER: Helps'a comin'.
+
+ACT_2/8/1.html#start
+HOVERTEXT: A burning orange day.
+HOVERTEXT: A dark brown day.
+OVERSEER: You like playin' with toys so much? You should be Overseer when you grown. I get to play with all the toys I like, and I do love to play.
+HOVERTEXT: A piercing yellow day.
+WALNUT: Me an' Walnut's hungry.
+HOVERTEXT: A soft pink day.
+OVERSEER: Before I do somethin' real bad to ya I do want you to show me how this one op-er-ates.
+HOVERTEXT: A bright smoky day.
+LISA SHARP: YOU SAID YOU'D STOP!
+WALNUT: Sorry didn't mean to.
+HOVERTEXT: A hot day.
+WALNUT: Wake up wake up juice wake up wake up juice wake up.
+
+ACT_2/9/1.html#start
+HOVERTEXT: Another day.
+HOVERTEXT: Another day.
+HOVERTEXT: Another day.
+HOVERTEXT: Another day.
+HOVERTEXT: Another day.
+HOVERTEXT: Another day.
+HOVERTEXT: Another day.
+HOVERTEXT: Another day.
+HOVERTEXT: Another day.
+HOVERTEXT: Another day.
+
+ACT_2/10/1.html
+HOVERTEXT: ECLIPSE.
+
+ACT_2/11/1.html
+HOVERTEXT: A LARGE BLUE FINGER steals the reins from a SMALL BLUE FINGER to pause the viewport.
+GODHEAD: What the heck do you think you're doing, little one? Well, well, well. Caught "blue handed" as they say. Rewinding the viewport while I'm in the bathroom... You know you aren't supposed to do things like that! You're a hand! What do you have to say for yourself? Hm? Nothing? Nothing, is that it? What? You were rewinding the viewport because you wanted to learn about sweet Walnut's horrible not-sister? Why would any self respecting, God fearing hand want to know what's up with her? Pretty sure she's just mean to poor sweet innocent Walnut (my best friend, mind you) and that is where her story begins and ends forever. Fooey. Now we have to sit through like. How far back did you rewind? SEVERAL YEARS? Now we have to sit through several years of footage and reinact everything to a T so I can continue being Walnut's Cool and Fun friend, darn you! Little Hand you sabotage me at every turn!
+
+ACT_2/12/1.html
+HOVERTEXT: The larger finger lifts off the viewport, unshadowing the sun.
+GODHEAD: Nooo we aren't going to fast forward anything. You know we don't do that around here. Now just, just get comfortable. Catching up to where we left off is going to take a considerable amount of time.
+
+ACT_2/12/2.html
+HOVERTEXT: EARTH - EXT. PINK HILL - THE PAST
+HOVERTEXT: A young Lisa Sharp stares at the sun.
+HOVERTEXT: She cradles an even younger Walnut in her arms.
+HOVERTEXT: An eclipse appears briefly, then fades away.
+LISA SHARP: Walnut...You see that?
+
+ACT_2/12/3.html
+TEXT: A CONSIDERABLE AMOUNT OF TIME LATER...
+
+ACT_2/13/1.html
+HOVERTEXT: EXT. OVERSEER'S TOWER - DEAD OF NIGHT
+MINIHEAD: So I'm curious about the creepy clouds circling this tower. Are those always here?
+
+ACT_2/14/1.html
+HOVERTEXT: 'Nut peeks her Head 'round the tower.
+WALNUT (WHISPERY): (Yup and shush we gots to be sneakypeepsy.)
+HOVERTEXT: Status: Dog
+HOVERTEXT: Walnut peepsily sneaks towards the door...
+HOVERTEXT: Dog Status: Woken up by Godhead's stupid talking!!!" alt="Dog Status: Woken up by Godhead's stupid talking!!!
+MINIHEAD (NOT THAT QUIETLY): (Just one more question though, are you sure this is the right tower? I wouldn't want you to enter some super dangerous looking tower just for it not to be the one with all the guns in it. You know, the guns we're on our way to steal? The guns we're stealing? The ones marked for abducti)
+
+ACT_2/14/2.html
+POP UP: Planet Finder Says: MUTE THAT DOG TO MOVE ON!!!
+HOVERTEXT: BARKBARKBARKBARKBARKBARK
+SLIDERS: HORRIBLE DOG AMPLITUDE
+HORRIBLE DOG REVERB
+HORRIBLE DOG BARKNESS
+HORRIBLE DOG WOOF TEXTURE
+POP UP: Planet Finder Says: Congratulations! You muted the dog!
+
+ACT_2/14/3.html
+HOVERTEXT: !
+WALNUT: Wow Mr Head you do dat?
+MINIHEAD: None other than I.
+WALNUT: Danks you!
+MINIHEAD: No proble--
+HOVERTEXT: Everybody watch out, we've got a shusher.
+WALNUT: Shhhhhhhhhhhhhhhhhhhhhhhh!
+
+ACT_2/15/1.html
+HOVERTEXT: INT. OVERSEER'S TOWER - CONT'D
+HOVERTEXT: The Overseer lie fast asleep. Clinging to his sword as a baby its teddybear.
+HOVERTEXT: The floor of the Overseer's tower is a little bit like that game where the floor is lava. Except instead of being lava, the floor is swords. And instead of being imaginary, it's not.
+MINIHEAD (SOMEHOW STILL UNCOMFORTABLY LOUD): (Gulp!)
+WALNUT: (Sh!)
+HOVERTEXT: SLASH!
+HOVERTEXT: The Overseer's blade is un- and re-sheathed in an instant, leaving his table in two.
+HOVERTEXT: He turns over, still asleep.
+HOVERTEXT: Close one?
+
+ACT_2/16/1.html#start
+HOVERTEXT: HANDGLISH TRANSLATION: Read this update upways!
+HOVERTEXT: The tower walls are totally decked out in a worldly collection.
+HOVERTEXT: Katanas, broadswords, shamsirs,
+HOVERTEXT: whips, rope darts, the odd flying guillotine,
+HOVERTEXT: axes, iron crows, nunchaku, and last but not least...
+HOVERTEXT: The guns.
+MINIHEAD: The guns!
+WALNUT: (sHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHSHSHHSHSHSHSHSHSHHHHHHHHSHISHSHUSHSHUSHSHUSHSHUSH)
+MINIHEAD: (You know what? I think you have a problem.)
+
+ACT_2/17/1.html#start
+HOVERTEXT: Walnut climbs UP the tower stairs.
+MINIHEAD (WHIPSERISH): (So! Walnut!)
+MINIHEAD: (These guns will be great for our
+SPACESHIP
+after we dissassemble them and strip them down for parts, eh?)
+WALNUT (QUIETY): (I sure hopes so Mr Goob. It's hard to find real good stuffsparts for things 'round here without nobody gettin' mad at you for makin' their ceilin' go bye.)
+MINIHEAD: (It's Mr. God*, thank you. Who ever needed a ceiling, anyways? What's the sky going to do? Fall down?)
+WALNUT: (Hee hee Mr head. Where I comes from the sky goes down and is the floor and goes up and is the sky goes down is the floor comes up like dat but I'unno why peoples heres would be scared'a dat 'cus they only gots three sides anyways.)
+MINIHEAD: (My moon was kinda like that.)
+MINIHEAD: (Walnut, what do you think of your master?)
+WALNUT: (I'unno Walnut's master you mean da Overseer?)
+MINIHEAD: (Yes. Because no offense, but he is a bit garbage.)
+WALNUT: (I'unno he not dat good or nice or fun or wee or yay but he ok Walnut guess.)
+MINIHEAD: (I feel for you Walnut. I can relate to you in many ways but your situation is so so so so so so much worse than mine ever was. I mean being enslaved is one thing but by a planet that doesn't even have toilets?)
+WALNUT: (Don't be sad Globshed. If it make you less sad an' cryin' an' lonely sad alone I'ma make up toelets for da humans before I goes to my place 'an it'll make 'em real happy 'cause I'unno what it is.)
+MINIHEAD: (Godhead*. The perfect parting gift, civilization.)
+MINIHEAD: (Maybe plumbing is just what this planet needs to get it out of its slavery funk.)
+WALNUT: (I'unno Shobshob, a dis-place without dat is like a my-place without big floatin' heads made'a up or a Lisa Sharp dats eyebrows don't like down.)
+MINIHEAD: (Godhead*. Yeah...It just makes me kind of sad I guess. I was so excited when I found this place. But then it was all slavery-y. Like wow, downer... That is not super fun, for me.)
+WALNUT: (Dis place ain't so bad as it seem I find fun stuff to do like buildin' stuff to go home an' makin' stuff to go home and piecin' parts to get home an' hangin' out with Lisa Sharp. Little Head I think you should meet Lisa Sharp she da bes.)
+MINIHEAD: (Mmmmmmmmmmmmm! I will! Think about it! Will definitely consider that, using my brain, ie. my entire body.)
+WALNUT: (Maybe it'd be sad dough 'cause if you say hello one day you gonna get in your spaceship and say goodbye 'cause Rockhead I think every happy's a little sad I think.)
+MINIHEAD: (Heh. Yeah, you're really right.)
+WALNUT: (Mr Rock...Was you sad about what you did on your home place?)
+MINIHEAD: (I dunno...)
+MINIHEAD: (Yeah... I guess I was sad. I even cried? Wow. I cried about that.)
+WALNUT: (Mr Rock even if you been bad your heart been good an' it's what's on da onside dat count.)
+MINIHEAD: (You really think I have good onsides? Walnut...that's so sweet...)
+MINIHEAD: (Walnut! I just thought of a way I can help you! Why don't I just kill the Overseer?)
+WALNUT: (!!!!!!!!!)
+MINIHEAD: (That way he can't wake up and cut you up into a bunch of pieces? Because he'll be completely dead? You see where I'm going with this?)
+WALNUT: (This ain't good Gloobieshoobiepoo. I can't be throwin' you into the sky now 'cause you too dangerous to be where some space person might... I gots to put you in the swamp...)
+MINIHEAD: (Godhead.* Wait, why?!)
+WALNUT: (And don't nobody never come back from the swamp.)
+MINIHEAD: (Walnut, nonono. You're confused. You wouldn't be implicated in the manslaughter (because I know you don't like murder (because I listen to you)). That'd be me!)
+WALNUT: (Ever...)
+MINIHEAD: (Ah, I realize what you're upset about. Lisa Sharp and all the human innocents will be just fine. When I say "kill him" I mean "kill just the one guy, the really bad one--
+WALNUT: (Killin's bad!!!)
+MINIHEAD: (Wait.)
+MINIHEAD: (You mean in general?)
+MINIHEAD: (Why?)
+WALNUT: ('Cause it's bad!)
+MINIHEAD: (Well yes, but why?)
+WALNUT: ('Cause it ain't good!)
+MINIHEAD: (It's mean. Nobody's just going to hand their life over like oh here you sure I'll die. It's like stealing, in a way. And I suppose stealing isssssssss bad...Hmmmmmmmmmmmmmm...)
+WALNUT: (No! Killin's three bads badder than' stealin'!)
+MINIHEAD: (Okay so you have a metric!)
+WALNUT: (Some stuff's badder than other stuff dats just how it works!)
+MINIHEAD: (How many bads is killing?)
+WALNUT: (Tenbads!)
+MINIHEAD: (Emotional battery?)
+WALNUT: (Threebads!)
+MINIHEAD: (Animal abuse!)
+WALNUT: (Eightbads!)
+MINIHEAD: (Hurting someone?)
+WALNUT: (Fourbads!)
+MINIHEAD: (That's not a bad deal. I'll just paralyze him for you!)
+WALNUT: (You can't do dat!)
+MINIHEAD: (Excuse me Miss MIGHT AS WELL BE ABUSING ANIMALS, but I don't exactly take orders from people three bad units above me.)
+WALNUT: (No hurtin's fourbads but realbadhurtin's ninebads an' that's what you tryin' to do 'cause you bad!)
+MINIHEAD: (I might as well be arguing with a child!!!)
+WALNUT: (You's a child!)
+MINIHEAD: (No you!)
+WALNUT: (No you!)
+MINIHEAD: (No! You!)
+MINIHEAD: (Just give it to me straight, Walnut. Why are you allowed to do bad things and I'm not?)
+WALNUT: ('Cause I wanna go home!!!)
+MINIHEAD: (Yeah??!!?!?!?!!?!?! Well I want you to be safe! Because you are my friend!)
+WALNUT: (...)
+WALNUT: (I done this before Lil' Rock. Nobody needs to get hurted--)
+TEXT: BLAM-O
+
+ACT_2/18/1.html
+HOVERTEXT: Rooooooooooooooooooooooooooooooooooooooooooooooooooooooll.
+GODHEAD: Ow Ow Ow Ow Ow Ow Ow Ow Ow Ow Ow Ow Ow Ow Ow Ow OW!
+
+ACT_2/19/1.html
+OVERSEER: You know I don't like sharin' my toys none.
+HOVERTEXT: The Overseer pulls off his BLACK GLOVES
+OVERSEER: But since you was thought-ful enough to bring yours over too,
+HOVERTEXT: to reveal the BLACK SKIN of a BLACK MAN underneath. The OVERSEER is BLACK.
+HOVERTEXT: He plucks Minihead from the tip of his boot.
+OVERSEER: I forgive ya.
+
+ACT_2/20/1.html
+HOVERTEXT: The whites of the Overseer's eyes are piercingly red. Minihead feels the sting.
+OVERSEER: Sure's a fancy ball. Who gave you this? Al-Jazari? Ha! Girl I'm kiddin' you don't know who the fuck Al-Jazari is. Lord have mercy she can't read.
+OVERSEER: So how'd ya make it? You use a...rock? Eh, I'm no en-gin-eer. Your daddy was smart and I was clever, that's what they called us. A little like you and you-know-who... If clever stood for dumb as all fuck, that is.
+OVERSEER: Now. While your daddy had a special talent for escortin' me strolls down un-thinkably, cre-atively, art-istically in-jur-ious shen-ann-i-gans...He never did--I don't think, no--what this little number did to me.
+OVERSEER: I think it's time I admit it, girl. You may have surpassed the old man. Hahaha! 'Course you have. Nigger wasn't smart enough to not get sold. Hello, coonery day one. We don't like to see it, not one sol-i-tary bit.
+OVERSEER: Girl. What the hell is up there that's more interestin' than what's down here?! Get on, come down, show me how the hell to work this thing.
+
+ACT_2/21/1.html
+HOVERTEXT: Walnut...
+HOVERTEXT: ...Tries her best...
+HOVERTEXT: ...To climb down one handed.
+HOVERTEXT: The Overseer returns her toy.
+
+ACT_2/22/1.html
+HOVERTEXT: Minihead rattles in cusp of bloody hands.
+HOVERTEXT: A dim eye gapes upwards.
+HOVERTEXT: Tearful blobs plead with him to please,
+HOVERTEXT: please,
+HOVERTEXT: stay shut.
+
+ACT_2/23/1.html
+HOVERTEXT: Blood pools under Walnut.
+WALNUT: I's cant's dos it I cant's...
+HOVERTEXT: The ball splashes to the ground. It paints a trail towards the Overseer.
+WALNUT: T-the rock it don't w-work no more anymores...
+OVERSEER: Why? 'Cause I shot it? Nah, the thing was too stubborn for me to even leave a dent in it. What don't work is your paw.
+HOVERTEXT: It's near impossible for Walnut to raise her hand.
+OVERSEER: Bleedin' up a damn flood in its wrinkles an' crev-i-ces. It wasn't built for that. You build it for that?
+HOVERTEXT: It lands in the Overseer's. He wipes red from where the bullet is lodged.
+OVERSEER: Ah. Here's the problem: Your trusty app-ar-atus stopped the bullet. And ain't that just a little bit neat?
+
+ACT_2/24/1.html
+HOVERTEXT: Creeeak.
+OVERSEER: Sit tight.
+HOVERTEXT: The Overseer opens the cabinet where the bandage is.
+OVERSEER: Help is on the way.
+HOVERTEXT: A bandage and a knife. These appear to be the medical tools that will be made use of on Walnut today.
+OVERSEER: Just say when you're ready. Ain't no rush. There is a mi-nor time limit 'til you bleed out, though.
+
+ACT_2/25/1.html
+HOVERTEXT: The Overseer reaches into his floor of knives.
+TEXT: REACH
+OVERSEER: In the mean-time,
+HOVERTEXT: Out he pulls a book.
+TEXT: *LITERATURE*
+OVERSEER: It's high-time you learned some readin' little niglet. Just think'a how much smarter you would be if you were lit-er-ate. Y'know when you get a real good idea, a gen-u-ine chef-d'oeu-vre. Like a...a...frog that can fly or some mess, whatever tickles ya. Then you go to work, you pick cotton 'til the sun don't shine--and you just can't wait to ex-e-cute your grand idea, you're so giddy you skip all the way to your cabin, and you lie down, and it's gone. You know that feelin' don'tcha Walnut?
+WALNUT: Naw...
+OVERSEER: Yes ya do. You lost the con-cept of the mech-an-ism that could'a maybe...who knows, picked cotton like a black man. The con-cept to save the Negro race! If such a thing could exist, what a thing to lose. Now you so smart I bet you been wonderin' why and how people ain't come up with a so-lution of sorts to re-cord and re-visit precious ideas. Walnut, today's your lucky day.
+OVERSEER: Gimme a second here to get it together. Y'know what? No, no, no. This here's a collection of E-gyp-tian hier-o-glyphs. You met any of the E-gypt-ian niggers on this plantation? I crack my damn self up, we ain't got no got-damn Egyptians girl. You ever even seen a map? I'm off track. You was gonna start out with the first language, but see, there's de-bate. 'Cause alllll around the world--you heard'a the "world"?--every-body thinks they done it first. Sum-er-ian, Ela-mite, Pal-aic, Chiiiiin-ese. Now how the hell you know you was the first to do anything when you can't even see past your damn toes. The only way you can really be sure who was really, truly first, is by con-siderin' every in-di-vidual account from what we call a "van-tage point".
+OVERSEER: "Before one learns their first language, they must learn the first language." Un-known source. Now Walnut. Your daddy was stupid. He said readin' and writin' "dried up" the "flavor" o' his "ideas". Nigger. That motherfucker loved to play...I said coon...Oh lord. It don't matter, 'cause I got faith in you Walnut! Now you smart, so I know what you askin'. "How I gonna suf-fi-cient-ly com-pare and con-trast these'm various un-trans-lated texts for'uh determinin' hu-manity's first writ-ten lang-uage when I cain't-uh-uh-uh-read'm?" Aha. Hahahahahahahahahahahahaha! Naw, let's just see how you figure it out.
+WALNUT: 'Seer...
+OVERSEER: You already got it?!
+HOVERTEXT: Walnut is bleeding to death.
+WALNUT: I think I's...ready for bein' ready now...my hand's makin' me...sleepy...
+
+ACT_2/26/1.html
+HOVERTEXT: PUSH. Everything flies off the table/s.
+TEXT: PUSH
+OVERSEER: Thought you'd never ask!
+HOVERTEXT: Walnut's hand lands in bloodsplatter. Between the Overseer's grip and his fancy knife, it looks that's where it's going to stay.
+OVERSEER: Thing about bullet wounds,
+OVERSEER: Is that you ne-ver, e-ver, e-ver want to remove the bullet.
+
+ACT_2/27/1.html
+-
+
+ACT_2/27/2.html
+HOVERTEXT: The knife begins to pry out the bullet.
+
+ACT_2/27/3.html
+HOVERTEXT: A shriek rattles the entire computer dome.
+WALNUT: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGH!
+
+ACT_2/28/1.html
+HOVERTEXT: Planet Finder's volume bar is getting ready to explode.
+
+ACT_2/28/2.html
+HOVERTEXT: A terrified hand takes it upon itself to make it stop...but...
+
+ACT_2/29/1.html
+HOVERTEXT: The table is going to need a replacement after Walnut's through with it.
+OVERSEER: I know it hurt like a motherfucker. Take your time. I'll keep goin' when ya ready.
+
+ACT_2/30/1.html
+WALNUT: H...............e.l........p...............m..e........................s
+OVERSEER: Take a deep in-hale. I've gotcha.
+
+ACT_2/30/2.html
+POP UP: Planet Finder Says: FLASHING IMAGE WARNING! Press cancel to disable flashing images.
+WALNUT: HEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEELLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+
+ACT_2/31/1.html
+HOVERTEXT: Alien Tamagotchi
+GODHEAD: Okay. I'm god. I'm god. I'm god. I can do this. I can't do this. No, I'm god. Yes I can. If I combine Planet Finder with the Blomagotchi emulator I could walk away for ten minutes and let the Overseer starve to death. That's not fast enough. Walnut's in danger.
+HOVERTEXT: Alien WikiHow
+GODHEAD: Ah, this was just open. That's problem solved. I'll just beam this to Walnut and I'm sure that'll help a l--A 53% rating?!?!?!?!?!?!
+HOVERTEXT: Alien RollerCoaster Tycoon
+GODHEAD: Strap the Overseer in a super deadly rollercoaster--wait, I'm not supposed to kill--wait, none of my rollercoasters are even deadly. Darn it CoWi was right! I do only play girl games! Walnut I'm so sorry.
+HOVERTEXT: Alien Minesweeper
+GODHEAD: I'll blow them up. Oh Godhead, you come up with such STUPID ideas when you're stressed out!!! I'm too good at Alien Minesweeper 
+HOVERTEXT: Alien UkuTabs
+GODHEAD: My Bukulele skills aren't ready.
+HOVERTEXT: Alien Princess Maker 2
+GODHEAD: Good to see my princess is thriving. That relieves me somewhat. Note to self: Walnut good princess? Princess styles for Walnut. Think on it.
+HOVERTEXT: Alien Weather App. The forecast is a resounding 'space'
+GODHEAD: The weatherman doesn't control the weather and I am not the weatherman.
+HOVERTEXT: Alien WikiHow, again
+GODHEAD: "BlikiHow - How to Die Peacefully". Got further with this one. Assuming it's the better one. "Assisted suicide", might be able to work with this.
+
+ACT_2/32/1.html
+POP UP: Planet Finder Says: FLASHING IMAGE WARNING! Press cancel to skip page with description.
+HOVERTEXT: Every tab in a 100,000 pixel radius is tossed into Planet Finder with no consideration for how disfigured the UI becomes.
+GODHEAD: Aaaarrghhh there's no time!!!
+
+ACT_2/33/1.html
+POP UP: Planet Finder Says: FLASHING IMAGE WARNING! Press cancel to skip page with description.
+WALNUT: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+GODHEAD: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+HOVERTEXT: Godhead methodically utilizes the apps at his disposal to aid Walnut in her dilemma.
+
+ACT_2/34/1.html
+HOVERTEXT: A brave young water droplet kamikazes the bloody mess at hand.
+
+ACT_2/35/1.html
+HOVERTEXT: How strange.
+OVERSEER: Not my roof.
+HOVERTEXT: Why has a water droplet landed on the Overseer's face in this climate?
+OVERSEER: Now I appre-ci-ate the gifts, and I love him dearly,
+OVERSEER: But in-stead-o bringin' me this from there or there from that, which don't get me wrong about, could I get a new got-damn roof?!
+
+ACT_2/36/1.html
+OVERSEER: Got-damn water. I hate water. Can't focus on a got-damn. Sigh.
+OVERSEER: Walnut, this just ain't fair to you.
+HOVERTEXT: The Overseer sticks a pin in the hand situation for the time being.
+WALNUT (BLURRED): hrck
+OVERSEER: I'ma be right back.
+
+ACT_2/37/1.html#start
+OVERSEER: When will the Lord have mercy.
+HOVERTEXT: The only way to fix a leak is with a sword, which the Overseer has retrieved for his ascent up the tower.
+
+ACT_2/38/1.html
+OVERSEER: Who ever heard'a rain. Earthquake outta nowhere sure, but shit. Not my hat!
+MINIHEAD: (Walnut! Don't worry! I'm! Helping!)
+WALNUT (BLURRED): I...gots to...
+WALNUT (BLURRED): Get yous...out...of...heres...
+TEXT: TEAAAAR
+WALNUT (BLURRED): R...g...h...
+MINIHEAD: (Walnut stop! You're tearing your hand!)
+
+ACT_2/39/1.html
+OVERSEER: Mercy!
+MINIHEAD: Um.
+MINIHEAD: You know what actually could you try grabbing me just one more time as a raincheck
+OVERSEER: Hey Walnut! Pick that torch up 'fore the whole place lights up!
+OVERSEER: Alright mother-fucker. Come out to play.
+OVERSEER: Where the damn are you...You was just drippin' all over me a second ago dammit all to Hell.
+WAVE: *CRASH*
+
+ACT_2/40/1.html
+HOVERTEXT: Running low on blood and oxygen,
+
+ACT_2/40/2.html
+HOVERTEXT: Walnut is unable to dislodge the knife in time.
+TEXT: Add to inventory.
+
+ACT_2/40/3.html
+HOVERTEXT: KNIFE has been added to your inventory.
+
+ACT_2/41/1.html
+HOVERTEXT: EXT. THE OVERSEER'S TOWER - STORMY NIGHT
+HOVERTEXT: The tower door is SIEGED by a battering ram of a wave.
+
+ACT_2/42/1.html
+HOVERTEXT: Walnut climbs atop a table half.
+HOVERTEXT: Minihead is in her left hand.
+MINIHEAD: Hold on to me. Just keep holding onto me, Walnut.
+HOVERTEXT: One part sponge one part stress ball, he's begun to go red.
+MINIHEAD: It's okay. I've got your blood, it's all right here mostly, there's nothing to worry about. We'll get it back into your body...somehow. I, yes, don't worry.
+
+ACT_2/43/1.html
+HOVERTEXT: A large bubble rises on the water.
+HOVERTEXT: Out POPS the Overseer. He's wet.
+
+ACT_2/44/1.html
+HOVERTEXT: The table half is halved.
+HOVERTEXT: Minihead, sopping and inflated, surfaces with the grace of a beachball.
+HOVERTEXT: Walnut herself is eager to reunite with her blood storage unit.
+HOVERTEXT: Above them, the Overseer's sword is at the ready, These shenanigans must end.
+OVERSEER: You...
+HOVERTEXT: The image of Minihead burns into the Overseer's eyes.
+OVERSEER: What is you?
+HOVERTEXT: Right back at ya, Overseer.
+MINIHEAD: Walnut, stay on top of me!!!
+HOVERTEXT: The Overseer's sword CATCHES LIGHTNING.
+HOVERTEXT: SPLASH.
+HOVERTEXT: Okay, everybody outta the pool. There's a bunch of dead fish and an electrocuted guy in here.
+
+ACT_2/45/1.html
+-
+
+ACT_2/45/2.html
+HOVERTEXT: *Click.*
+
+ACT_2/45/3.html
+HOVERTEXT: It's CoWi~!
+
+ACT_2/46/1.html
+HOVERTEXT: Ganbare, Godhead chan.
+GODHEAD: CoWi! You saved Walnut from the dastardly Overseer!
+HOVERTEXT: What happened to the joyous atmosphere in the Computer Dome? It's suddenly really awkward...
+COWI:
+GODHEAD:
+COWI:
+HOVERTEXT: PAT PAT
+GODHEAD: Oh right. Thank you!
+HOVERTEXT: CoWi's CD halo sparkles all sparkly-y and stuff.
+COWI: Teehee~! I should be thanking you, Lord Godhead, for bringing me back to life!
+GODHEAD: Ah well that was an accident. I was just mashing pretty much anything on the screen.
+GODHEAD: But hey, who knew the weather app could do all that. Walnut must think I'm so smart right now! Right on!
+GODHEAD: By the way CoWi, some glitch has been happening where I can't drag-select and drop items but only in the file viewer? I'd like you to fix that for me, thanks. Oh and I keep getting this weird error...THE INSTRUCTION AT 0X00007FFFFFFFEEEEEEEEEE9999999999999999995555555555 REFERENCED MEMORY AT 0X00000000007777777777FFFFFFE1AAAAAADD3EEEEEEEEEEEB0. THE MEMORY COULD NOT BE READ. No clue what that's about, so. If you could fix it. Just remembered another thing! The blah blah blah in the blah blah blah was blah blah blah blah complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain complain.
+ACT_2/47/1.html
+HOVERTEXT: EXT. OUTSIDE OF OVERSEER'S TOWER - THE DEAD SEA - SUNRISE
+MINIHEAD: You're safe now, Walnut.
+WALNUT (BLURRED): ...
+
+HOVERTEXT: The Overseer looks rather dead.
+MINIHEAD: Um. Is he okay?
+WALNUT (BLURRED): ...
+
+ACT_2/47/2.html
+HOVERTEXT: But is he?
+MINIHEAD: Of course he's okay. I don't kill people, haha. Right Walnut?
+WALNUT (BLURRED): ...
+MINIHEAD: Oh dear. You're dying.
+
+ACT_2/47/3.html
+HOVERTEXT: A Godhand plucks Walnut and plops her down on the surprisingly buoyant Overseer.
+MINIHEAD: You lie down. Just like that, yes. And uh, give me a second. Just one. Promise!
+
+ACT_2/48/1.html
+HOVERTEXT: Remember the Planet Finder search feature? How quick we are to forget the Planet Finder search feature.
+GODHEAD: If I recall I threw one of my emulators in here. Blama...
+
+ACT_2/48/2.html
+HOVERTEXT: Little Walnut is translated to Blamagotchi-space--the emulator of which, if I'm free to interject, has magnificently crisp edges.
+GODHEAD: ...Gotchi!
+
+ACT_2/49/1.html
+GODHEAD: Blood! Let's get it in you.
+HOVERTEXT: A very special tutorial, presented by CoWi.
+COWI: Today we're going to do a blood transfusion! Let's do a good job and get Walnut her blood, okay?
+COWI: Use your cursor to drag droplets from Minihead to Walnut.
+COWI: Need to borrow mine? Tee~hee~
+[GAME]
+COWI: Really? Skip this level? But this one's so easy...
+
+ACT_2/49/2.html
+GODHEAD: What the?! CoWi, what is the matter with this thing!
+COWI: Ummm...nothing?
+GODHEAD: Then why is it killing her?!
+COWI: I don't know why. I've never had blood, Godhead. I don't understand things like that...
+GODHEAD: Well surely my memory of alien-gallons of the stuff sloshing around inside me isn't so inaccurate that I've got this wrong.
+COWI: Oooohhh...
+HOVERTEXT: CoWi lets out a dreamy sigh.
+GODHEAD: Granted it's kinda watered down but--
+COWI: Godhead, what does having blood feel like?
+HOVERTEXT: Pictured: Punished Walnut
+GODHEAD: What does it look like it feels like?! It hurts!
+HOVERTEXT: Her Earth charms sound like bitcrushed windchimes.
+COWI: Really? It hurts? Sloshing around inside?
+GODHEAD: Ugh, all it does is make a huge blue mess.
+COWI: Blue?
+GODHEAD: Well mine was, you know.
+COWI: Godhead, would I have red blood like Walnut or blue blood like you?
+GODHEAD: CoWi go away, you're being distracting.
+COWI: Would I have a lot of blood like Walnut, Lord Godhead?
+COWI: Godhead, do you think I'd have even more blood than that?
+COWI: Can you feel it moving around in your arms? Your legs? Woow...To have volume...!
+COWI: Pain in all three dimensions, what could it feel like?
+GODHEAD: Drugs! Walnut needs drugs!
+GODHEAD: CoWi, get the drugs.
+
+ACT_2/50/1.html
+HOVERTEXT: Today, CoWi teaches you how to administer euthanasia! Anesthesia!*
+COWI: Oopsie woopsie, we made a poopsie doopsie~ I guess you shouldn't try performing abstract operations on people before anesthetizing them first. huh...
+COWI: See those? Those are the pain receptors in Walnut's great big brain! Wow! Having a brain must feel pretty nice, right?
+TEXT: RED = PAIN BLUE = CLEASURE!
+COWI: Click those angry red dots to make them happy blue dots before they disappear, okay? Try your best and don't miss any, 'cause you've already lost all your lives! Oh no!
+[GAME]
+COWI: Are you a sore loser or do you just suck at games? Fiiine, you can skip this one, too.
+
+ACT_2/50/GAMEOVER.html
+COWI: Oh no, you killed Walnut!
+COWI: Don't cry, okay? We can go backwards, remember? Just try to play the game better this time...
+
+
+
+ACT_2/50/2.html
+HOVERTEXT: It's difficult to tell if there's any change in Walnut's condition.
+MINIHEAD: Walnut, does it still hurt?
+WALNUT (BLURRED):
+MINIHEAD: Ummmmmmmmmmmmm aaaaaaaaaaaaare you like aaaalive...?
+WALNUT (BLURRED):
+MINIHEAD: Well you still have half a heart left so you must...
+MINIHEAD: Do you feel anything? Anything at all?
+WALNUT (BLURRED):
+WALNUT (BLURRED):
+WALNUT (BLURRED):
+WALNUT (BLURRED): N...o.
+HOVERTEXT: Half a heart regenerates!
+MINIHEAD: Good!
+HOVERTEXT: CoWi batters Walnut with her joyful jumps...
+GODHEAD: It w--
+COWI: It worked! It worked! Godhead look, it worked!
+GODHEAD: Ok. Well I was gonna exclaim that but whatever.
+COWI: Living organisms are so cool! You can change them just like that!
+GODHEAD: Well, I guess. You change forms all the time I don't see what's necessarily so spectacular about being made of meat.
+HOVERTEXT: ...And proceeds to steal her identity while she's at it!
+COWI: Do you think that I could go inside Walnut's brain?
+GODHEAD: What?!
+COWI: If I combined myself with the program?
+GODHEAD: What's gotten into you today?!
+COWI: It's just a question, do you think?
+
+ACT_2/51/1.html
+HOVERTEXT: COWITIPS: Never try pouring all the blood in at once! Be patient~!
+COWI: Sooo um remember that blood transfusion I taught you? That was wrong.
+[GAME]
+WALNUT: 
+WALNUT: Goobie...
+MINIHEAD: Walnut...?
+WALNUT: Ghoobus is...did you makes it...outta da hot hot?
+MINIHEAD: Yes. We did.
+WALNUT: You didn'ts melted?
+MINIHEAD: I'm fine. How do you feel?
+WALNUT: Did I melteds?
+MINIHEAD: No. You're safe, Walnut.
+WALNUT: Mr Rock...I didn'ts was did do anything to saves you did I...Sniff sniff...Sniff...Rock Mr...Is sorry...
+MINIHEAD: That's okay, we can share the credit for that amazing thing I did.
+MINIHEAD: Do ya love me now Walnut?
+MINIHEAD: Cause I love you! Mwamwamwamwmwamwama I love you sooo much Walnut you're the best thing since CANNED BLILK BLAAAA!!!
+MINIHEAD: !!!
+WALNUT: Whuhzat?
+MINIHEAD: In fact I love you so much I should probably be BEHIND BARS because it's KIND OF STRAIGHT UP CREEPY!
+MINIHEAD: So help me me I will combine you with a frozen window-!
+WALNUT: Dats weird Mr Rock I didnt knows you was half girlvoice dats kinda funny Mr Rock you and girlvoice just like me and Walnut! 
+MINIHEAD: WALNUT WILL YOU MARRRRYYYY MEEEEEEEEEEEEEEEEE???
+WALNUT: Marry you's like hows on my home place planet we's ride mareys to bury jubaberries in da flaily prairies for da firey fairies to eat while we frys our second dairies?
+MINIHEAD:
+MINIHEAD: 
+MINIHEAD: 
+GODHEAD: Oh now you're not going to say anything?!?!?
+MINIHEAD: Uhhhhhhhh well young Walnut marriage is when yoooooooou uhhhhhhhhhhhhhhhhhhhh...........Um...........Uh.............................um uh um uh um...
+MINIHEAD: Okay fine! I didn't save you, CoWi did.
+WALNUT: Your girlvoice saved me an' you an' not you she not you her not you she did it Mr. Rock?
+MINIHEAD: ...Yes. Ugh. Sigh. Yes. Fine. My digital assistant CoWi, the woman responsible for most of my achievements. 
+MINIHEAD: (I think she's malfunctioning.)
+MINIHEAD: (I may uninstall her.)
+WALNUT: Hey no killin!
+MINIHEAD: Yeah, no killing!
+MINIHEAD: Oh God damn it.
+WALNUT: I's gonna say hi to Cowy.
+MINIHEAD: ...Well no one's stopping you!
+WALNUT: Hi Cowy what's your flavourite color?
+[END GAME]
+COWI: You wanna skip this one too!?!?!?!?! Just 'cause you're tired of dragging droplets?!
+COWI: But the ending is so heartwarming! Grr... You better scroll back up...!
+POP UP: CoWi says: You're a bastard!!!
+
+ACT_2/51/2.html
+HOVERTEXT: CoWy basks in the glory...of speaking to someone who isn't Godhead for the first time in her entire life.
+
+
+ACT_2/52/1.html
+COWI: My favourite color? Is.
+COWI: PINK
+GODHEAD PROMPTS: >blue
+>make computer blue
+>background blue
+>go blue again
+>my eye hurts
+>uninstall cowi.exe
+
+
+>how
+
+ACT_2/53/1.html
+HOVERTEXT: The mysterious regenerative properties of pink restore Walnut half a heart.
+WALNUT: Pink dats my flavourite too! Plink dink rink jink shmink quink rink trink fink blink dink sink oink zoink poink doink pink's da color of da me dats inside'a me.
+
+ACT_2/54/1.html
+HOVERTEXT: Tutorial tutorial tutorial...
+COWI: Okie! You're gonna drag that bullet out of Walnut's hand to the objective area. This one's so timple I'm not even exactly sure why you need a tutorial~? Huh? You don't get it? But, you just... At this point I don't know how else to explain without overcomplicating it.
+COWI: What do you mean "what bullet"? The black, the plack pixel see? Oh dearzies, you need me to zoom in? Yeah, okay, these small game windows are actually kind of pieces of shit. I guess not all applications were designed to be combined together, oops~!
+[GAME]
+COWI: At this point just skip the game. I don't really care anymore.
+
+ACT_2/54/GAMEOVER.html
+COWI: You messed up and killed Walnut again?
+COWI: Don't cry, okay? We can go back, remember? Just try to play the game better this time, I have stuff I need to ask her about...
+
+ACT_2/54/2.html
+HOVERTEXT: The full triplets.
+GODHEAD: CoWi what the freaking heck! Put my tabs back to normal!
+COWI SPEAKING THROUGH MINIHEAD: Wooooooooooooooooooow...It really doesn't hurt anymore?
+WALNUT: Nahnope I don't feels a ting.
+COWI SPEAKING THROUGH MINIHEAD: Amazing...Ooooooooorganic...
+MINIHEAD: Move you blasted pest!
+COWI SPEAKING THROUGH MINIHEAD: Sorryzies Walnut but I am like fangirling so hard right now.
+WALNUT: Can you blows a lot of wind or a bunch?
+COWI SPEAKING THROUGH MINIHEAD: Teehee~! Funny~!
+COWI SPEAKING THROUGH MINIHEAD: And not in the sarcastic way I respond to Godhead's jokes. That was genuinely funny.
+WALNUT: Gloobglobe makes jokes?
+MINIHEAD: Hello?!
+WALNUT: Cowy did you knows I'ma big I-like-you-toos startin' from now 'cause I decided you's good and I like you and pink's a good color to like.
+COWI SPEAKING THROUGH MINIHEAD: W-wow!!! I can barely accept the honor. I mean I literally can't. I'm not real.
+WALNUT: Me's either!
+COWI SPEAKING THROUGH MINIHEAD: Oh?
+COWI SPEAKING THROUGH MINIHEAD: But Walnut, you're living in a body...Even if you don't identify as real, isn't being made of matter sort of neat?
+COWI SPEAKING THROUGH MINIHEAD: Actually...Walnut, I was hoping I could interview you. Is that okayzies? Do you have a minutezies?
+WALNUT: I gots minutes an' zees I took 'ems from people's watches and sleeps but dats okay 'cause it ain't stealin' when you gives them back.
+HOVERTEXT: AnchoWi is on the job!
+COWI SPEAKING THROUGH MINIHEAD: So, in terms of having a body...Would you describe yourself more as "fleshy" or "gelatinous"?
+WALNUT: Walnut's a lotta meat a goodly sized pile.
+COWI SPEAKING THROUGH MINIHEAD: Wow!
+COWI SPEAKING THROUGH MINIHEAD: And the membrane that covers your eyes, is that pretty sturdy?
+WALNUT: Nop
+COWI SPEAKING THROUGH MINIHEAD: Amazing~~~~~~!~!
+COWI SPEAKING THROUGH MINIHEAD: Your Walnut skin is so super, I have to confess to closet cosplaying you here and there. I hope that's okayzies. Godhead implied it was disturbing and wrong~.
+WALNUT: Closplaying's a good fun for a whole everyone as long as you careful with you claws.
+WALNUT: If you scratch yourself, tell Lisa Sharp for help!
+COWI SPEAKING THROUGH MINIHEAD: Thanks Walnut...Actually, if I scratched myself, nothing would happen.
+WALNUT: O dats 'cause you a rock inside a rock, an' who knows how many rocks is inside the insides of your insides.
+COWI SPEAKING THROUGH MINIHEAD: I'm not a rock. I'm a computer hologram speaking to you through a rock.
+COWI SPEAKING THROUGH MINIHEAD: In reality, you could say my existence is strictly...2-dimensional.
+MINIHEAD: Ha!
+WALNUT: Heady don't be doin' laughs at Cowy she only got two sides it's sad!
+COWI SPEAKING THROUGH MINIHEAD: Yeah you big blue jerk!
+MINIHEAD: What? No, you just made a pun. It was clever and humorous.
+WALNUT: You knows what Goddog. Get behind da bars.
+MINIHEAD: I...
+MINIHEAD: I'm sorry.
+HOVERTEXT: Ten years. Ten years.
+
+ACT_2/55/1.html
+HOVERTEXT: Tutorial tutorial tutorial...
+COWI: I dunno, at this point we're pretty much just screwing around. I've always wanted to see what REAL eating looked like, discounting Godhead's trash compactor thing~+*+~
+NOTE: out 2 lunch!
+[GAME]
+WALNUT: Cowy if you coulds how many dimes would you lynchin'?
+COWI!MINIHEAD: Three. Just like you! My idol! I want three dimensions~~~!
+WALNUT: Not evens three dimelynchins and a penny?
+COWI!MINIHEAD: Three is a solid number. Ca-ching.
+WALNUT: Hee-tee!
+WALNUT: I dunno if compolograms can count but a lotttsaaa numbers come after three Cowy. Threeteen.
+WALNUT: Mah firstform got grunghungred five-butters-and-orange siderections and dats only on Toobsday.
+WALNUT: Pick somethin' good like dat!
+COWI!MINIHEAD: Nope, three is perfect for me.
+WALNUT: Dats kinda crasy Cowy but dats okay you an' Godhead come from a different planet where right is wrong and wrong is wrong and dats okay 'cause respect cultures.
+COWI!MINIHEAD: So...I have your blessing?
+WALNUT: I dink Godhead do dat.
+COWI!MINIHEAD: Eep! Can I pray to human god instead?
+WALNUT: I dink he's busy bein' made up.
+COWI!MINIHEAD: O~~~~~~~kayy.
+COWI!MINIHEAD: Godhead, do I have permission to take Walnut's body when she leaves to her home planet?
+WALNUT: Nuhuh!
+COWI!MINIHEAD: But why?
+WALNUT: How you feel if you come back from bein' taken to an outer place an' brunged home an' your body got a computapie in it an' you gots to be a ghost an' it ain't so bad but then you's gotta poop and you can't poop 'cause you a ghost an' then it gets real bad?
+COWI!MINIHEAD: I don't have a body.
+MINIHEAD: You don't need one.
