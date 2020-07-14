@@ -2,7 +2,8 @@ TRANSCRIPT GUIDE FOR READERS
 To find your place, CTRL+F the portion of the page URL that comes after GODHEAD/. Example: ACT_1/prologue/1.html
 
 TRANSCRIPT GUIDE FOR WRITERS
-To help maintain the Godhead transcript, click the pencil icon to the upper right. When you're done editing, select "Create a new branch" (or if you're a mod "Commit to the master branch") and hit "Commit changes".
+To help maintain the Godhead transcript, click the pencil icon to the upper right. 
+When you're done editing, select "Create a new branch" (or if you're a mod "Commit to the master branch") and hit "Commit changes".
 
 ACT 1
 
