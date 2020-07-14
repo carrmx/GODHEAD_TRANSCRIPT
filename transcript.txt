@@ -3,7 +3,9 @@ To find your place, CTRL+F the portion of the page URL that comes after GODHEAD/
 
 TRANSCRIPT GUIDE FOR WRITERS
 To help maintain the Godhead transcript, click the pencil icon to the upper right. 
-When you're done editing, select "Create a new branch" (or if you're a mod "Commit to the master branch") and hit "Commit changes".
+When you're done editing, select "Create a new branch" (or if you're a mod "Commit to the master branch"). 
+Set the title of your edit to the last update you transcribed (example: ACT_1/prologue/4.html). Put any additional notes in the description.
+Hit "Commit changes" to submit.
 
 ACT 1
 
