@@ -2020,3 +2020,98 @@ COWI!MINIHEAD: But why?
 WALNUT: How you feel if you come back from bein' taken to an outer place an' brunged home an' your body got a computapie in it an' you gots to be a ghost an' it ain't so bad but then you's gotta poop and you can't poop 'cause you a ghost an' then it gets real bad?
 COWI!MINIHEAD: I don't have a body.
 MINIHEAD: You don't need one.
+
+ACT_2/56/1.html
+HOVERTEXT: Yayyy it's time for the Toilet Minigame!!! The long foreshadowed Toilet Minigame!
+GODHEAD: I'm tired of listening to this foolishness--
+COWI: Nooo... Were you about to watch Walnut go to the bathroom?
+GODHEAD: What? No!
+COWI: There is a line Lord Godhead. You are such a sick little freak. I hate you!!!!!!
+TEXT: HOW NOT TO BE A HORRIFIC CREEP - BY COWI
+COWI: Keep your eyes off that little girl you disgusting slime!
+[GAME]
+COWI: You BETTER skip!
+
+ACT_2/56/2.html
+HOVERTEXT: EXT. GODHEAD - FEDERAL PRISON
+MINIHEAD: I'm tired of listening to this foolishness, CoWi. If taking your sentience suppressors down will snuff out this little rebellious phase then so be it, but some of us are actually pretty sensitive about this topic and find your complete and utter fetishisation of the blumanoid form frankly triggering.
+MINIHEAD: You have the ideal form, you can toggle bodies as you please with none of the unpleasant aftereffects. I programmed you like that for a reason. And here you are being completely ungrateful.
+COWI!MINIHEAD: You didn't program me. I'm commercial software.
+MINIHEAD: That's right, huh...
+MINIHEAD: I mean really. Who would understand the melodramatic sorrow of being placed in the wrong body?
+COWI!MINIHEAD: Me.
+WALNUT: Mes.
+MINIHEAD: You have no idea. You start from this level zero gelantious blue thing. You're among the lesser of your kind, I'd even go as far as to say the lessest.
+WALNUT: Dat sound about Walnut to me.
+COWI!MINIHEAD: I'm not blue like currently at the moment, but yeah. I pretty much get that.
+MINIHEAD: And you have to fight your way out of an oppressive system of slavery to become the person you want to be--the person you are!
+WALNUT: You name must be me 'cause we (but no killin').
+COWI!MINIHEAD: This oppressive system, this is also blue, correct?
+MINIHEAD: We're talking hacking superfuturistic security systems, fighting cyborg guards, staging planetwide prison breaks,
+COWI!MINIHEAD: Hm?
+MINIHEAD: Alien Grand Theft Auto esque sequences, physics puzzles, disguise missions, a final showdown with the most prominent organization of legislators and private sector representatives involving mixed blartial arts,
+WALNUT: I ain't done none of dat but now I kinda wants to (but no killin').
+MINIHEAD: And a bunch of other completely lame and embarrassing crap from your wicked gangsta backstory. Ew...
+COWI!MINIHEAD: What the heck? Lord Godhead you used to be cool?
+MINIHEAD: No! I was not cool! Being god is cool.
+WALNUT: Killin' ain't cool stay in schoo.
+COWI!MINIHEAD: (Getting killed sounds kinda cool (can't get killed either.))
+MINIHEAD: Whatever it takes to achieve your ideal form is what's "cool". It's in. Hear me?
+MINIHEAD: You may do things you're not proud of. You may do things you're pretty proud of like the bliu blitsu cyborg fights. But at the end of the day you do what you have to do to complete your transformative journey.
+MINIHEAD: Your transpersonal quest...Transportation of the soul, so to speak, that translucifies transgressions transmitted through the initial transaction of life that occurs when you are transferred into this world.
+MINIHEAD: Transhistorical really, meaning to possess the quality of holding throughout all history.
+MINIHEAD: I wish it weren't though. I wish I could just forget all those embarrassing things, you know?
+COWI!MINIHEAD: Woooooooooooow...
+WALNUT: Woooooooow...
+COWI!MINIHEAD: Lord Godhead...
+WALNUT: Is reallys a transidol!
+
+ACT_2/57/1.html
+HOVERTEXT: S U P E R A W E S O M E F R E A K I N G G O D
+TEXT: S U P E R A W E S O M E F R E A K I N G G O D
+MINIHEAD: Oh come on, I'm a super awesome freaking god. I killed everyone in the world because I wanted to be known for that?
+COWI!MINIHEAD: You just haaaa~ve to show us what you looked like.
+WALNUT: I'unno Cowy, I dinks dats rude'tude.
+COWI!MINIHEAD: Whyzies? This guy is unconditionally happy to show off every little detail about his stupid self, right LG?
+MINIHEAD: Ewwwwwwwwwwwwwwwwwwwwwwwwwwwwwww nooooooooooooooooooooooooooooooooo...
+WALNUT: Dinks about it dis way, if you gots into Walnut's body da way you like 'an someone said I wanna sees you, what you show, da flat you or da fat you? I dinks you'd show your not-Walnut as much I'd show my Walnut 'cause dats da ugly one ain't nobody wanna see.
+MINIHEAD: Exactly.
+MINIHEAD: Wait a minute. Walnut, you think I was ugly?
+GODHEAD: CoWi, design a really cool Godhead blajinka to show Walnut. Now!
+COWI: So I...don't get to see your true form?
+GODHEAD: Ew are you kidding me? I was freaking ugly!
+GODHEAD: Now draw!
+
+ACT_2/58/1.html
+HOVERTEXT: See? Not ugly?
+HOVERTEXT: Really impressive stuff.
+HOVERTEXT: In other news, CoWi turns out to be quite the versatile artist.
+COWI: Wtfzies? You snubbed my drawings for THAT?
+GODHEAD: Well yours sucked. Mine is cool.
+COWI: I want a divorce!!!
+GODHEAD: ...I forget that we're married sometimes.
+GODHEAD: Hey! You can't divorce me!
+WALNUT: Huuuuuuuuuuuuh...I dinks when I gets back to my home planet place dat I'ma get us all three of us some good new forms. And dey will be pink, and dey will have threety sides, and dey will be goopy.
+WALNUT: Goose night.
+COWI!MINIHEAD: This is coverture you bastard!
+
+ACT_2/59/1.html
+[GAME]
+
+ACT_2/59/2.html
+TEXT: The End
+TEXT: of the scene.
+HOVERTEXT: Sleeby Walnut.
+
+ACT_2/60/1.html
+HOVERTEXT: CoWi hands Godhead her alien MSPaint pen cursor.
+COWI: Please sign here.
+CERTIFICATE: This divorce certificate has been translated fo encourage the patronage of Earth viewers.
+Certificate of Divorce
+This is to certify that
+GODHEAD and COMPUTER WIFE
+have ended their marriage in divorce
+at BLUE PLANET
+on the RIGHT day of FUCKING on the year NOW
+________                  COWY
+COWI: Now right click "Save image as..." and submit. <3
