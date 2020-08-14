@@ -2115,3 +2115,92 @@ at BLUE PLANET
 on the RIGHT day of FUCKING on the year NOW
 ________                  COWY
 COWI: Now right click "Save image as..." and submit. <3
+
+ACT_2/61/1.html
+HOVERTEXT: BLAM-o
+GIF: BLAM-o
+
+ACT_2/61/2.html
+HOVERTEXT: !!!
+
+ACT_2/62/1.html
+MINIHEAD: Are you okay?
+HOVERTEXT: Walnut looks to the RIGHT.
+HOVERTEXT: To the LEFT.
+
+ACT_2/62/2.html
+HOVERTEXT: And DOWN.
+
+ACT_2/62/3.html
+HOVERTEXT: No Imminent danger here. Go back to bed, Walnut.
+
+ACT_2/63/1.html
+HOVERTEXT: A shadow casts over Walnut.
+
+ACT_2/63/2.html
+HOVERTEXT: And boy is it mad.
+
+ACT_2/63/3.html
+HOVERTEXT: Quick question though; What's up with the BIG BURLAP SACK?
+TEXT: BIG BURLAP SACK
+TEXT: s t r i n g
+
+ACT_2/63/4.html
+HOVERTEXT: Lisa Sharp, the insatiably curious character she is, draws the string.
+TEXT: PULL
+
+ACT_2/63/5.html
+HOVERTEXT: Nut's SACK is full of GUNS.
+
+ACT_2/64/1.html
+HOVERTEXT: Lisa Sharp picks up a gun.
+
+ACT_2/65/1.html
+[FLASH]
+
+ACT_2/66/1.html
+WINDOW TEXT: Planet Finder.exe is not responding
+If you close the program, you might lose information.
+> Close the program
+> Wait for the program to respond
+INPUT TEXT: > blue
+> make computer blue
+> background blue
+> go blue again
+> my eye hurts
+> uninstall cowi.exe
+> how
+> cowi.exe
+HOVERTEXT: The Planet Finder 'not responding' dialog has been partially translated to encourage the patronage of Earth viewers.
+
+ACT_2/67/1.html
+INPUT TEXT: > blue
+> make computer blue
+> background blue
+> go blue again
+> my eye hurts
+> uninstall cowi.exe
+> how
+> cowi.exe
+>planetfinder.exe
+HOVERTEXT: Planet Finder loads up.
+
+ACT_2/67/2.html
+WINDOW TEXT: Planet Finder did not close properly last time it was run.
+OK
+HOVERTEXT: Loading…
+
+ACT_2/67/3.html
+HOVERTEXT: Loading… Done.
+HOVERTEXT: Girls? Are you good?
+WALNUT: LisaSharp what happen to your eye!
+
+ACT_2/68/1.html
+LISA SHARP: What you mean what happen to my eye? What happen to my eye?
+HOVERTEXT: Sharp spots her eyeless reflection.
+LISA SHARP: OH SH** NICE.
+LISA SHARP: …
+LISA SHARP: Hey, where I get this gun?
+
+ACT_2/68/2.html
+[FLASH FAKEOUT]
