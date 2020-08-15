@@ -2204,3 +2204,28 @@ LISA SHARP: Hey, where I get this gun?
 
 ACT_2/68/2.html
 [FLASH FAKEOUT]
+
+ACT_2/69/1.html
+WALNUT: LisaSharpputdowndatgunrightnaow!!!!
+LISA SHARP: What! I just holdin' it.
+WALNUT: Put it all da way down 'fore I get so explodey I start yellin' darn poop bootybutt stinky doodoo peepee cussin' cussy heck!
+LISA SHARP: OK OK. I puttin' it down WHOOP--
+HOVERTEXT: ACCIDENTAL BLAMM-O.
+LISA SHARP: ...SO? They MY guns.
+WALNUT: No they ain't!
+LISA SHARP: Yes they is.
+WALNUT: Nuh uh!
+LISA SHARP: Uh huh.
+WALNUT: Nuh uh!
+LISA SHARP: Uh huh.
+WALNUT: Nuh uh!
+HOVERTEXT: CoWi is escorted offscreen.
+COWI: I'm ba~~~~~~~~~~~ck.
+LISA SHARP: UH. HUH!
+LISA SHARP: They was waitin' for me right there in the corner.
+WALNUT: They wasn't waitin' for you did dey tells you dat? Bad guns lyin's threebads you bad lil' guns.
+LISA SHARP: Guns can't talk ya dumb FOOL. It was the sun what told me.
+WALNUT: Now you lyin' 'cause the sun only speak Finglish.
+HOVERTEXT: Sharp snatches Minihead right out of Walnut's hands.
+HOVERTEXT: She positions him in front of the bleached morning sun.
+LISA SHARP: He told me.
