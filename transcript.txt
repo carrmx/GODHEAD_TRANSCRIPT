@@ -2229,3 +2229,32 @@ WALNUT: Now you lyin' 'cause the sun only speak Finglish.
 HOVERTEXT: Sharp snatches Minihead right out of Walnut's hands.
 HOVERTEXT: She positions him in front of the bleached morning sun.
 LISA SHARP: He told me.
+
+ACT_2/70/1.html
+LISA SHARP: I sorry I didn't understand what you was tryin' to tell me, God. I was so scared of evil hurdlin' down in you I forgot Heaven's in the sky.
+But last night, 'fore the storm, I woke up.
+An' I remembered.
+WALNUT: 'Membered what?
+HOVERTEXT: Sharp and mIni go head to head.
+LISA SHARP: What you told me all those years ago!
+GODHEAD: Iiiiiiiiiiiiii am pretty sure that I have never spoken to you in my life?
+HOVERTEXT: Godhead duplicates Planet Finder and reviews the past n events.
+LISA SHARP: Back then I was small an' weak. I wasn't ready for your message yet. But you, God, in your allknowin' AWESOMENESS, saw that one day I would be. An' now, surrounded by these holy guns you sent down for me from Heaven, I is.
+HOVERTEXT: Here it is, the time Godhead blocked out the sun pausing the application after coming back from the bathroom. All before the waking eyes of Tiny Lisa.
+GODHEAD: So there was the time I blocked out the sun pausing the application in front of her, but certainly there's no substantial material there from which can be interpreted a statement or instruction or parallel or Me forbid a sign.
+LISA SHARP: I. Is. THE CHOSEN ONE.
+WALNUT: What d'bleep you ain't even like my ball you said it was da devil!
+LISA SHARP: Would the devil tell you to bring me a buncha guns so I could start a revolution, Walnut?
+WALNUT: Uh Lisa Sharp you ain't plannin' on usin' these guns for bein' mean is you?
+LISA SHARP: I gonna shoot people.
+WALNUT: Sharpy no! That ain't what guns is for!
+LISA SHARP: They GUNS.
+WALNUT: Guns is for takin' from da 'Seer an' gettin' boomed in da hand with so you splash him with fish soup but don't worry he okay and draggin' home in a big sack'a'guns with da help of your ball 'cause you too small to do it on you own an' tearin' up into smaller guns an' makin' into a skyship to take you to da big cloud!
+LISA SHARP: You AIN'T tearin' up my guns 'less YOU wanna get torn up.
+GODHEAD: (She's a lot scarier now that she has an arsenal of weapons.)
+LISA SHARP: This ain't no game, Walnut. I is gonna make you free.
+WALNUT: I don't wants to be free.
+LISA SHARP: You don't know WHAT you want. But if you was free, you could want anything you want! Actual stuff that ain't FAKE and ain't MADE UP.
+WALNUT: I w--
+LISA SHARP: No more, Walnut. The guns is mine. That is that.
+WALNUT: But...But...
