@@ -2258,3 +2258,15 @@ LISA SHARP: You don't know WHAT you want. But if you was free, you could want an
 WALNUT: I w--
 LISA SHARP: No more, Walnut. The guns is mine. That is that.
 WALNUT: But...But...
+
+ACT_2/71/1.html
+HOVERTEXT: The second window is closed with no consideration for whether doing so potentially destroys an alternate reality containing all the characters we know and love but whatever it doesn't matter.
+WALNUT: That ain't what God told me.
+LISA SHARP: What God tell you.
+WALNUT: I been talkin' to God all day an' stuff an' he been tellin' me he like my spaceboat idea and he think my buildins' is good and he wanna help me fly2sky.
+LISA SHARP: IDIOT. This ain't God. It's a THING God used to send me a message.
+HOVERTEXT: Sharp winds back her arm.
+LISA SHARP: "Here come a freedom ball, Lisa Sharp. Catch!"
+HOVERTEXT: She holds this position for some time.
+WALNUT: Dats left it can talk to Gawd and I can make it talk I show you. Dog tell Lisa-Lisa dat her idea's scary and guns ain't s'post to shoot.
+HOVERTEXT: No way! He's shy.
