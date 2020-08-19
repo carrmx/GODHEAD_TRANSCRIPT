@@ -2270,3 +2270,24 @@ LISA SHARP: "Here come a freedom ball, Lisa Sharp. Catch!"
 HOVERTEXT: She holds this position for some time.
 WALNUT: Dats left it can talk to Gawd and I can make it talk I show you. Dog tell Lisa-Lisa dat her idea's scary and guns ain't s'post to shoot.
 HOVERTEXT: No way! He's shy.
+
+ACT_2/72/1.html
+WALNUT: ...Godkabob? Is you mad I ripped you apart after all and now you bein' dead?
+LISA SHARP: Can't rip apart no rock. Idiot.
+WALNUT: Rockypoo come back to life! Do I gots to cry in yous again? But my tears ain't grown back yet.
+
+ACT_2/72/2.html
+HOVERTEXT: "Ask again later."
+LISA SHARP: WHAT HE SAY.
+WALNUT: "Ok I ready for askin' stuffs any times now just shoot (not wit gun.)"
+LISA SHARP: The guns is for me, right God?
+PLEASE SAY YES. AMEN. 
+WALNUT: Goddie One Shoes let's put an end on dis once and for y'all, is the guns mine? One for yes green for no.
+
+ACT_2/72/3.html
+HOVERTEXT: "...Sources tell me maybe."
+LISA SHARP: WHAT HE SAY!!!
+WALNUT: "The guns is belongin' to Walnut 'cause Walnut never lie and even though Walnut let you play with her stuff you ain't allowed to play with da guns 'cause pointin'em ain't allowed which you ain't supposed to do but maybe if you be nice and don't hit you can play with the guns some'a da time but dis ain't Walnut talkin' it's da ball. A man."
+LISA SHARP: Aw maaaaaaaaaaaaaaaaaaaaaaaaaaaaan.
+LISA SHARP: HEY!
+HOVERTEXT: Siblicidal slapfight!
