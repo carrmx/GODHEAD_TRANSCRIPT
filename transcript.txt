@@ -2291,3 +2291,32 @@ WALNUT: "The guns is belongin' to Walnut 'cause Walnut never lie and even though
 LISA SHARP: Aw maaaaaaaaaaaaaaaaaaaaaaaaaaaaan.
 LISA SHARP: HEY!
 HOVERTEXT: Siblicidal slapfight!
+
+ACT_2/73/1.html
+HOVERTEXT: Sharp gestures her gun around unsafely.
+LISA SHARP: Walnut THINK ABOUT IT. The people keepin' you a slave is the same ones keepin' me a slave. Keepin' Henrietta a slave. Keepin' Popsie a slave. Keepin' that STUPID Ole' Johnnyboy a slave.
+LISA SHARP: When I free you, everybody gon' get freed. You still think GOIN' AGAINST GOD is FAIR?
+WALNUT: Den I jus' put extra seats onside my ship.
+HOVERTEXT: She points directly up the gun-hole.
+LISA SHARP: The only way off'a this plantation is THROUGH HERE.
+HOVERTEXT: ...Before her weak child arm gives out.
+WALNUT: !
+HOVERTEXT: Private Walnut-Minihead meeting. Now.
+HOVERTEXT: "Lie."
+
+ACT_2/74/1.html
+HOVERTEXT: Walnut affects the pensive.
+WALNUT: You's right. Godrock did tells me to get da guns for yous--
+HOVERTEXT: Sharp furiously points (a gun) at her sister.
+LISA SHARP: HAAAAAAAAAAAAAAAAAAAAAAAAAAA!
+See how good it feel to tell the truth ya DUMB LIAR?
+WALNUT: But he did tolds me to take 'em apart and dat ain't no lie!
+HOVERTEXT: She eyes her gun inquisitively.
+LISA SHARP: They kill better in pieces?
+WALNUT: He want me to make you your own gun, Sharp Shootin' Shooty Lisa Da Shooter Da Gun~.
+LISA SHARP: Gots a ring to it...
+HOVERTEXT: Pictured: A giant gun made of guns.
+LISA SHARP: Not bad for the first thing I ever owned!
+WALNUT: Nope not bad it's good. Sharp Shooty'll be a special gun type gun 'cifically made for Overseer killin' and it'll work so good you only need one bullet and da bullet knows directions so you don't gots to look da right way when you pull the thingy an' you won't have to pull the thingy 'cause the thingy pulls itself when you think da words "chickensteak" and dats just the front'a'da box!
+HOVERTEXT: Noogie!
+LISA SHARP: FINALLY! You usin' you smarts for good! But it ain't the Overseer I'ma be killin'. Walnut, you remember Daddy?
