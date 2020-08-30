@@ -2320,3 +2320,34 @@ LISA SHARP: Not bad for the first thing I ever owned!
 WALNUT: Nope not bad it's good. Sharp Shooty'll be a special gun type gun 'cifically made for Overseer killin' and it'll work so good you only need one bullet and da bullet knows directions so you don't gots to look da right way when you pull the thingy an' you won't have to pull the thingy 'cause the thingy pulls itself when you think da words "chickensteak" and dats just the front'a'da box!
 HOVERTEXT: Noogie!
 LISA SHARP: FINALLY! You usin' you smarts for good! But it ain't the Overseer I'ma be killin'. Walnut, you remember Daddy?
+
+ACT_2/75/1.html
+TEXT: BLAM-o
+HOVERTEXT: BLAM-o
+
+ACT_2/76/1.html
+-
+
+ACT_2/76/2.html
+HOVERTEXT: EXT. FLOODED SLAVE QUARTERS - MORNING
+OVERSEER: BILLY•BOOOOOOOOOOOOOOOOOOOOOOB.
+OVERSEER: WHERE ARE YOOOOOOOOOOOOOOOOOOOOOU?
+HOVERTEXT: Whatever human spectacle is about to take place here is silently observed from the cabins.
+HOVERTEXT: The Overseer stops near a cabin where a bodyless angel hangs from the porch. There was a drive-by here, but the details barely matter to him now.
+HOVERTEXT: He frees one hand transferring his gun to his bottle-hand, spilling booze all over his poor abused animal in the process.
+HOVERTEXT: He then pulls out his sword in a very dangerous and unsafe manner…
+
+ACT_2/76/3.html
+HOVERTEXT: ...and cuts the angel's flimsy, obviously pullable string. He catches it in his other hand…
+HOVERTEXT: ...the one that was supposed to be holding the gun and the booze, but is not, because all of that stuff is in the water now.
+
+ACT_2/77/1.html
+OVERSEER: Alas...poor Billy•bob. Yeah, I knew 'em. A coon o in•fin•ite jest, a most ex•cellent fancy. I hath borne him on my back a thousand, maybe...a thousand an' two times. And now my ima•gin•ation just don't cut it. My gorge r--
+TEXT: BAAAARF
+OVERSEER: --rises of it. Here hung he. Here he hung, here hung. He...hung... Those lips. I have kissed I know not even how oft. Where be your gibes now, Billy•bob?
+OVERSEER: Your gambols?
+OVERSEER: Your gongs? Your flashes of merr•i•ment what were wont to make the whole plan•ta•tion crack up an' split its sides? Not one now to mock your own grinnin' eh? Quite chap•fallen ehhhh? Now you get to your little girl•friends' cabins an give 'em a little bit o this; A heart that loves will have black fingers. Sure they'll think that's a laugh.
+Prit•hee, Bi•lly, tell me just one thing before you go.
+TEXT: BAAAARF
+OVERSEER: - Shake•speare
+HOVERTEXT: Confused clapping.
