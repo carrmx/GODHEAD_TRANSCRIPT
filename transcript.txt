@@ -2351,3 +2351,14 @@ Prit•hee, Bi•lly, tell me just one thing before you go.
 TEXT: BAAAARF
 OVERSEER: - Shake•speare
 HOVERTEXT: Confused clapping.
+
+ACT_2/78/1.html
+-
+
+ACT_2/78/2.html
+SOMEONE: Pat don't!
+OVERSEER: ?
+
+ACT_2/78/3.html
+OVERSEER: Stick 'em up!
+Everybody get out here got•damn it. Bring your things. Now!
