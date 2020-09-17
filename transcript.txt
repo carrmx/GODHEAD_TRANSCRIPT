@@ -2362,3 +2362,18 @@ OVERSEER: ?
 ACT_2/78/3.html
 OVERSEER: Stick 'em up!
 Everybody get out here got•damn it. Bring your things. Now!
+
+ACT_2/79/1.html
+HOVERTEXT: Knick-knacks abound.
+
+ACT_2/80/1.html
+OVERSEER: Your "things". Peh. Things with things. Yippee.
+OVERSEER: He give you this? No he didn't. It's mine!
+HOVERTEXT: Behold! Billybob's incredible…
+HOVERTEXT: ...uh.
+OVERSEER: What it do?
+
+ACT_2/81/1.html
+VICTIM 1: All th' weather's got…
+[FLASH]
+VICTIM 1: ...S'own song.
