@@ -2377,3 +2377,11 @@ ACT_2/81/1.html
 VICTIM 1: All th' weather's got…
 [FLASH]
 VICTIM 1: ...S'own song.
+
+ACT_2/82/1.html
+HOVERTEXT: The two share a moment of delight over the beautiful tune.
+HOVERTEXT: Nevermind, no they don't.
+OVERSEER: Whah? ...Use•less ass junk got•dammit.
+
+ACT_2/83/1.html
+OVERSEER: What else ya got?
