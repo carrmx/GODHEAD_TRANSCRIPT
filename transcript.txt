@@ -2385,3 +2385,13 @@ OVERSEER: Whah? ...Use•less ass junk got•dammit.
 
 ACT_2/83/1.html
 OVERSEER: What else ya got?
+
+ACT_2/84/1.html
+HOVERTEXT: Billybob's incredible Rocking Duck!
+
+ACT_2/85/1.html
+HOVERTEXT: Pipe Smokin' Pipe!
+
+ACT_2/86/1.html
+HOVERTEXT: Rubber Pencil.
+
