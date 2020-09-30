@@ -2395,3 +2395,23 @@ HOVERTEXT: Pipe Smokin' Pipe!
 ACT_2/86/1.html
 HOVERTEXT: Rubber Pencil.
 
+ACT_2/87/1.html
+OVERSEER: This shit is use•less!
+HOVERTEXT: Fortune Teller?
+OVERSEER: De•void!
+
+ACT_2/87/2.html
+OVERSEER: Of use!
+GODHEAD: I like that one.
+
+ACT_2/88/1.html
+-
+
+ACT_2/89/1.html
+HOVERTEXT: Incidental BLAMM-o
+OVERSEER: That twasn't me.
+
+ACT_2/90/1.html
+OVERSEER: ...What y'all doin' down there? Sun's up. Get up! Lazy neegs.
+
+
