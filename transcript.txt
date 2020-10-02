@@ -2414,4 +2414,15 @@ OVERSEER: That twasn't me.
 ACT_2/90/1.html
 OVERSEER: ...What y'all doin' down there? Sun's up. Get up! Lazy neegs.
 
+ACT_2/91/1.html
+OVERSEER: Some thanks I get. For every•thing I done for him... He ain't left me no•thing--but trouble.
+OVERSEER: He su•pposed to make me the gun. The one that su•pposed to tell time and shit. Every got•damn mo•ther•fuckin' day with him. "I make it tomorrow! Oh I just gatherin' parts. Oh I busy pickin' today, oh I was sleep in the daisies yesterday, oh I was at the neigh•bor plant•ation to•mor•row, nigger nigger nigger, coon coon coon." Then I turn around and he's whipped up this!
+HOVERTEXT: [Some invention]
+OVERSEER: For you!
+HOVERTEXT: [Some person]
+
+ACT_2/92/1.html
+SOMEONE: W-wait! Turn, turn it! It make a new one every time...j-just for the person who use it, see?
+OVERSEER: …
+HOVERTEXT: Turn… turn… turn...
 
