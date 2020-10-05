@@ -109,7 +109,7 @@ GODHEAD: It sure is lonely at the top.
 ACT_1/5/4.html
 GODHEAD: CoWi,
 COWI: Lord Godhead?
-GODHEAD: Please set a reminder for me: "Reinstall CoWi'sempathy module."
+GODHEAD: Please set a reminder for me: "Reinstall CoWi's empathy module."
 COWI: Can do, Lord Godhead!
 
 
