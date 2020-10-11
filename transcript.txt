@@ -2434,3 +2434,12 @@ HOVERTEXT: The egg contains…
 HOVERTEXT: ...him!
 OVERSEER: ...
 
+ACT_2/95/1.html
+OVERSEER: Aw.
+OVERSEER: Why you? Who in good God is you? You got a name? You don't got shit! You nothin', you don't do nothin' and you don't got nothin' and you won't never be nothin'!
+
+ACT_2/96/1.html
+OVERSEER: Had I knew all it took was ab•so•lutely got•damn fu•ckin' no•thing to earn your aff•ect•ion then by the de•i•ties Billy•bob I never would'a RAISED YOUR GOT•DAMN CHILD•REN!!!
+
+ACT_2/96/2.html
+OVERSEER: Got•DAMN it I need my big burlap sack. She took my big burlap sack, Billy! She took ev•ery•thing I ever looooooooooooooooooooooooooooooooooooooveeeeeeeddddddddd!!!
