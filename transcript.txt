@@ -2443,3 +2443,20 @@ OVERSEER: Had I knew all it took was ab•so•lutely got•damn fu•ckin' no�
 
 ACT_2/96/2.html
 OVERSEER: Got•DAMN it I need my big burlap sack. She took my big burlap sack, Billy! She took ev•ery•thing I ever looooooooooooooooooooooooooooooooooooooveeeeeeeddddddddd!!!
+
+ACT_2/97/1.html
+PERSON 1: Come on Overseer, it's gon' be okay...We all miss Billy but you.
+PERSON 1: You really gots to hold it together. I mean...Who gon' scare us into pickin' the cotton?
+
+ACT_2/97/2.html
+HOVERTEXT: The Overseer vomits on Person 1's feet.
+
+ACT_2/98/1.html
+PERSON 2: Yeah, yeah... There's no need for all that.
+PERSON 2: ...So early in the mornin'.
+PERSON 3: Ya'know how Peanut was...He was just...ya'know...The more he liked ya the less he could stand ya, ya'know?
+
+ACT_2/99/1.html
+OVERSEER: Y'all think I...came on too strong?
+WOMAN: A hurricane more delicate than you.
+WOMAN: Why you really think Billybob ain't leave you with nothin'?
