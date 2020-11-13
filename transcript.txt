@@ -285,7 +285,7 @@ GODHEAD: H-huh?! Ten minutes?!?! That's like five seconds for me! Can't you give
 COWI: I'm not exactly in charge here, teehee.
 GODHEAD: Um. Okay. Well? Where is it going to land?!
 HOVERTEXT: Planet Finder zooms WAAAAY in on its projected path. It appears we're en route to...
-HOVERTEXT: EXT. AMERICAN SOUTH - OLD DIRT ROAD - 18TH CENTURY
+HOVERTEXT: EXT. AMERICAN SOUTH - OLD DIRT ROAD - 19TH CENTURY
 
 ACT_1/17/1.html
 HOVERTEXT: Two girls, aged 3 and 5 respectively, stand beside one another.
@@ -352,7 +352,7 @@ spikiest fallbreaker ever gifted to us by the natural world.
 Lisa Sharp gapes at her sister's cotton casket.
 HOVERTEXT: She fights to inch towards the human wreckage.
 HOVERTEXT: Lo and behold, Walnut's fine. More than fine, really. She's
-holding up that rock like it's an 18th century winning lottery ticket.
+holding up that rock like it's an 19th century winning lottery ticket.
 WALNUT: You's came back for me! You's really came back!
 
 ACT_1/21/1.html
@@ -819,7 +819,7 @@ HOVERTEXT: Creeeeak...
 HOVERTEXT: Walnut sneaks inside a cabin belonging to family piled asleep on a sheet of hay.
 This is completely innocuous behaviour.
 HOVERTEXT: She carefully, or rather, clumsily as shit steps between their tangled limbs. 
-It's like an 18th century version of Twister, which actually in very few ways 
+It's like an 19th century version of Twister, which actually in very few ways 
 whatsoever resembles the 21st century version of Twister.
 HOVERTEXT: SQUEAK. Walnut misteps directly onto one of their sleeping faces.
 She's so caught in the act that she not dare raise her foot.
@@ -1274,7 +1274,7 @@ MINIHEAD: I'm expelling your tears from my system, actually. Haha.
 ACT 2
 
 ACT_2/1/1.html
-HOVERTEXT: EARTH - 18TH CENTURY
+HOVERTEXT: EARTH - 19TH CENTURY
 
 ACT_2/2/1.html
 HOVERTEXT: ECLIPSE.
