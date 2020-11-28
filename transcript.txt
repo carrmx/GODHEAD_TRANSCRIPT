@@ -2460,3 +2460,129 @@ ACT_2/99/1.html
 OVERSEER: Y'all think I...came on too strong?
 WOMAN: A hurricane more delicate than you.
 WOMAN: Why you really think Billybob ain't leave you with nothin'?
+
+ACT_2/100/1.html
+HOVERTEXT: Bob-esque children cling to the speaker's legs.
+WOMAN: Look at you! You a horrible bastard right down to the toenail and Billy wasn't known a fool. You think what you want 'bout his good manner toward ya but he could see the devil that you is and if it wasn't no accident he left he left 'cause of you.
+HOVERTEXT: The Overseer stares at this woman.
+HOVERTEXT: She stares back, everything but breaking.
+HOVERTEXT: Well jeez. That really hurt his feelings.
+HOVERTEXT: He just buries his face in his donkey's mane and cries hysterically some more.
+HOVERTEXT: Then he shoots her.
+
+ACT_2/101/1.html
+WALNUT: Three many boomies three many boomies...
+LISA SHARP: Sounds like ya forgot to nab one.
+...
+Aw well! A sack full'a guns good enough for me!
+
+ACT_2/102/1.html
+WALNUT: Walnut's daddy...? I dos 'member it.
+
+ACT_2/103/1.html
+WALNUT: He taughts me all sorts of ways to fit in da human place dat is here while I stays in her self without gettin' caught like hows to talk to da people usin' nuthin' but a cup an' the special yum mud dat keep both Walnut an' the alien me inside growin' strong. He say he found me after he left baby Walnut in her special babysittin' walnut tree and all a sudden she was speakin' my very own talk, but dat okay 'cause he taught me what words humans like da most too like "a".
+LISA SHARP: Psh. We knew you and him was best damn friends that ain't nothin' new.
+WALNUT: See how trees gots long sticks stickin' off of 'em dat sticks up like da sticky part on stickbugs dats how I got in Walnut see? I told you dat? Yup yup Walnut's daddy was a real nice to take me under his armpit like dat when I didn't barely come from nowhere and stoled his daughter's arms n' legs but he knew I give it back so together we builted rollin' shoes and he showed me da best mosses for stickin' parts together and dere was da big balloon and the hat for listenin' to out-dere-space an' the slugrug an' the see-new-colors eyesglasses an' da fastpants an' da bird bubble bath an' da no-show scribbler an' da un-brella an' da talkin' cat an' da doorbell warmieser and dat spare sky we mades I think we still got dat.
+LISA SHARP: WHATEVER!
+
+ACT_2/104/1.html
+LISA SHARP: None of that matter now 'cause he got smashed in the head with a rock an' died.
+WALNUT: Dat not good.
+LISA SHARP: No it ain't. Do you 'member what got him?
+WALNUT: ?
+LISA SHARP: It was some kinda thing I ain't seen since! Like a man turned inside out. Or a skinned pig that just got up and started movin'. I ain't never seen a creature so ugly. So...scary. AND YOU KNOW I AIN'T SCARED OF NOTHIN'!!!
+WALNUT: You Lisa Sharp ain't scared of even da dark!
+LISA SHARP: Yeah. I ain't scared of NOTHIN'. But if I was scared of somethin' that'd make a good place to start.
+
+ACT_2/105/1.html
+LISA SHARP: And If I had nightmares, they'd fit right in.
+AND if there was somethin' so unsettlin' that I prayed every night to God since I was Walnut-sized that I'd never EVER see it again, then...uh... I WOULDN'T LIKE IT!
+WALNUT: Pee-phew good thing you da opposite day of all dat den.
+LISA SHARP: EXACTLY IT'S GREAT. Just try not to get too scared when I say this, Nut...
+WALNUT: I's poopin'.
+LISA SHARP: When I saw them things they was leavin' here. But I hear the other slaves talkin' about it sometimes. Seein' strangeee beings comin' in and out the BIG HOUSE.
+WALNUT: O dat big BIG HOUSE dats dere for no reason dat nobody live in? Everybody always complain about no-space here when they could just take da inside of dat BIG HOUSE and put it inside they cabins to be da inside instead.
+LISA SHARP: I didn't think nobody lived there neither! But the Overseer seen goin' in and out. And if you can believe anything the USELESS Negroes 'round here say...
+
+ACT_2/106/1.html
+LISA SHARP: So does...them creatures.
+LISA SHARP: Walnut, DO NOT BE SCARED.
+WALNUT: Otay!
+LISA SHARP: Normally all this pretty confusin' and kinda hurt my head to think about too long...
+...
+…
+LISA SHARP: OH. But God's message made it all make sense!
+WALNUT: Did da message say anything 'bout if it safe to eat frog meat?
+LISA SHARP: The message said EVERYTHING.
+WALNUT: Alltating?
+LISA SHARP: EVERYTHING. I know it all. So if you gots any questions about stuff don't ask me 'cause I BUSY.
+WALNUT: Ok what's mah middle name?
+LISA SHARP: SHUT UP. LISTEN. The people that owns us?
+LISA SHARP: ... And them terrible pink creatures?
+LISA SHARP: ... Well ... I's the first ever to realize this ... So keep it HUSH ... That them and that ... Has got.
+LISA SHARP: SOMETHIN' TO DO WITH EACH OTHER.
+
+ACT_2/107/1.html
+WALNUT: The creatures is the owners?
+LISA SHARP: WHAT?
+LISA SHARP: AAAAH!!!
+GIF: BLAM-o
+WALNUT: Aaaaah!
+WALNUT: Y'know Lisha I dinks dis planet gettin' a lil' over-saturnated with all da aliens dats keep showin' up.
+LISA SHARP: HEY. HOLD ON. I DIDN'T THINK WE WAS OWNED BY FLESH MONSTERS. I THOUGHT THEY WAS JUST LIKE THEY PETS OR SOMETHIN'. THAT'S SCARY!!! THAT'S REALLY SCARY!!!
+WALNUT: Don't bes a humblebee you knows everythings you can says it.
+LISA SHARP: I DON'T WANNA KNOW SOMETHIN' LIKE THAT! IT'S TOO SCARY!
+LISA SHARP: ... Bah! Shut up! It's just takin' a minute for me to remember everything God told me 'cause y'know. Everything is A LOT of stuff, Walnut!
+WALNUT: It not dat much stuff.
+LISA SHARP: Buuut uhhh...Now that you says it. Yeah. Yeah I guess that make sense.
+
+ACT_2/108/1.html
+LISA SHARP: Now. WHEN I kills the Overseer--
+WALNUT: You saids you wasn't gonna kills'em!
+LISA SHARP: WHY WOULD I SAY THAT?
+WALNUT: Why would she says dat?
+HOVERTEXT: Uh huh. Got it.
+WALNUT: Dramagic effect.
+LISA SHARP: All it gon' take is a bullet through the head. Nothin' special. Nothin' crazy. 'Cause no matter how EVIL that man is,
+HOVERTEXT: Overseer looking like a bitch.
+LISA SHARP: He got a soul. You can tell from the way he a bitch.
+
+ACT_2/109/1.html
+LISA SHARP: And stuffs that's what got souls can ALWAYS be killed, Walnut. LIFE LESSONS.
+In fact I could kill that mother FUCKER right NOW.
+WALNUT: Buuuuuuuuuuuut?
+LISA SHARP: ... But nothin'? Yeah. I think I'll kill him. Sound like a good plan!
+WALNUT: Lisa Starch I don't think you was done speechin' yet!
+LISA SHARP: I was.
+WALNUT: Nuh uh.
+LISA SHARP: Uh huh.
+WALNUT: Uh huh.
+LISA SHARP: NUH UH!
+WALNUT: Yup! You was on you way right out d'door!
+HOVERTEXT: Imminent BLAMM-o.
+LISA SHARP: NO I WAS NOT! Stop distractin' me from my speech you little IDIOT.
+Unlike a normal Negro them monsters ain't got no soul. I could tell then and now.
+
+ACT_2/110/1.html
+LISA SHARP: Walnut, God want you to make me a weapon to
+KILL the UNKILLABLE.
+Can you do it?
+WALNUT: Yup sound doesable to me.
+LISA SHARP: Then by the WRATH OF GOD, the guns is yours.
+WALNUT: If I ever gets stuck I just ask God for da one-two step how-do.
+HOVERTEXT: Walnut wink!
+COWI: Are you teaching kids to lie again?
+
+ACT_2/111/1.html
+HOVERTEXT: Walnut returns the gun to its big burlap sack.
+WALNUT: I'ma just take the guns wit' me to my secret buildin' place where yous can'ts find mes or touch da guns no more or knows where they is otay?
+LISA SHARP: GOOD PLAN.
+
+ACT_2/111/2.html
+HOVERTEXT: RAISE.
+LISA SHARP: Pretend there's two'a these and they both got they heads. FREEDOM.
+OVERSEER: Any last got•damn knick•knacks I should know about?!
+
+ACT_2/112/1.html
+HOVERTEXT: Bendy Straw!!!!!!
+
