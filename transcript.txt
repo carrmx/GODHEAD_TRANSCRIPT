@@ -2586,3 +2586,20 @@ OVERSEER: Any last got•damn knick•knacks I should know about?!
 ACT_2/112/1.html
 HOVERTEXT: Bendy Straw!!!!!!
 
+ACT_2/113/1.html
+OVERSEER: ...Yyyy…
+HOVERTEXT: His target 'lands' on the broken ANGEL STATUE in Lisa's hands.
+OVERSEER: ...ouuu broke it.
+
+ACT_2/114/1.html
+LISA SHARP: Don...don't hurt W…
+TEXT: B O N K
+
+ACT_2/115/1.html
+OVERSEER: She a witch, Billy.
+OVERSEER: A witch.
+
+THE REST OF Y'ALL BEST BE ON THEM FIELDS BE•FORE I CAN SEE STRAIGHT!
+
+ACT_2/115/2.html
+LISA SHARP: Yeah. You best be runnin'. Bitch. Mother fucker. Asshole. Piece of shit. Yeah.
