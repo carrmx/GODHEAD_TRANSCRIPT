@@ -2612,3 +2612,22 @@ GODHEAD: Girly?
 ACT_2/116/2.html
 GODHEAD: Well I didn't hear you vetoing my contributions while she was buildin' the thing.
 LISA SHARP: It's PERFECT.
+
+GODHEAD/ACT_2/117/1.html
+HOVERTEXT: EXT. GRAVEYARD ENTRANCE - SUNDAY MORNING
+HOVERTEXT: SHARP
+LISA SHARP: What it say here?
+WALNUT: I'unno.
+
+GODHEAD/ACT_2/118/1.html
+LISA SHARP: BANG. You DEAD!
+WALNUT: Ain't not!
+
+GODHEAD/ACT_2/118/2.html
+-
+
+ACT_2/119/1.html
+TEXT: DIIIIING!!
+
+ACT_2/119/2.html
+LISA SHARP: We gots to go!
