@@ -2631,3 +2631,14 @@ TEXT: DIIIIING!!
 
 ACT_2/119/2.html
 LISA SHARP: We gots to go!
+
+ACT_2/120/1.html
+HOVERTEXT: EXT. OUTSIDE OF CHURCH - SUNDAY MORNING
+
+ACT_2/121/1.html
+HOVERTEXT: Two guys man the church bell. It's too nice an addition to this loosely built hush harbor. It kinda just makes the rest of the place look even shittier?
+BELL GUY'S FRIEND: Y'know, if this hush house supposed to be, y'know, hush? Then what, y'know, we ringin' a big ass bell at the tip'a day for?
+BELL GUY: Is we not allowed the simple pleasures of what little we do got?
+BELL GUY'S FRIEND: Y'know.
+Well said.
+
