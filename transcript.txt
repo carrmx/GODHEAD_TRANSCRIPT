@@ -2642,3 +2642,15 @@ BELL GUY: Is we not allowed the simple pleasures of what little we do got?
 BELL GUY'S FRIEND: Y'know.
 Well said.
 
+ACT_2/122/1.html
+HOVERTEXT: Four children fight over an off-color corn cob on the church steps.
+HOVERTEXT: The one in current possession of the cob makes a run for it, inciting a chase.
+HOVERTEXT: Lisa Sharp, very obviously concealing a firearm inside her flimsy muddied garment, pushes her way through the crowd. Walnut follows, again pregnant with Minihead.
+LISA SHARP: Ugh! Sure be embarrassin' if we was late to church while God's rock hangin' out with us.
+WALNUT: Dere's more where dis cames froms.
+
+ACT_2/123/1.html
+LISA SHARP: Rauuugh!!! Stupids!
+KID: You dress ugly.
+LISA SHARP: I HATE YOU!
+
