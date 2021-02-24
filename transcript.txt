@@ -2654,3 +2654,30 @@ LISA SHARP: Rauuugh!!! Stupids!
 KID: You dress ugly.
 LISA SHARP: I HATE YOU!
 
+ACT_2/124/1.html
+KID: I's tellin'! You ain't supposed to play in the mud in you Sunday best!
+HOVERTEXT: Sharp pulls a gun on the kid.
+
+ACT_2/125/1.html
+WALNUT: Lisa's Arc!
+WALNUT: It supposed to be a Lisecret!!
+HOVERTEXT: Sharp reconceales her gun.
+LISA SHARP: You ain't tellin' nobody PUNK.
+HOVERTEXT: Sent crying home to mama.
+HOVERTEXT: No not the cat grin NO
+LISA SHARP: I's a natural at this revolutionin'.
+WALNUT: Secret.
+
+ACT_2/126/1.html
+LISA SHARP: Make sure you pays SUPER EXTRA ATTENTION in church today Walnut.
+WALNUT: I always pays attention I'ont want its goons comin' afters me nope ain't doin' dat one agains.
+LISA SHARP: LIAR!
+
+But that's okay lil' Walnut.
+LISA SHARP: Today's like all the days you AIN'T PAY ATTENTION to the holy scripture smashed all up into ONE BIG DAY. So pay attention an' banish your sins, OKAY?! Good Walnut.
+HOVERTEXT: SRITCH SCRATCH
+WALNUT: Now can I's eat more mud?
+LISA SHARP: . . .
+Nutty, you can eat aaaall the mud you waaaOOOH GOOOOOOOOOOOOOOOOOOD DAAAAAAAAAAAAAAAAAMN IT.
+WALNUT: ?
+
