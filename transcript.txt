@@ -2681,3 +2681,8 @@ LISA SHARP: . . .
 Nutty, you can eat aaaall the mud you waaaOOOH GOOOOOOOOOOOOOOOOOOD DAAAAAAAAAAAAAAAAAMN IT.
 WALNUT: ?
 
+ACT_2/127/1.html
+HOVERTEXT: It's the plantation moms.
+LISA SHARP: It the PLANTATION MOMS.
+HOVERTEXT: They're blocking the door.
+LISA SHARP: THEY BLOCKIN' THE DOOR. NO! NO! NO! NO! NO!
