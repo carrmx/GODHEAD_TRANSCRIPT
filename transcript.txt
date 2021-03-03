@@ -2686,3 +2686,20 @@ HOVERTEXT: It's the plantation moms.
 LISA SHARP: It the PLANTATION MOMS.
 HOVERTEXT: They're blocking the door.
 LISA SHARP: THEY BLOCKIN' THE DOOR. NO! NO! NO! NO! NO!
+
+ACT_2/128/1.html
+HOVERTEXT: The first has some sort of bustling mechanism sticking out of her bust, which doesn't necessarily say anything about her personality, but to be burdened with such a harrowing condition and still wear as warm a smile, this woman must have a pretty FAIR outlook.
+FAIR WANDA: All the food ruined. 'Least I got to tell that dumb nigga what for. Right down to the toenail I say.
+HOVERTEXT: The second stands beneath the cross, crossed arms, cross attitude, as if to let God Himself know He's not that big a deal. She must be MEAN.
+MEAN MISSI: Get his raggedy ass, Wanda. 'Bout time.
+HOVERTEXT: The last one, she looks kinda DUMB.
+DUMB-O DEB: She should'a gone lower if you ask me, Missi.
+FAIR WANDA: What, Deb, exactly lower than a toenail?
+DUMB-O DEB: A toe.
+
+ACT_2/129/1.html
+WANDA'S KID: Mama I don't feel good.
+FAIR WANDA: Great day in the morning what happen to my child!
+FAIR WANDA: I told you not to be eatin' outta that floodwater.
+WANDA'S KID: I hungry mama.
+FAIR WANDA: Go lay under the tree in the shade baby. You dream about some good food and wake up full.
