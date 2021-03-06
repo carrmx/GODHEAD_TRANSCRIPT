@@ -2703,3 +2703,16 @@ FAIR WANDA: Great day in the morning what happen to my child!
 FAIR WANDA: I told you not to be eatin' outta that floodwater.
 WANDA'S KID: I hungry mama.
 FAIR WANDA: Go lay under the tree in the shade baby. You dream about some good food and wake up full.
+
+ACT_2/130/1.html
+LISA SHARP: If the moms see us we ain't NEVER gettin' in that church. AND THEN WE DIE. UUUUUUUUUUUUUUUGHHHHHHHHHHHH. Walnut, get down.
+
+ACT_2/131/2.html
+COWI: Oh poop. They got tangled up~. 19th century Earth women don't exactly invite you into the space between their legs.
+GODHEAD: Really CoWi? Really?
+HOVERTEXT: Don't look down.
+FAIR WANDA: Walnut!
+
+ACT_2/131/1.html
+COWI: Operation Bleiffel Tower: The girls start an army crawl for between the plantation moms' legs. Will they be able to covertly make it to 'church' propelled by your left arrow key alone? And what the heck is a 'mom'?
+[FLASH GAME]
