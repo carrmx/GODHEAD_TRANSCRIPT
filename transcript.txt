@@ -2716,3 +2716,13 @@ COWI: Oh poop. They got tangled up~. 19th century Earth women don't exactly invi
 GODHEAD: Really CoWi? Really?
 HOVERTEXT: Don't look down.
 FAIR WANDA: Walnut!
+
+ACT_2/132/1.html
+HOVERTEXT: Miss Fair lifts Walnut all the way in the air.
+WALNUT: Weeeee!
+LISA SHARP: DAMMIT WALNUT.
+HOVERTEXT: This gesture is evidently straining with whatever chest situation this woman has going on.
+FAIR WANDA: Whoof.
+LISA SHARP: OW?
+FAIR WANDA: Girl you gain weight?! Good for you.
+WALNUT: Walnut expectin'.
