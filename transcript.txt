@@ -2726,3 +2726,106 @@ FAIR WANDA: Whoof.
 LISA SHARP: OW?
 FAIR WANDA: Girl you gain weight?! Good for you.
 WALNUT: Walnut expectin'.
+
+ACT_2/133/1.html
+FAIR WANDA: Can't pick up ya youngins' like I used to. But otherwise, this MECHANICAL HEART ya built me is a reaaaaaaaaaa...aaa...a...a...l...
+TEXT: The whirring and pulsing and crunching in her chest comes to a sudden stop.
+TEXT: She dies.
+TEXT: It starts back up again. Life goes on.
+FAIR WANDA: ...Life saver.
+WALNUT: Just doeszing my job miss. Take away 'nuf parts from lots and you still got lots'a parts left.
+MEAN MISSI: I won't never get used to that hexed ass nonsense. Billybob ain't used to make stuff like that. That shit some devil shit.
+FAIR WANDA: Uh huh, well, Billybob only make <i>funny</i> shit that don't do anything.
+DUMB-O DEB: Ain't true. He make the thingie-ma-jigger I straighten my hair with.
+FAIR WANDA: That's more a testament to your smarts, D.
+FAIR WANDA: But this here thing, this here girl? Save my life! Really truly, I got shot in the heart. What you--<i>what part is you missin' here?
+MEAN MISSI: I don't trust like that.
+DUMB-O DEB: Sighhhhhh...Billyyyboooob....
+FAIR WANDA: Billyyyboooooooob....
+MEAN MISSI: Billyyyyyyboooooooob....
+TEXT: The moms hop on and ride the high of that sweet, sexy namesake all the way to skyworld. Meanwhile, Billybob's daughters sit (one still trouncing the other) dumbfounded.
+TEXT: Here we have the opening to the exact extraneous bullshit Lisa Sharp wanted to avoid on her way to WORSHIP GOD. Let her roar contemptuously to sell this point.
+LISA SHARP: UUUUUUUUUUUUUUUUUUUUGHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH GROSS.
+DUMB-O DEB: Billy ain't gross! He was all cuuuuuuuuuute and niiiiiiiiiiice.
+MEAN MISSI: <i>That</i> is puttin' it in chile-friendly terms. With all the whatnot and suchforth happenin' between pickin', you couldn't tell whether this MASTER'S plantation or Billy's.
+MEAN MISSI: That is puttin' it in chile-friendly terms. With all the whatnot and suchforth happenin' between pickin', you couldn't tell whether this MASTER'S plantation or Billy's.
+LISA SHARP: Master?
+FAIR WANDA: Oh please Missi. Not in God's house.
+DUMB-O DEB: We ain't in God's house. We standin' outside it. He can't hear us here we can says whatever we want.
+DUMB-O DEB: Boobies!!!
+MEAN MISSI: Uh huh He better hope He ain't hear what I 'bout to say--
+FAIR WANDA: Girls. Go play with your lil' brooooooooooooo...
+TEXT: Wait it out.
+FAIR WANDA: ...thers and sisters.
+TEXT: Walnut and Lisa look at each other curiously.
+WALNUT: I am playin' wit' mah brothers and sisters look at it look! Boopboopboopboopboopboopboop 
+TEXT: Walnut starts poking Lisa in the face at warp speeds.
+LISA SHARP: RAAAAAAAAAAAAAUGH STOP IT WHAT YOU TALKING ABOUT WE AIN'T GOT NO BROTHERS AND SISTERS!!! 
+FAIR WANDA: Ahem.
+FAIR WANDA: Your half brothers and sisters, gals.
+LISA SHARP: Oh.
+LISA SHARP: NO! I HATE THEM!!!
+FAIR WANDA: Hey now, them's my kids.
+MEAN MISSI: And mine.
+DUMB-O DEB: Think some of 'em came out me too.
+LISA SHARP: I HATE THEM I HATE THEM I HATE THEM I HATE THEM I HATE THEM I HATE THEM
+FAIR WANDA: Now Lisa Sharp stop pitchin' a duck fit outside the Lord's house.
+LISA SHARP: YOU AIN'T MY MAMA!
+FAIR WANDA: !
+TEXT: Wanda dies again.
+WALNUT: Aw comes on Lisa Snop you didn't has to kilt her
+MEAN MISSI: Really is a shame what happen to the girls' mama.
+TEXT: The girls turn bewildered, as if they just popped out of existence and it was regarded as a natural exit by the adults.
+DUMB-O DEB: Awwwww. That's what we call a local tragedy 'round here.
+DUMB-O DEB: Ummmm? What did happen?
+MEAN MISSI: Who knows. Hear it was somethin' to do with this and that.
+DUMB-O DEB: And the other?
+MEAN MISSI: 'Specially.
+DUMB-O DEB: Gasp! That's so unbelievably terrible!
+MEAN MISSI: Uh huh. Good thing we didn't know her.
+DUMB-O DEB: But we know everyone!
+MEAN MISSI: I know! This bitch come outta thin air?
+DUMB-O DEB: I always hear she fell out the sky.
+WALNUT: Da sky?
+MEAN MISSI: Think you mean a real tall tree.
+DUMB-O DEB: The sayin' goes!
+MEAN MISSI: You got it all wrong. She fell out a tree when she was pregnant, after that she disappeared in a lake.
+DUMB-O DEB: Yeah but she was just takin' a bath Missi. Don't be dumb.
+MEAN MISSI: Shut up! I ain't even believe that rumor. I believe the one that say she got flown away by a giant bird.
+DUMB-O DEB: That's my favorite one!
+MEAN MISSI: If only we could just ask Billy what happened.
+MEAN MISSI: ...
+MEAN MISSI: Hey girls, what happen to your dead mama?
+LISA SHARP: HELLO?
+TEXT: The women presently alive pout sympathetically past the girls.
+MEAN MISSI: We think we got it bad. Just look at 'em. Ain't got nobody to figuratively whip they behinds into shape.
+DUMB-O DEB: Poor orphans.
+DUMB-O DEB: I got parents.
+TEXT: Wanda wakes up with a couple a jolts.
+FAIR WANDA: What's goin' on?
+WALNUT: We orphans.
+FAIR WANDA: I die for two seconds and y'all...!?
+FAIR WANDA: (You hedge hoes know we ain't supposed to tell the girls they mama's alive somewhere and just ain't bothered to claim 'em!
+FAIR WANDA: Or rather, somehow went TO the bother of not claimin' 'em. That's the sorta thing we do not bring up period.)
+TEXT: Walnut and Lisa stand there orphanly.
+TEXT: Deb and Missi look at each other.
+DEB & MISSI: Oooooooooooooooooooooooh.
+MEAN MISSI: Uh uh, don't look at me! They ain't look a drop like this pretty face.
+DUMB-O DEB: Ummmmm ummmm ummmm I don't 'member givin' birth to 'em...?
+TEXT: Deb momentarily retreats to Debonia to take count of her children.
+DUMB-O DEB: On..tw...thr...f...
+FAIR WANDA: Tch. What it matter to 'em now? They grown.
+FAIR WANDA: And like it said, it take a plantation.
+TEXT: Another warm smile. With Sharp turned away, Walnut will have to soak up that sunlight for the both of 'em.
+MEAN MISSI: With Billy 'round sure did.
+DUMB-O DEB: Yeah! We could share Billy, we can share his kids!
+FAIR WANDA: What you say, girls? Want three new crazy mamas?
+LISA SHARP: NO.
+WALNUT: Four or we walks.
+MEAN MISSI: Three mamas? That the sorta thing we sayin' in God's house now?
+FAIR WANDA: We standin' outside it, 'member? Plus. Ain't you remember who we shared Bobby with?
+MEAN MISSI: Wha? Uh uh. You Know Who the only one who got into all that. Billy ain't get into all that.
+FAIR WANDA: Oh please. They both got into it. Often with each other.
+MEAN MISSI: Ew!
+FAIR WANDA: That man Billybob was different. You'd skip church on a Sunday to see him no matter what you hidin' under the apron.
+TEXT: Wanda covers her embarrassed smile knowing she let her filter slip.
