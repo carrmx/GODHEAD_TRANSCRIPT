@@ -2889,3 +2889,7 @@ MEAN MISSI & LISA SHARP: No!
 TEXT: Walnut tugs Wanda's dress.
 WALNUT: Don't listens to 'ems not-my-mommy dis heart real good it last a year and a whole HALF!
 FAIR WANDA: Ah...Thanks, lil' Walnut...
+
+ACT_2/134/1.html
+BELL GUY'S FRIEND: Now this just a gross abuse of power.
+LISA SHARP: CHURCH TIME EVERYBODY GET OUT MY WAY AND DIE FOREVER BYE.
