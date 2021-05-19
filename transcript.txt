@@ -2893,3 +2893,101 @@ FAIR WANDA: Ah...Thanks, lil' Walnut...
 ACT_2/134/1.html
 BELL GUY'S FRIEND: Now this just a gross abuse of power.
 LISA SHARP: CHURCH TIME EVERYBODY GET OUT MY WAY AND DIE FOREVER BYE.
+
+ACT_2/135/1.html
+-
+
+ACT_2/135/2.html
+-
+
+ACT_2/135/3.html
+WALNUT: Owchowchredredhothot!
+HOVERTEXT: Walnut sticks her head inside her dress. Minihead is...blushing.
+WALNUT: What wrong?
+MINIHEAD: Billybob, Walnut's dad? Was he…
+ACT_2/135/4.html
+GODHEAD: ...Truly the exquisite player all suggest he was...?
+COWI: CUT.
+
+ACT_2/136/1.html
+HOVERTEXT: WHACK.
+LISA SHARP: Pay the hell attention.
+WALNUT: Otay.
+
+ACT_2/136/2.html
+-
+
+ACT_2/137/1.html
+PRIEST:
+"And the Lord spake unto Moses, saying, When Pharaoh shall speak unto you asking for a miracle: Take thy rod, And cast it before Pharaoh, And it shall become a serpent. A what, spake Moses. A snake, spake the Lord. Oh, spake Moses."
+PRIEST: Ahem.
+
+ACT_2/137/2.html
+PRIEST:
+"Moses went in unto Pharaoh, and did so as the Lord had commanded. And the Pharaoh absolutely hated snakes, had his whole life, so that 'didn'teth' work. The Pharaoh's heart hardened in apparent correlation to the snakes, but actually it had more to do with his fat intake?!
+
+And the Lord said unto Moses, Pharaoh's heart is hardened, He refuseth to let the people go. For a guy who's allknowing, Think you could have warned me this snake 'shenanigan' wasn't going to work sooner? The Lord spake again unto Moses, A wise man once told me, It is the journey, Not the destination. Moses tooketh note: Where the biblical reference is this guy's voice coming from?"
+Why I never...!
+"A FEW DAYS LATER...?
+
+Thus saith the Lord, Go unto Pharaoh, And say unto him, Let my people go, That they may serve me. Any more forms of 'said' I should know about, 'commentedethed' Moses. The Lord striketh upon him a minor bolt of electrocution. And if thou refuse to let them go, Behold, I will smite all thy borders with frogs, No, Rats, No, Frogs waseth better...
+
+The Pharaoh said unto Moses, Let me talk to the Lord mineself for a second. Lord of Mine Slaves, Greetings, Just a few things. And so Moses stepeth outeth and giveth them their space...? And when Moses returned, a little 'arrangement' had been set into place. Thus 'saideth' the Pharaoh, The Lord hath decided to let up on the freedom ordeal if we build Him a monument on TOP of the Sphinx. What the Hell,
+(gasp)
+'utterized' Moses. And the Lord 'repleith', He made some points, I was the one who invented slavery?! Now go bestoweth the news upon your people that I have thus changethed my mind. They are going to hate me for this, said Moses.
+
+And Moses concluded upon his 'guys', If you were to really think about it, Slavery 'ain't' so bad after all. And the Lord smiled down upon them, and his white skin glistened, blessing 'they' unpaid souls forever?!"
+
+"A • MEN"?!?!?!?!?!?!?!
+HOVERTEXT: SLAM.
+HOVERTEXT: DROP.
+CONGREGATION: Amen.
+LISA SHARP: Amen.
+WALNUT: Gazuntite.
+HOVERTEXT: SLAP.
+
+ACT_2/137/3.html
+PRIEST: 'Amen'?
+'Amen'?
+PRIEST: Has the fine congregation of this esteemed parish gathered here today to tell me some kind of a humorous 'joke?'
+BELL GUY'S FRIEND: ...Look like it, yeah.
+
+Sorry Pastor. This happen a lot; The Overseer's the church keeper, only Bibles we gots to work with come from his personal li--library. That word always get me. Library.
+PRIEST: Your Overseer? What kind of man could your 'Overseer' possibly be? Is he present?
+BELL GUY'S FRIEND: He don't come to church.
+MEAN MISSI: Praise the Lord!
+PRIEST: Blasphemy! What happened to the great MINISTER'S son? Was he not left to tend the church as I was told?
+MEAN MISSI: He was.
+PRIEST: I...
+HOVERTEXT: The Priest looks like a man who was kissed by the devil--and liked it.
+
+ACT_2/138/1.html
+PRIEST: You should know your church has quite the reputation within the ASSOCIATION. Its tie with the late and great MINISTER affords it such credence. I myself was...partial to come see it.
+BELL GUY: Don't be shy! Our bell is A-MA-ZIN'. You would not believe the story 'hind it.
+
+ACT_2/139/1.html
+PRIEST: Making the matter of its decay,
+PRIEST: Disappointing.
+MEAN MISSI: Alright Duke of Limbs don't preach to us now.
+PRIEST: Yes, I now see why so many priests refuse to come back.
+
+ACT_2/140/1.html
+PRIEST: Does your 'Overseer' perchance carry an unabridged King James Bible in his,
+
+'Collection', so that we may resume service?
+PRIEST: Ah.
+PRIEST: At last.
+TEXT: KORAN,
+
+ACT_2/141/1.html
+PRIEST: Blasphemy! What devilish tongue is this?
+
+ACT_2/141/2.html
+PRIEST: Blasphemy!
+
+ACT_2/141/3.html
+PRIEST: Bbbbbbbblasphemy!
+
+ACT_2/141/4.html
+PRIEST: Blasphemy, blasphemy, BLASPHEMY!
+DUMB-O DEB: Overseer tell us we need to 'expand our hor•izons', but I'unno how readin' books help you gain weight.
