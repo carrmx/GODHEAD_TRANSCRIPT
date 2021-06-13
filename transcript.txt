@@ -2991,3 +2991,45 @@ PRIEST: Bbbbbbbblasphemy!
 ACT_2/141/4.html
 PRIEST: Blasphemy, blasphemy, BLASPHEMY!
 DUMB-O DEB: Overseer tell us we need to 'expand our hor•izons', but I'unno how readin' books help you gain weight.
+
+ACT_2/142/1.html
+TEXT: JUST A FEW MORE MINUTES, JOHN. JUST A FEW MORE MINUTES AND U NEVER HAVE TO COME BACK...
+PRIEST: I will....
+
+Have to put in a request with the Association to refurnish your church.
+PRIEST: No matter. An extended homily is in order..
+
+ACT_2/142/2.html
+LISA SHARP: WUH. He readin' the Bible yet?!
+LISA SHARP: PAY ATTENTION.
+
+ACT_2/143/1.html
+PRIEST: The true story of Exodus is one of inadvertent...Rather, innate duty. The 'chosen one' Moses was but in spite of himself a regular man,
+LISA SHARP: (Mhm. Mhm. Yep.)
+PRIEST: Like you or I. For any one of us could have been the infant sent adrift the river in that basket,
+LISA SHARP: (WHAT! THIS GUY DON'T KNOW THE BIBLE AT ALL!)
+LISA SHARP: (You hearin' this Walnut? Moses couldn'ta been ANY of these toad eaters. Just look at 'em. Anyone here look Chosed to you?)
+WALNUT: (Mmmmmmh I choosedses dat one.)
+LISA SHARP: (NO!)
+
+ACT_2/144/1.html
+LISA SHARP: (God chosed Moses because he had MUSCLES and could FLY.)
+LISA SHARP: (You know he also shoot his eye out?)
+WALNUT: (Ooooh.)
+LISA SHARP: (See Walnut, all these corny Negroes think they believe in God good enough they get superpowers. WRONG. Only REAL special people like ME and MOSES get powers.)
+LISA SHARP: (ONE: 'Cause we AWESOME.)
+LISA SHARP: (TWO: 'Cause God like us better than everybody.)
+LISA SHARP: (And FOUR: You need real big muscles to open the door to the PROMISED LAND.)
+WALNUT: (Promise land? Hmmm dats five minutes away from Skyworld by beetle.)
+
+ACT_2/145/1.html
+LISA SHARP: (The PROMISED LAND actually a lot like your fake made up liary not real stupidworld, stupid. It got clouds, there enough food to eat and it never too hot in the day or cold in the night. Walnut they got BLANKETS up there. Sound too good to be true, RIGHT?)
+WALNUT: (Does you get the souper gooper befores or afters your threed feather grow in?)
+LISA SHARP: (You can get your stupid gooper whenever you want! It's the PROMISED LAND.)
+WALNUT: (In Skyworld you gets em after you can dos swirlies but we can go sees the promise palace on the ways dere. I'lls fly us dere!)
+WALNUT: (Jusht gimmeee dat stick and every mosquito.)
+LISA SHARP: (NO! The stupid old Egipps slaves couldn't reach the PROMISED LAND without Moses' muscles, Walnut. They probably was headin' straight for HELL by mistake, the stupids.)
+WALNUT: (Did dey forget to bring they shadows 'cus thems really goods at givin' directions.)
+LISA SHARP: (If I ain't the one who take us there who know what you'll find a way to mess up.)
+
+
