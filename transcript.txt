@@ -3032,4 +3032,55 @@ LISA SHARP: (NO! The stupid old Egipps slaves couldn't reach the PROMISED LAND w
 WALNUT: (Did dey forget to bring they shadows 'cus thems really goods at givin' directions.)
 LISA SHARP: (If I ain't the one who take us there who know what you'll find a way to mess up.)
 
+ACT_2/146/1.html
+WALNUT: (So is the rumors true did Moe Said he really did hads to open every door to find da prom?)
+LISA SHARP: (Mhm. He PUNCHED open every door 'til the PROMISED LAND was HIS. One'a God's tests was puttin' it in a place where nobody would think to find it 'cept for only the RIPPEDEST Chosen Ones.)
+WALNUT: (Even da door to da poo hole?)
+LISA SHARP: (Yup.)
+WALNUT: (Even da door to da cooky?)
+LISA SHARP: (Yup.)
+WALNUT: (Even da door to Bebe cabin?)
+LISA SHARP: (Ummm, probably. No, DEFINITELY.)
+WALNUT: (Even da door to Johnny cabin?)
+LISA SHARP: (Yes yes YES.)
+WALNUT: (Even da door to Wanda cabin?)
+LISA SHARP: (Ughhh YES!)
+WALNUT: (Even da door to da mouse's house inside'a Wanda cabin?)
+LISA SHARP: (This IS a lotta doors... UGH God, You make this take forever. But it not like Moses had to open, y'know, like EVERY door himself. He only touch the IMPORTANT ones. The ones with knobs. Hinges.)
+WALNUT: (Oh oh Mosedses use his door openy spiders five five five machine to open most'a'da'doors I knews it was da way.)
+LISA SHARP: (He had guys to do those things FOR him, Walnut.)
+WALNUT: (Moseys had a Walnut too?)
+LISA SHARP: (He may of had muscles, but it took somethin' MORE than muscles (I ain't wanna believe it myself) to do ALL God's work in its allness.)
+PRIEST: [...] It took sacrifice.
+
+ACT_2/147/1.html
+[FLASH]
+PRIEST: Sacrifice.
+		We will bathe in blood,
+		We will breathe flies,
+		Darkness will swallow us whole and we will be blind.
+		God stained the earth red to punish the Pharaoh for keeping His people captive,
+		But realize it was the slave who endured the Plagues by his master's side.
+		And when he left his master's side to bathe in Milk and drink Honey,
+		He left behind him the punished earth we dwell today.
+		Brothers and Sisters, as Christians we must obey Him.
+		We will serve our 400 if He asks.
+		But keep faith that He will deliver us.
+		A numbing, deafening light will flood the earth and wash us away,
+		And we will be released from sin, 
+		And past things will be forgotten, 
+		And the flesh will be undone,
+		And we will be delivered to our eternal new earth.
+		
+ACT_2/147/2.html
+PRIEST: So do not be restless my Brothers and Sisters,
+Simply... wait.
+Amen.
+CONGREGATION: Amen.
+
+ACT_2/148/1.html
+PRIEST: Step up for announcements.
+NO FOOT JONES: The rumors 'round the giant frog from the swamp have been,
+NO FOOT JONES: (Sigh)
+NO FOOT JONES: Unfortunately confirmed. We ain't exactly know what to do yet.
 
