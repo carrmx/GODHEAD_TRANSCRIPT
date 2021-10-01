@@ -3084,3 +3084,31 @@ NO FOOT JONES: The rumors 'round the giant frog from the swamp have been,
 NO FOOT JONES: (Sigh)
 NO FOOT JONES: Unfortunately confirmed. We ain't exactly know what to do yet.
 
+ACT_2/149/1.html
+TEXT: TRIP
+PINKY: Oh my goodness gracious are you alright, ah...?
+NO FOOT JONES: No Foot Jones.
+PINKY: Sir No Foot Jones. I'm PINKY.
+Let's get you on your foot.
+
+ACT_2/150/1.html
+PINKY: 'Ello.
+PINKY: Hello!
+
+ACT_2/151/1.html
+PINKY: It is awful difficult to teach the children how to read using only, um, the Bibble and…
+PINKY: Another Bibble.
+LISA SHARP: READIN'S STUPID!
+PINKY: Please do not heckle me...
+
+I would like to request one of the house servants to please kindly bring some new books from the Big House, if possible, please.
+
+If you cannot decide which ones to request from the masters' library, then I suggest, for example, hits like…
+PINKY: Sense and Sensibility, Persuasion, Northanger Abbey,
+PINKY: Mansfield Park,
+PINKY: Pride and Prejudice, oh how I miss reading you so.
+PINKY: Ah...! I mean, how the children will love reading it...so.
+WANDA: The house servants don't come down here.
+DEB: Newwwwbie!
+PINKY: Oh...!
+PINKY: Then...Have a nice day anyways. Thank y'all for listening. Really.
