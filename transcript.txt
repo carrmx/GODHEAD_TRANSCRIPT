@@ -3146,5 +3146,7 @@ WANDA: That toy got Billybob written all over it, girl. And I don't care if the 
 LISA SHARP: Get back! This a DEADLY KILLIN' GUN. I-I shoot you!
 WANDA: Billybob ain't never make no toy that kill people. Foolish.
 LISA SHARP: NO! I says I want a GUN. And that what WALNUT build me.
+
+ACT_2/155/2.html
 WANDA: Walnut?
 TEXT: ATTENTION
