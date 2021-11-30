@@ -3112,3 +3112,39 @@ WANDA: The house servants don't come down here.
 DEB: Newwwwbie!
 PINKY: Oh...!
 PINKY: Then...Have a nice day anyways. Thank y'all for listening. Really.
+
+ACT_2/152/1.html
+TEXT: POOF
+TEXT: REACH
+TEXT: PULL
+
+ACT_2/152/2.html
+LISA SHARP: EVERYBODY GET DOWN!
+
+ACT_2/153/1.html
+WANDA: LAWD the child got a gun!
+
+ACT_2/153/3.html
+TEXT: HUMAN SHIELD
+
+ACT_2/154/1.html
+TEXT: PUFF
+
+ACT_2/154/2.html
+TEXT: ?
+WANDA: Wait a second. That ain't no gun. What...what is that?
+
+ACT_2/154/3.html
+TEXT: Actually not something anyone from the 19th century would recognize. 
+PRIEST: What kind of a church is this?!
+
+ACT_2/155/1.html
+BELL GUY: Y'all...
+BELL GUY: Church over.
+LISA SHARP: HEY! Where you stupids goin'?! Ain't you see my GUN?
+WANDA: That toy got Billybob written all over it, girl. And I don't care if the creek do rise, you grounded 'til the Third Coming of Jesus Christ praise be his name.
+LISA SHARP: Get back! This a DEADLY KILLIN' GUN. I-I shoot you!
+WANDA: Billybob ain't never make no toy that kill people. Foolish.
+LISA SHARP: NO! I says I want a GUN. And that what WALNUT build me.
+WANDA: Walnut?
+TEXT: ATTENTION
