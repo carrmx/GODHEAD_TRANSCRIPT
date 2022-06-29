@@ -3150,3 +3150,169 @@ LISA SHARP: NO! I says I want a GUN. And that what WALNUT build me.
 ACT_2/155/2.html
 WANDA: Walnut?
 TEXT: ATTENTION
+
+ACT_2/156/1.html
+HOVERTEXT: The balloons. 
+HOVERTEXT: The prosthetic foot.
+HOVERTEXT: The electric rock. The catapult. The propeller.
+
+ACT_2/156/2.html
+HOVERTEXT: The stopping heart.
+WANDA: Walnut build you a gun?
+
+ACT_2/157/1.html
+PRIEST: Your plantation has clearly, somehow, fallen in the Lord's blindspot. I, I am leaving this place--!
+
+ACT_2/157/2.html
+TEXT: BLAM-o
+LISA SHARP: You ain't going NOWHERE. After what you seen, you stayin' here for a LONG. LONG. TIME.
+BITCH.
+LISA SHARP: Now youse gettin' it. I IS DANGEROUS.
+
+ACT_2/158/1.html
+LISA SHARP: I so dangerous I shoot my own eye out. Uh huh!
+LISA SHARP: I dids it.
+ME.
+Not no eensty ansty Overseer, ME.
+LISA SHARP: ...No thanks for askin'.
+
+ACT_2/159/1.html
+[FLASH]
+LISA SHARP: HA...HAAA.
+
+Everybody 'round here sure do lots of talkin'. Well guess what. It MY turn to talk. And you ain't gonna say NOTHING! TRY IT! SAY SOMETHING. I, DARE, YOU. AIN'T YOU SEE WALNUT BUILD THIS THING TO KILL?
+
+This great. I never gots the chance before to says whatever on my mind. Hm... Air real dry today... WHAT? Y'all might think my head empty but I got LOTS of things to says. So start LISTENIN'.
+
+WHY DOES YOU HATE ME?
+
+You give me less food than them other kids! Yeah! I notice! You make me sleep in that cold cabin by myself...Why?
+
+WATCH and WAIT. I ain't learn a lot on this USELESS plantation, but I learn that. WATCH. Bess ain't gettin' enough food for her baby... Wait for it come out dead. WATCH. Tinly 'scape off into the forest! Wait 'til you find her 10 feet off the ground. Watch the sun shine off your black bloody palms and wait for 'em to dry. Then for some reason...everybody turn, to watch me. No! Don't look at me! I don't wanna die! Why everybody lookin' at me? What I DO?
+
+No. YOU the useless ones. YOU the weak ones. I the one who SURVIVED when ain't nobody thought I could! I hated you for waitin'...But I don't hate you no more. 'Cause after all you waitin' God finally send someone to save you. LOOK AT ME. God put this gun in MY hand as proof that HE need ME. YOUR SAVIOR.
+
+No more waitin'. This how the REVOLUTION gonna go.
+
+ACT_2/159/2.html
+LISA SHARP: Disobey and die. Snitch and die. Refuse freedom and DIE.
+
+I march into that Big House with this gun and end it ALL. Then Walnut will be FREE to leave this terrible place, you terrible people, for good.
+
+What you do after is up to y'all, 'cause I won't be there to help you. May God protect you. And may you stupid coons let Him.
+
+ACT_2/160/1.html
+-
+
+ACT_2/160/2.html
+TEXT: PLAYER 1 START !!
+LISA SHARP: JAYJAY.
+HOVERTEXT: JAYJAY; An upstanding and impressionable runt, younger than Sharp, putting on his best cheek to cheek grin in an attempt to avert her eyes from his soiled pants.
+JAYJAY: M-M-Miss Lisa Sharp?
+
+ACT_2/160/3.html
+HOVERTEXT: EXT. COTTON FIELDS - DAWN
+JAYJAY: Hummmmmin' Hymn~
+
+ACT_2/161/1.html
+HOVERTEXT: JAYJAY; So happily he reaches at the cotton
+HOVERTEXT: that it compels him to jump for joy. PLUCK!
+
+ACT_2/161/2.html
+HOVERTEXT: That's the only way he can reach the plant, after all.
+
+ACT_2/161/3.html
+OVERSEER: Get a move on, sleepyheads! Your present gon' be here soon.
+
+ACT_2/162/1.html
+EXT: OLD DIRT ROAD - SUNRISE(CONT.)
+
+ACT_2/162/2.html
+OVERSEER: A liii•ttle to the right. Now left. More left. Left, left, left, right, left. Right! Leeeeeeft. Back. Up. I said a 'li•ttle', Je•SUS! Right there--NO! There.
+OVERSEER: Per•fect•o.
+
+ACT_2/162/3.html
+HOVERTEXT: The Overseer pulls his GOLDEN HOOK off his donkey.
+HOVERTEXT:  He raises it above the movers like he's going to pay them in brain injuries.
+BELL GUY & BELL GUY'S FRIEND:
+OVERSEER NOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+
+ACT_2/163/1.html
+GODHEAD: What's this? This planet has a free blinfinite energybluematizer?
+OVERSEER: Gather 'round Negroes and Negrettes. Iiiiiiiiiiit's weighin' time!
+COWI: On this planet that's just something called a 'cotton scale'.
+EVERBODAY:
+OVERSEER NOOOOOOOOOOOOOOOOOOOOOOOOOOOO!
+
+ACT_2/163/2.html
+GODHEAD: Heh heh. Ever the primitive planet...
+So how does it work?
+OVERSEER: Hope the change o' scenery help wake ya up from the all nighter. I know y'all love my sur•prises so I won't keep ya waitin'.
+
+ACT_2/164/1.html
+OVERSEER: Today--
+HOVERTEXT: A WAGON rolls up in the distance.
+OVERSEER: Just in time! We got new cargo comin' in and she aaaaaall the way from Eu•rope. Anybody know Eu•rope? ...Anybody?
+OVERSEER: The nig•nor•amus nine. There ain't really nine of ya, not that any a•mong you could veri•fy.
+
+ACT_2/164/2.html
+COWI: To work the cotton scale you must achieve balance~! First, place the OBJECT YOU WANT TO MEASURE on the SHORT SIDE OF THE SCALE.
+TEXT: TUTORIAL!
+OVERSEER: We should expect the new im•port to roll in a•ny minute now. An' you know how I like to give a good Overseer Welcome. We gots to show this uppity Eu•ro•pean what we got!
+
+ACT_2/165/1.html
+COWI: Then, place the 'P' WEIGHT on the LONG SIDE of the scale.
+COWI: If the SCALE balances out, then the VALUE the 'P' rests on is the WEIGHT of the OBJECT on the SHORT END.
+
+ACT_2/166/1.html
+OVERSEER: That A•merica is a ci•vi•lized so•cie--
+OVERSEER: --ty.
+COWI: But if the scale is imbalanced...
+OVERSEER:Not as pa•tri•otic as I'd hoped.
+COWI: Then you place the 'P' over again until it's level~!
+GODHEAD: Your emphasis is all over the place...
+
+ACT_2/167/1.html
+OVERSEER: I do con•fess I am a man of...some pride. I know, I know.
+OVERSEER: So if y'all em•barrass me in front of this Eu•ro•pean--even if she is black as the inside o' my boot...or me, for that matter--
+
+ACT_2/167/2.html
+TEXT:BLAM-O
+OVERSEER: Tu•tan•khamun gonna be comin' back in style.
+
+ACT_2/168/1.html
+LISA SHARP: DAMN IT WALNUT. It BAD enough we gots to share a bag, but we somehow pick WORSE when we work together. WHERE ALL OUR COTTON?
+WALNUT: I's got offtrackted makin' a peace-agree tos twos mosquitoos so they stoppin' stealin' my shares of da red paint out the inside'a people 'cause red's da fastest color sos I needs it for mah--
+LISA SHARP: SHUT UP.
+GEORGE: Jayjay, hasn't anyone never told you that kids only gots to pick twice they weight in cotton? In addendum, hasn't anyone never told you you the smallest on this here plantation?
+JAYJAY: Sir, I just eager to get back on the field and really put my back into it this time!
+GEORGE: Then you'd best drink twice your weight in water, too, son. Don't get heatstroke now.
+LISA SHARP: Pssst. Walnut. Crack open our bag. I gonna steal some from Jayjay.
+WALNUT: On it slosh.
+
+ACT_2/169/1.html
+JAYJAY: Miss Lisa Sharp? What is you doing up there? Ain't that dangerous?
+LISA SHARP: ...................SHUT UP IS WHAT I'S DOING.
+JAYJAY: I told you, friend, you can always trust Miss Lisa Sharp.
+OVERSEER: Next in line p•lease!
+LISA SHARP: Heads up, Nut. I gots the goods.
+OVERSEER: Neeeeeext.
+
+ACT_2/169/2.html
+OVERSEER: That's nothin'! Next.
+OVERSEER: Oh brother. Next.
+
+ACT_2/170/1.html
+OVERSEER: Well. That's it for the adults. All in all...I'd say y'all did a•ight.
+OVERSEER: But today the kids are the real stars.
+LISA SHARP: Damn it damn it DAMN it. Where she go?!
+OVERSEER: I just know that I'm gonna turn a•round and measure the best of what child labor's got to offer these days. Did I men•tion new girl's gonna be spendin' most her time with the sprouts?
+LISA SHARP: Me an' Walnut volunteer to go next!
+
+ACT_2/170/2.html
+OVERSEER: No sh•it...
+JAYJAY: Mss Lssa Shrrp?
+
+ACT_2/171/1.html
+TEXT: JAYJAY: EXPENDABLE
+GODHEAD: Are we doing new characters now? Fun!
