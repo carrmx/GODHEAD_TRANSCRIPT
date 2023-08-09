@@ -14,8 +14,11 @@ HOVERTEXT: MYSTERIOUS RED PLANET - THE PAST
 
 ACT_1/prologue/2.html
 HOVERTEXT: ...
+HOVERTEXT: ...
+HOVERTEXT: ...
 
-ACT_1/prologue/3.html
+ACT_1/prologue/4.html
+HOVERTEXT: ...
 HOVERTEXT: A horrifying convolution of arms imposes upon a humble three-eyed BLUE HUMANOID.
 HOVERTEXT: GRAB!
 ???: ARE YOU TRULY MONSTROUS ENOUGH TO DESTROY THE ONE THAT YOU LOVE?
@@ -24,26 +27,42 @@ HOVERTEXT: It looks like they're ready to submit...?
 BLUE: Master... Is it okay if I stay like this... forever...?
 HOVERTEXT: No! Of course not! Blue SNAPS OUT OF IT and tears the arms to shreds.
 
-ACT_1/prologue/4.html
-HOVERTEXT: The red machine is REDUCED TO SCRAP METAL. Its conductor lies limp in the arms of Blue.
-???: DO NOT CRY. AFTER ALL, I PICKED YOU.
-???: BEFORE I GO. WOULD YOU LIKE TO KNOW HOW?
-
 ACT_1/prologue/5.html
-HOVERTEXT: BATTLEFIELD OF BROKEN MACHINERY - SOMETIMES THEREAFTER
-BLUE: Funny. I'd still much rather be here... than go home.
-HOVERTEXT: Blue sits in an aggregate of scrap metal and blood (some red, mostly blue).
-HOVERTEXT: Trembling, they manage to re-purpose some of the scrap metal left over from the battle into... a MINIATURE BLUE EYEBALL.
-HOVERTEXT: The eyeball emits a strong light from its pupil. It washes Blue out.
+HOVERTEXT: The red machine is REDUCED TO SCRAP METAL. Its conductor lies limp in the arms of Blue.
+MASTER: DO NOT CRY. 
+WHEN I PICKED YOU, YOU WERE JUST A SLAVE SHACKLED TO A PRIMITIVE PLANET.
+NOW...YOU ARE GOING TO BE ALL ALONE.
 
 ACT_1/prologue/6.html
+HOVERTEXT: ...
+MASTER: BEFORE I GO. THE BLUEPRINTS I USED TO FIND YOU...WOULD YOU LIKE THEM?
+
+ACT_1/prologue/7.html
+HOVERTEXT: BATTLEFIELD OF BROKEN MACHINERY - SOMETIME THEREAFTER
+HOVERTEXT: Blue sits in an aggregate of scrap metal.
+BLUE: Funny. I'd still much rather be here... than go home.
+HOVERTEXT: Trembling, they manage to re-purpose some of the scrap metal left over from the battle into... a MINIATURE BLUE EYEBALL.
+HOVERTEXT: The eyeball emits a strong light from its pupil.
+
+ACT_1/prologue/8.html
+HOVERTEXT: ...
 BLUE: I hope you find me the kindest friend in the universe.
 HOVERTEXT: The little looker turns down its light so it may gleam properly at its creator.
-HOVERTEXT: Blue tosses the eyeball into the hand of a... bigger eyeball; Blue's ship. Blue climbs in.
+
+ACT_1/prologue/9.html
+HOVERTEXT: Blue approaches their ship.
+HOVERTEXT: ...
+HOVERTEXT: ...
 HOVERTEXT: They wind back their arm, eyeball in vicarious hand, readying to throw--
 HOVERTEXT: OWCH!
 HOVERTEXT: They use their other arm instead.
-HOVERTEXT: The eyeball smears across space. It clenches in on itself, bracing for impact. But it'll be a while.
+HOVERTEXT: The eyeball smears across space. It braces for impact. But that could be a while.
+
+ACT_1/prologue/10.html
+HOVERTEXT: ...
+
+ACT_1/prologue/11.html
+HOVERTEXT: ...
 
 ACT_1/prologue/titlepage.html
 HOVERTEXT: Far, far, FAR down the path of the eyeball exists its destination...
