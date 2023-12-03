@@ -3439,7 +3439,8 @@ Aligators fruitlessly snap at the rock in her hands from the swampy water below.
 Where the water is more shallow Lisa Sharp has purposed a throne out of the hollow of a tree.
 LISA SHARP: Do the three of youse understand what we is trainin' for? You ain't fightin' for MY freedom, you sure ain't fightin' for YOURS.
 She lectures her three new recruits--Boom, Bug and Jayjay--at gunpoint.
-LISA SHARP: This fight is for WALNUT. WALNUT: Wughh... I's think I gonna throwings up.
+LISA SHARP: This fight is for WALNUT. 
+WALNUT: Wughh... I's think I gonna throwings up.
 
 ACT_2/190/1.html
 A large rattlesnake has its entire body wrapped around Walnut. The boys challenge it with a stick.
