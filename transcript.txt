@@ -3591,3 +3591,20 @@ TEXT: They wrestle each other, trying to go for the gun.
 BUG: G-g-g-get that gun little nigga! Shoot her crazy ass!
 LISA SHARP: DON'T JUST STAND THERE. HELP ME STUPID.
 JAYJAY: Miss Lisa Sharp! Mister Bug! I...I don't know who to obey, you's both older than I!
+
+ACT_2/203/1.html
+TEXT: Jayjay shakily picks up the gun, pointing it one way and then the other.
+JAYJAY: I don't know who to listen to so I guess I'll...just shoot the both of youse?!
+TEXT: Walnut jumps up and down on the conquered Boom, making tons of noise for the Big House to hear.
+TEXT: She runs down the stairs and into Lisa Sharp's arms, obfuscating Jayjay's shot.
+LISA SHARP: Damn it Walnut! What is runnin' through your THICK-- 
+WALNUT: I almosts got killingsded by da pink monster people Lisa Sharps! You didnt's comes for mes...why? Whys didnt's yous come for me Pisa Sharps my almosts dieds! 
+
+ACT_2/203/2.html
+TEXT: Lisa Sharp's mind goes blank. She breaks down crying.
+TEXT: Walnut hugs Lisa Sharp tight.
+LISA SHARP: ...Damn it damn it DAMN IIIIIIIIIIIIIIIT! I CAN'T GO NEAR THE BIG HOUSE...'CAUSE I'S SCARED. I'S TERRIFIED! OF THOSE EVIL PINK MONSTERS!
+I'S SORRY WALNUT. 
+WALNUT: I thoughts yous was gonna frees me I almost dieds I almost dieds and they almost killeds me LiSharps an' you didnt's do anythings to helps me. 
+JAYJAY: ...Don't cry Miss Lisa Sharp. Here, take your gun back and do please feel better. 
+BUG: (Doh!) 
