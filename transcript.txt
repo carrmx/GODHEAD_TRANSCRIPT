@@ -3608,3 +3608,72 @@ I'S SORRY WALNUT.
 WALNUT: I thoughts yous was gonna frees me I almost dieds I almost dieds and they almost killeds me LiSharps an' you didnt's do anythings to helps me. 
 JAYJAY: ...Don't cry Miss Lisa Sharp. Here, take your gun back and do please feel better. 
 BUG: (Doh!) 
+
+ACT_2/204/1.html
+TEXT: EXT. THE SWAMP - SUNDAY AFTERNOON (CONT'D)
+
+ACT_2/204/2.html
+TEXT: Walnut and Minihead continue their conversation at the swamp.
+MINIHEAD: Making Lisa Sharp cry. Walnut, I am sorry I ever doubted you.
+So she decided the crew needed more 'training' before they could face the Big House. But why do we have to be a part of it?! I can't believe I'm saying this, but we actually underestimated how stupid she is when we gave her that gun. 
+WALNUT: Lipa Slarp ain't stupids she justs keeps all her smarts in her heart an' da rhythm of da beat make 'em sleepsy. 
+MINIHEAD: Finishing your ship is now a matter of acting before she does. It's gonna be hard to slip away from this with all eyes on you. 
+WALNUT: Dat's okiedoo Glooby. Da ting's I'm even bester at thans makin' machineys dats go flyhigh is distractsdedsing Walnut's sister. 
+MINIHEAD: Well. One reason I took The Deal is because when you don't erase all life on earth you get caught up in a great deal of human dillydallying in your pursuit of freedom! Just saying! 
+WALNUT: GaaaaaaaaaaaaaaaAAAAAAAAAAUUUUUUUUWAAAAAAAAAAA? 
+MINIHEAD: Whoah! I was just saying.
+
+ACT_2/204/3.html
+TEXT: Planet Finder warps into a bizarre crescent.
+TEXT: Walnut reflexively drops Minihead.
+MINIHEAD: I-I didn't mean anything by insinuating you should kill everyone you know. Walnut?!
+
+ACT_2/205/1.html
+TEXT: INT. COMPUTER DOME - NOW
+
+ACT_2/205/2.html
+TEXT: Planet Finder smudges under Godhead's finger.
+GODHEAD: Walnut? Walnut! What the? 
+COWI: Does she need to restart? 
+GODHEAD: I'll check her status.
+
+ACT_2/205/3.html
+TEXT: A window referencing Walnut's physical status pops up, but it quickly glitches out past recognition.
+GODHEAD: My communication device appears to be malfunctioning... It must be the earth's underbaked atmosphere interferring with the signal. 
+COWI: That doesn't really make sense. It's been completely fine up until now.
+
+ACT_2/206/1.html
+TEXT: Boom and Jayjay continue tugging on the rope attached to Bug attached to Walnut.
+WALNUT: Guuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuwwwwwwwwwwwwwwwwwwwwwwwwwww 
+LISA SHARP: HEY!
+TEXT: Lisa Sharp bulldozes them out of her way.
+LISA SHARP: You pullin' her too tight! You stupid morons can't do nothing right. I'll get her down MYSELF.
+
+ACT_2/207/1.html
+TEXT: INT. COMPUTER DOME - NOW
+GODHEAD: Well restarting Planet Finder didn't work. And it's not exactly like it's 'Not Responding.'
+Oh shit. Is that the mean one picking me up? COWI! SAVE WALNUT SO SHE CAN SAVE ME!
+
+ACT_2/207/2.html
+COWI: Hrrrm. This sounds like a job... 
+TEXT: CoWi transforms into her medical uniform!
+COWI: For Nurse CoWi!!!
+
+ACT_2/208/1.html
+TEXT: There's no time for a tutorial this time around. CoWi floats over to Walnut and presses a big stethoscope against her chest.
+
+ACT_2/208/2.html
+TEXT: It emits a terrible frequency that violently electrocutes CoWi.
+COWI: VijyZBK#)VXZFBYZfvpYBVYOb93fty3bwzk#KVX$vftflkbvpK#FYFs9yfbsybty;blue
+
+ACT_2/208/3.html
+TEXT: CoWi floats away burnt. Lisa Sharp winds her arm back to throw Minihead.
+COWI: Godhead, can you do me a favor and press my X button? I can't feel my arms. Teehee~ GODHEAD: My Me. This can't be a Planet Finder problem, no. My whole computer is infected with deadly space viruses!
+
+ACT_2/209/1.html
+TEXT: Lisa Sharp winds her arm back to throw Minihead.
+TEXT: Minihead hits the branch holding Bug and Walnut.
+LISA SHARP: BOOM. Get ready!
+TEXT: The branch cracks and breaks.
+TEXT: They fall out of the sky...
+TEXT: ...Landing in boom's arms.
