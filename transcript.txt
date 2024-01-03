@@ -1153,7 +1153,7 @@ WALNUT: Is you mad at Walnut?
 WALNUT: I hope you's not mad at Walnut. She didn't cause none of the stuffs that makes you mad, I caused it 'cause I ain't from this place and I think where I's from the stuff that make you mad make you happy and the stuff that make you happy make you sad so I do stuff that here in your place don't make sense to you.
 WALNUT: But when Walnut comes back I hope you won't be mad at Walnut 'cause she your sister and you shouldn't be mad.
 HOVERTEXT: Walnut pokes her head over Lisa Sharp's back.
-LISA SHARP: Shut up Walnut! I'm sleep.
+LISA SHARP: Shut up Walnut! I's sleep.
 
 ACT_1/66/1.html
 HOVERTEXT: Z z z
