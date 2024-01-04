@@ -3678,3 +3678,44 @@ LISA SHARP: BOOM. Get ready!
 TEXT: The branch cracks and breaks.
 TEXT: They fall out of the sky...
 TEXT: ...Landing in boom's arms.
+
+ACT_2/210/1.html
+TEXT: Walnut is laid on a big lilypad.
+LISA SHARP: What's the matter with you? You gots to poop or somethin'? 
+WALNUT: Wohwohwohwooh...My ailien frambly joooouuuust.......................sentings me a mluh-mluh-message! 
+LISA SHARP: STUPID. I's your family. Your ONLY family. 
+WALNUT: Shhuhh...I's trnggg to herr dems...shhuhhh...shuuuush..........Quiets. 
+LISA SHARP: YOU JUST TELL ME TO SHUSH?
+
+ACT_2/210/2.html
+TEXT: Lisa Sharp smacks Walnut. JUST THEN, WALNUT RECIEVES A GREAT VISION.
+
+ACT_2/211/1.html
+TEXT: Walnut shoots up!
+WALNUT: I SAWS DEM ! MAH ALIEN FAMBLY !
+
+ACT_2/211/2.html
+TEXT: She falls back down. The kids don't know what to think of her outburst.
+LISA SHARP: ...No. 
+BUG: Tha-tha-that ain't no type of talk I ever heard before. Big Nigga, has you?
+
+ACT_2/211/3.html
+TEXT: JAYJAY tears up. He fishes Minihead out of the swamp and places it on Walnut, an offering.
+JAYJAY: Oh Miss Walnut. I never really understood you...snf...why you wouldn't play with the other kids...snff snff...or why you liked buildin' machines more than pickin' cotton...snff...But I really will miss you when you is gone. 
+BUG: Oh no no no no no, I can't see no dead kid today--OW! 
+LISA SHARP: She is NOT dyin'! The only thing wrong with her is YOU idiots.
+Right Walnut? Right? 
+WALNUT: Th fla sfas aiyue sesay. 
+BOOM: OK.
+TEXT: Boom steps up.
+BOOM: Walnut, make some noise for 'yes'. Don't say nothin' for 'no'. 
+JAYJAY: Do your eye hurt, that's why you holding it like that? 
+WALNUT: Ying dong lla gaga maju. 
+BUG: Who's inside'a you? And who's watchin' us? And c-c-c-c-can they hear us right now?! 
+WALNUT: ... ... Fla fre sha kning flu flu flu flu flu flu flu flu flu flu flu flu flu habarr yot. 
+BUG: I KNEW IT, I KNEW IT WAS SO MUCH WORSE THAN I THOUGHT, MAN. 
+BOOM: ...Half of those wasn't yes or no questions. 
+BUG: Hey girl, listen up, tell them aliens inside of you to l-l-l-leave us alone. Damn! 
+WALNUT: Shie nyagazongrie zip meye flupp er nong rostisas put zobu yo sangrie la sheen!
+W...War...Warlnut...going...bye...bye... 
+LISA SHARP: Walnut...! 
