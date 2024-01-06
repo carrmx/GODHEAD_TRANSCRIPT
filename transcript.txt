@@ -1848,7 +1848,7 @@ COWI: Would I have a lot of blood like Walnut, Lord Godhead?
 COWI: Godhead, do you think I'd have even more blood than that?
 COWI: Can you feel it moving around in your arms? Your legs? Woow...To have volume...!
 COWI: Pain in all three dimensions, what could it feel like?
-GODHEAD: Drugs! Walnut needs drugs!
+GODHEAD: That's right, I forgot about pain! Painkillers!
 GODHEAD: CoWi, get the drugs.
 
 ACT_2/50/1.html
