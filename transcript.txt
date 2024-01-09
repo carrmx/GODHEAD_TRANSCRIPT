@@ -3719,3 +3719,42 @@ BUG: Hey girl, listen up, tell them aliens inside of you to l-l-l-leave us alone
 WALNUT: Shie nyagazongrie zip meye flupp er nong rostisas put zobu yo sangrie la sheen!
 W...War...Warlnut...going...bye...bye... 
 LISA SHARP: Walnut...! 
+
+ACT_2/212/1.html
+TEXT: CoWi appears out from behind Planet Finder holding a giant bullet.
+COWI: I found the source of the problem, Lord Godhead.
+
+ACT_2/212/2.html
+COWI: This is the bullet Lisa Sharp shot at and broke the UI with. I discovered it in the backend where it had destroyed a block of code. Since then errors have been piling up, resulting in the glitches!
+
+ACT_2/212/3.html
+TEXT: The sound of CoWi's voice does not reach Godhead. He is too deeply immersed in the events on his screen.
+GODHEAD: CoWi...Are you seeing this? Walnuts family just made contact with, or, through her...! This is incredible...So that was the cause of all the interference. 
+COWI: But Godhead, the bullet. If you'd just read my error report you'd see-- 
+GODHEAD: All the glitches, Walnut's sudden surge of pain, and her channeling a language that even my technology can't decipher. You can't decipher it, can you? 
+COWI: Uh? No. G
+ODHEAD: They're here. They're in everything. 
+COWI: There's a logical explanation... 
+GODHEAD: Walnut's family, you're there, right? I hope my language isn't so primitive its beneath understanding. I just wanted you to know that I've been taking great care of Walnut despite earth being terrible!
+Well, I can't lie to you obviously. My planet is dead. If I ever knew anything about life I don't remember it now. So to be honest, Walnut has been taking care of me. From what she describes, "loneliness" doesn't exist on your planet. There's always a group of you together. That's probably why you're so advanced, why Walnut is so inventive. I couldn't ask for a better friend than the one your people have given me. And maybe when or if I meet you all in person, I'll advance too...! It's been so long since I've, I guess, changed. 
+COWI: Godhead. 
+GODHEAD: Oh, CoWi wants to say hi too. 
+COWI: Do you know that the chances of there being three distinct alien species in one computer dome is 0.00--oh forget it. What is so wrong with the idea of Walnut being human to you?
+
+ACT_2/213/1.html
+TEXT: Earth through the Planet Finder.
+COWI: You barely gave this planet a chance before brushing it off as not the absolute best thing in the universe. But it took you eons to find it! Millions and millions of years! You should be more interested in the human race than this. 
+GODHEAD: Wow. I really didn't want to say this but earth is clearly a failure. I know it is because earth is exactly like my planet, and you see how that turned out.
+I know what you're gonna say. The only reason the planet is dead is because I took The Deal. But the state, the very nature of the place I come from forced me to make that decision. CoWi, earth is just the same. Maybe if humans didn't enslave anything with a brain they could stop and realize that they have an actual alien species among them! They could learn so much from Walnut and advance their civilization beyond the starting point. But nobody listens to her! Not even you! 
+COWI: Aren't these the exact thoughts you resent your Master putting in your head to influence you to take The Deal? The Deal's premise lies on the assumption that its taker will be cynical about the future of their world and end it prematurely. But you don't know what the future of your planet would have been, and you can't predict earth's either.
+Even though Lisa Sharp has been terrible to her sister...I still believe that their family can be saved. 
+GODHEAD: What is the point? You shouldn't even talk about that one in front of Walnut's real family. 
+COWI: What do Walnut's ties to this fantasy matter when Lisa Sharp is the one who has actually been here? 
+GODHEAD: CoWi!
+
+ACT_2/213/2.html
+TEXT: Godhead's voice booms with the aproppriate wrath of a god. The computer dome becomes oppressive and claustrophobic.
+GODHEAD: This is ridiculous. Projecting your own want to be human onto Walnut won't make you one. Now don't ever talk about her family like that again! 
+COWI: ... 
+GODHEAD: I just don't get it. How you can be so disrespectful to my only real friend... 
+COWI: I'm merely acting as your digital assistant, Lord Godhead, regularly scanning for errors and fixing them. I'll return to the backend and restore the damaged code right away.
