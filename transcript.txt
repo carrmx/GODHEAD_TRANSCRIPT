@@ -3758,3 +3758,48 @@ GODHEAD: This is ridiculous. Projecting your own want to be human onto Walnut wo
 COWI: ... 
 GODHEAD: I just don't get it. How you can be so disrespectful to my only real friend... 
 COWI: I'm merely acting as your digital assistant, Lord Godhead, regularly scanning for errors and fixing them. I'll return to the backend and restore the damaged code right away.
+
+ACT_2/214/1.html
+TEXT: The bullet.
+TEXT: Bug and Jayjay hold up a variety of poignant objects to Walnut's nose to try to help her feel better. But the scent of toad and the aura of bladderwort are useless against Walnut's mysterious ailment.
+WALNUT: Get dat dings away froms Walnut my head hurts it hurtings it hurtings it hurts! 
+BUG: W-w-w-we should just go ask Deb to look at her. 
+LISA SHARP: We don't NEED no adults. All they's gonna do is TAKE MY GUN AWAY. 
+JAYJAY: I's not trying to get your gun taken away Miss Lisa Sharp honest, but wouldn't you say this is an emergency? 
+LISA SHARP: I don't think a gun's more important than my SISTER, fool. But I ain't riskin' carrying Walnut all the way to the cabins when those adults don't even give a DAMN about us. 
+JAYJAY: Sure they do Miss! When a spider crawled into Bug's ear Nurse Deb pulled it right out with two twigs. 
+BUG: Th-th-th-that's what they tell me... But I's pretty sure that spider's still in my brain...controllin' me, man! 
+LISA SHARP: I ain't surprised they'd help you with something STUPID. But when your parents got loaded up on the wagon for sale-- 
+BOOM: Lisa. 
+LISA SHARP: Did ANYBODY do ANYTHING to help them?! 
+JAYJAY: Well...I don't rightly remember, Miss Lisa Sharp...But...The adults told me my parents was going to a good plantation where they could pick cotton to their hearts' content! 
+LISA SHARP: There's no such thing as a "good" plantation, STUPID. 
+JAYJAY: But that would mean they lied, and adults never lie. 
+BUG: It ain't no lie if the person really believe it true. At least wherever they got sold to ain't got our O-O-O-Overseer. 
+LISA SHARP: If they really think that SATAN'S TOENAIL is better than SATAN'S ASSHOLE then I really don't want they help.
+Everybody's sick from the flood. They ain't gonna put us before they own kids. We need to find our OWN way to do things. 
+JAYJAY: But...But... 
+BUG: At least if she was at the cabins she'd die warm, dry, and surrounded by, uh, people instead'a frogs, man. OW! 
+LISA SHARP: SHE'S NOT GONNA DIE!!! 
+BUG: I do not know one thing about medicine OR exorcisms. H-h-how we supposed to make her feel better, seriously?! 
+JAYJAY: Maybe if we ask nicely? Again? 
+LISA SHARP: Boom check the bush. I hear cattail's good for whackin' the sick out of you. 
+TEXT: In his search for more odd remedies, Boom accidentally reveals Pinky's hiding spot.
+TEXT: She falls out of a shrub, landing directly at the feet of the wrathful Lisa Sharp.
+PINKY: Eep!
+
+ACT_2/215/1.html
+TEXT: Nobody was expecting a visitor, but Lisa Sharp doesn't hesitate. She presses her gun against Pinky's forehead loaded with intent to kill.
+PINKY: Peppermint! 
+LISA SHARP: Wha? 
+PINKY: Give the girl, your sister, peppermint! It's a cure for bad headaches. 
+LISA SHARP: That's what she's cryin' about? A little HEADACHE? 
+PINKY: A very bad one can be debilitating. Erm...My father was a doctor. 
+JAYJAY: Peppermint don't grow in the swamp, but there's a ton of it behind the Red River. 
+LISA SHARP: EASY.
+TEXT: A faint wave of satisfaction arrives on Lisa Sharp's face.
+LISA SHARP: Thanks Puffball.
+TEXT: THEN EVIL.
+LISA SHARP: NOW DIE!!!
+TEXT: BLAM-O sfx, without the 'BLAM-O'.
+
