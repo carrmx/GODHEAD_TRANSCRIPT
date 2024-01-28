@@ -98,7 +98,9 @@ HOVERTEXT: The computer barely responds but makes it far enough for GODHEAD to t
 
 ACT_1/3/3.html
 HOVERTEXT: Immediately a holographic alien girl shows up and she's got twice as many boobs as she does arms. This is COMPUTER WIFE, or CoWi.
-COWI: Welcome back, Lord Godhead. You were gone ONE HUNDRED AND TWENTY TWO YEARS, you have TEN MILLION FIVE HUNDRED AND TWENTY TWO tabs open and you look as handsome as ever!
+COWI: Welcome back, Lord Godhead. It's your digital assistant, COMPUTER WIFE reporting for duty!
+
+You were gone ONE HUNDRED AND TWENTY TWO YEARS, you have TEN MILLION FIVE THOUSAND ONE HUNDRED AND TWENTY TWO tabs open and you look as handsome as ever!
 GODHEAD: It's a pleasure to see you again CoWi.
 
 ACT_1/4/1.html
