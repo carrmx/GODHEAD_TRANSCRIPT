@@ -3805,3 +3805,298 @@ TEXT: THEN EVIL.
 LISA SHARP: NOW DIE!!!
 TEXT: BLAM-O sfx, without the 'BLAM-O'.
 
+ACT_2/216/1.html
+HOVERTEXT: BLACK
+WALNUT: Nnnuh...
+
+ACT_2/216/2.html
+HOVERTEXT: Squeak.
+
+ACT_2/216/3.html
+HOVERTEXT: Squeak squeak.
+
+ACT_2/216/4.html
+HOVERTEXT: When she squeezes it, it squeaks. In fact, there was no trigger on this gun to begin with.
+LISA SHARP: ...HUH?
+HOVERTEXT: Pinky, not understanding why she isn't dead yet, opens one eye.
+PINKY: There's...no trigger?
+PINKY: HA! You're so stupid I think I'm in love with you.
+
+ACT_2/217/1.html
+HOVERTEXT: Lisa Sharp is overcome with embarassment.
+HOVERTEXT: She looks for some way to expel it--Walnut.
+HOVERTEXT: She drags the sickly girl to her feet by her hair.
+LISA SHARP: NO TRIGGER?! AIN'T NO TRIGGER, WALNUT?! IS YOU TRYING TO KILL ME?! [SMACK] 
+WALNUT: Too louds too louds my head hurts be quiets! 
+LISA SHARP: YOU WANTED ME TO GO IN THERE UP AGAINST THOSE THINGS WITH A GUN THAT DON'T WORK! AFTER ALL I DONE TO TAKE CARE OF YOU YOUR STUPID, USELESS LIFE, YOU WANT TO GET ME KILLED. YOU HATE ME. 
+WALNUT: Nos...! Dats gun only for emergencees I tolds you to use it fors...not to uses it...to...uhg. Da sounds too brights... 
+[SMACK]
+WALNUT: Ggghhrr...I didn'ts know you's'd's uses it befores my ship escapes. Ughh...It hurts my head. My head hurtings!!! Stops!!! 
+[SMACK] [SMACK] [SMACK] 
+
+ACT_2/218/1.html
+HOVERTEXT: This display is almost too sad for the other kids to watch.
+HOVERTEXT: Pinky, on the other hand, remains composed and thoughtful.
+PINKY: Your ship? As in, a sea vessel?
+HOVERTEXT: Walnut pulls away from Lisa Sharp long enough to point at the sky.
+WALNUT: Up-ship for sky flyin', it's. 
+PINKY: Pfft. There's no such thing as a flying ship. 
+JAYJAY: Excuse me Miss New Girl, but around these parts Miss Walnut is known for creatin' extraordinary machines. 
+LISA SHARP: More like STUPID MACHINES. 
+PINKY: With what? Sticks? 
+JAYJAY: Yeah! 
+PINKY: But she couldn't be more than 10 years old. And what's the odd shaped stone she's always holding? 
+LISA SHARP: You's got a lot to learn. Oh wait, no you don't, 'cause I GONNA KILL YOU! 
+
+ACT_2/219/1.html
+HOVERTEXT: Lisa Sharp lunges at Pinky.
+PINKY: Eep!
+HOVERTEXT: She blindly throws a fist which to everyone's surprise knocks Lisa Sharp back.
+HOVERTEXT: Lisa Sharp is surprised to see her own blood.
+HOVERTEXT: Pinky catches both of Sharp's hands in hers--it's a stand off between two matched in strength.
+LISA SHARP: I don't need no GUN to kill you OR the monsters in the Big House. I'll free my sister with my BARE HANDS. 
+BUG: ...YO. Has anybody noticed that Lisa Sharp is l-l-like...4 FEET TALL??? The gun's fake, nigga! Gyaaaaaaaaaah--I got half my life shaved off in this wet ass swamp and for what, nigga?! For what?! I'm o-o-outta here, man. 
+JAYJAY: Am I excused too, Miss Lisa Sharp? 
+LISA SHARP: HEY! You goons ain't going nowhere! I dont need no gun to scare you! Hey! Where is my goons going?!
+...
+What about Walnut?! 
+BOOM: Walnut's head hurt 'cause you hit her too much. Come on Jayjay. 
+
+ACT_2/220/1.html
+HOVERTEXT: The boys trudge their way past Lisa Sharp through the thick swamp.
+HOVERTEXT: Pinky overpowers Lisa Sharp and tosses her into the murky water.
+LISA SHARP: YOU'S...YOU'S...
+HOVERTEXT: All of her strength is channeled into an enraged scream
+LISA SHARP: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUURAAAAAAAAAAAAAAAAAUGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!
+HOVERTEXT: Pinky holds out her hand to help Lisa Sharp get up.
+PINKY: Lisa Sharp, you need me on your team. I can make them stay without violence. 
+LISA SHARP: How--no...WHY would you want to do something as STUPID as that. 
+PINKY: Didn't I just tell you? When I saw you in the church, holding all those innocent people at gunpoint I...My heart. I just love bad girls. I won't stop until you're mine. 
+LISA SHARP: STOP SAYING STUFF LIKE THAT!!! 
+PINKY: Okay, okay. You of all people are asking why I want my freedom. That's such a stupid question. Who wants to be a slave all their life? This sucks! 
+LISA SHARP: ...You's a stupid question. 
+PINKY: I'm sure you've quite gathered that I'm not from here. The life I lead before all of this was fantastic. I could have all the crumpets and clotted cream I could ask for! Lisa Sharp, you absolutely have the right idea.
+Freed life--I swear by it. 
+BUG: Did she just say... 
+
+ACT_2/221/1.html
+HOVERTEXT: Boom, Jayjay and Bug stop. That word isn't just something you can walk away from. Walnut grips her head in pain.
+BUG: F-f-f-free...? WALNUT: Dddddddonn... 
+BUG: Free like... 
+PINKY: Before I was sold into slavery on my 12th birthday I was a free woman. And I lived splendidly! Oh what I would do to return to those days. 
+LISA SHARP: Why you talk like that? 
+PINKY: Talk like what? 
+BUG: Yeah, man, she talk funny. Where you come from that n-n-niggas free? 
+PINKY: Heh. From across the sea, of course. Have you poor landlocked lot ever once even dreamt of the sea? That's okay. I'm eager to tell you everything! 
+BUG: "Everyfing". She just said "everyfing". 
+PINKY: I--? No I did not...! 
+LISA SHARP: "NEEEEEEEEHHHHOW" I did not. Hahahaha! FREE ASS BITCH! 
+PINKY: Harumph. Keep making fun of me and I'll just take my true tales of freedom elsewhere. 
+HOVERTEXT: Jayjay tugs on Pinky's dress.
+JAYJAY: No, please Miss New Girl, I'd very much like to hear your tales. 
+PINKY: Okay, I'll tell you. Tell me, Jayjay: What is your favorite passtime in the entire world? 
+JAYJAY: Golly! My faaaaaaaaaaaaaavorite thing in the entiiiiiiiiiiiiiiire world's gotta be pickin' cotton as a breeze passes by on a bright sunny day. 
+PINKY: ...I was going to say take your 'favorite thing' and imagine doing it all day everyday, but, hm.
+Okay, imagine your favorite thing is my favorite thing: Reading-- 
+LISA SHARP: DID SOMEBODY JUST SAY READIN'?! HEY...That's RIGHT. You's the girl who can READ. 
+HOVERTEXT: Everyone surrounds Pinky like what she said was mad funny.
+PINKY: Wh-wh-what's wrong with reading? 
+LISA SHARP: Ain't nobody who never did NOTHIN' needed to read. 
+JAYJAY: I think the only person 'round these parts who can read is...
+(gulp)
+The Overseer. 
+BUG: Maaan, this new girl ain't shit. She a loser. 
+PINKY: No! Please! I need your acceptance. What if I told you when I was free I rode on a pirate ship? Or operated on white aristocrats? Or went graverobbing for medical science? Hmm? Hmmmmm? Yes, I even had swordfights, which were very bold and daring besides my proclivity for fainting at the sight of blood. 
+LISA SHARP: SWORDS? J
+AYJAY: B-blood? 
+HOVERTEXT: Pinky raises her arms to inspire everyone.
+PINKY: The essence of freedom is being able to do anything you can imagine, whenever, wherever. Nobody has the right to oppress or stop you. So please, y'all, don't not help Lisa Sharp because you're not afraid of her. Help her so you can help yourselves! 
+JAYJAY: I will! I will fight for myself, Miss New Girl! 
+WALNUT: Nos!
+
+ACT_2/222/1.html
+HOVERTEXT: Walnut stumbles to her feet, dragging herself toward the group like a zombie.
+HOVERTEXT: She screams at the older kids.
+WALNUT: I's da only one who gets to go free off dis place...rrghh...da rest of youse can'ts dos it! You's don'ts knows buildin' like me an' you can'ts learns it. Dat's 'cause da place I learnted its froms was in a cloud an' only aliens likes me can hear da water droplets when dey falls in your ears to tell yous which way da airman face.
+You isn't aliens...Da blue rock won'ts talks to you...I's leavings dis place 'cause deres my family up dere dat wants me back. Outsides of heres nobodies wants yous! Earth peoples needs to stays in da earth place where da cotton grows so they don't gets cold an' has something to plug they ears with when da thundercloud yells. If youse got freedom...ghh...you wouldn'ts even has nowheres to put it anyways. 
+LISA SHARP: Walnut... How can you says all that? 
+BUG: Ain't that what you been saying this whole time? 
+WALNUT: It's mes...grgh... 
+HOVERTEXT: Walnut looks Lisa Sharp in the eye.
+WALNUT: Gragh...Not yous only mes! 
+LISA SHARP: STOP IT WALNUT. You can't SAY things like that about other people. All of these IDIOTS was ready to die for you and you's acting like they don't even got NAMES. I mean they ain't THAT ba--uh...
+Is this how I RAISED you? You gave me a fake gun that could have got me KILLED. Damn it Walnut... 
+HOVERTEXT: Lisa Sharp pleads with her sister.
+LISA SHARP: Does you even CARE about any other people? 
+WALNUT: My heads hurts I wanna gos home! I hates dis place!!! 
+BUG: On o-o-one end we got the puffball, who wants to get us killed, and the o-o-other Walnut, who tried to get us killed. You know what! I think I's gonna go home. 
+PINKY: No, Bug, you really shan't. My name is Pinky by the way. You can't go until I've convinced you that you don't even want to go. 
+BUG: We ain't like you, Newbie...We ain't never been no p-p-puffed up aristocrats, surrounded by fifi and shushu or whatever you freed niggas got. 
+PINKY: How did you know the names of my spaniels? 
+BUG: So we go free! All we got around here is chiggers and cotton noway. Some reward for gettin' our f-faces ate in the Big House. 
+JAYJAY: That does sound awful frightenin'...I don't think I wanna fight anymore... 
+PINKY: Um, what exactly do you lot think lies behind the doors of the Big House? Death is far from certain. Our owners are only human. 
+LISA SHARP: HA. BUG: 'Human'? Man...They must'a bought you from the moon. Our owners...th-th-they... 
+JAYJAY: Pink, fleshy, scary monsters, like blowfly 'fore they get they wings, big as a black bear, and gots teeth as sharp as a red wolf's. 
+BUG: Niggas turned inside out and bleached in hot lye. It can walk and talk but it ain't h-h-human, man! 
+PINKY: Oh...please. And have any of you ever seen a white person? 
+
+ACT_2/223/1.html
+HOVERTEXT: The memory of Lisa Sharp's father looms behind her.
+PINKY: My father's primary clientelle was white. I've probably seen more whites in my life than blacks, and dissected my fair share too. I guarantee you that their biological makeup is no different than ours and they are in fact quite defeatable. We can kill them in as many ways as they can us. 
+LISA SHARP: First of all. They ain't WHITE. They PINK. And they ain't PEOPLE--they is MONSTERS. I know it 'cause I have seen 'em, and I ain't never forgot them since. 
+PINKY: Maybe what we saw wasn't the same thing. 
+LISA SHARP: Maybe not. 
+PINKY: Maybe what you saw was distorted by fear, while the way I've seen them has been quite objective. 
+LISA SHARP: YOU CALLIN' ME SCARED?! 
+WALNUT: Scareds is whats you should bes, yous needs to be scarrified so yous doesn't leabes this planet where it's dangergrose for youse to leabe. 
+PINKY: Let's take the best of both worlds, shall we? Lisa Sharp is right in that we need to be properly armed and ready to kill in pursuit of our freedom. But Walnut, on the other hand, has been constantly talking about something that nobody seems to be taking seriously. "Escape." Why don't we just escape? Run away under cover of darkness one night. 
+WALNUT: Escape's not for yous! 
+HOVERTEXT: Pinky wraps her arms around the boys, positioning Walnut and Lisa Sharp as supple investments. Boom starts to take this seriously.
+PINKY: Oh but it can be. Boys don't you see these two are our lucky ticket out of here? Walnut can make us weapons--real weapons. And Lisa Sharp can lead us out of this place into a better one. Are you seeing it now? How real this can be? 
+BUG: Ehhh... 
+BOOM: If we run away, do you think we can reunite with our families? 
+PINKY: The ones that have been sold off to other plantations? I don't see why not. 
+WALNUT: Your familys is gones all gones for the rest of evers and they's never coming backs. 
+LISA SHARP: Walnut stop. We don't know. We just don't know. 
+WALNUT: Gones I prombise. 
+JAYJAY: The things you are saying, Miss New Girl, really put certain things in perspective. If we had gone into the Big House earlier and succeeded, Walnut would have been free to walk away from this plantation...from the sounds of it, right into the hands of more of these white monsters! If those horrible things are as far as across the sea, where in the world can we go that is safe? 
+WALNUT: Noplace only space's da place and you can't gos there. 
+PINKY: It's unlikely that we'll ever live a life completely free of white people, but there are plenty of places on the globe where we can live happily. 
+WALNUT: NO DERE NOT! 
+LISA SHARP: Walnut CALM DOWN I said! 
+PINKY: The little one might know a thing or two about the sky, but as a seafarer I'm doubting she's ever seen a map. 
+WALNUT: Da bluerock will tells you da bluerock has alls da crosslines of da earth behinds its eye down to where da newest born bug is standin' rights now I'lls ask hims and shows you you's wrong WRONGWRONGWRONG. 
+PINKY: Oh? I'm wrong? North of here there's a place called 'Canada' where Negroes walk free. But by all means let's hear from your blue rock. Let me put him in touch with my sock puppet! 
+WALNUT: Goobhead comes out an tells dems dat Canana's not reals of dis place!!! 
+HOVERTEXT: Walnut holds out Minihead.
+HOVERTEXT: But he doesn't say anything.
+PINKY: Well then it seems like even the rock concurs.
+HOVERTEXT: Walnut looks hurt. Lisa Sharp comes to her rescue.
+LISA SHARP: Alright puffball ENOUGH. You sound a little too much like the Overseer goin' on about 'maps' and 'books' and shit. 
+PINKY: That is troublesome, coming from the expert. 
+LISA SHARP: What is THAT supposed to mean. 
+BUG: H-h-h-h-h-ha! Th-that's actually pretty funny! Say Lisa Sharp, why worry so much about stagin' a revolt for your freedom when you could just grow up and become an overseer? 
+LISA SHARP: SHUT UP. 
+BUG: You can see it too, right big nigga? Little nigga? She's already h-h-halfway there, beatin' the shit outta us and makin' our lives a neverendin' n-n-nightmare of pain and agony. 
+JAYJAY: I do suppose, when I imagine it, it does suit her handsomely. Why, there's not a more perfect candidate than her. While not so much for us, this is great news for you Lisa Sharp! The Overseer gets a tower, ummmm, a dog, ummm, and--oh, your favorite! A gun! I can see you now, giddy and gay. 
+LISA SHARP: SHUT UP!!! Why is everyone PICKIN' ON ME. I ain't gonna become no overseer. What would happen to Walnut!!! 
+JAYJAY: But Miss Lisa Sharp I intended no harm--ouch! 
+PINKY: Oh dear. I don't think you could become an Overseer really.
+...You're too short. 
+
+ACT_2/223/2.html
+HOVERTEXT: Godhead looks at a map of North America.
+PINKY: Canada is a real place that we can actually go to. Then once we're there we can collaborate with the French, a people whose nation neighbors mine, get a ship arranged and go right back home. 
+JAYJAY: But Miss New Girl, my home's the cabin behind the dogwood tree with the chimney missin' a brick. 
+PINKY: Oh I mean my home of course. It's much better than yours. You'll like it so much! 
+JAYJAY: I will? Yay! 
+BUG: I-I-I-I-I-I don't trust it. I don't trust it! These Canada niggas, is they white? 
+PINKY: Mooooost of the time, yes, but... 
+BUG: And the French niggas, is they white too? P
+INKY: Geeeeenerally speaking, but! 
+BUG: Then what's the point, man? White people, pink monsters, whatever they is sold Jayjay's parents, Lisa Sharp and Walnut's daddy, every last one of Boom's brothers and sisters. Man you d-d-don't even wanna know WHAT they did to mine! Just 'cause niggas roam free inside they little pen, who's to say they won't end up on a dinnerplate the next day. 
+PINKY: I'm trying to help you understand what the world really looks like. It isn't these other countries that are the pen, the United States is the pen. 
+JAYJAY: Is that where we is right now? 
+PINKY: Oh if only I could show you a-- 
+LISA SHARP: IF YOU SAY 'MAP' OR 'BOOK' I WILL RIP ONE OF THOSE PUFFS OUT YOUR HEAD. 
+
+ACT_2/224/1.html
+HOVERTEXT: Pinky wipes the blood off of Lisa Sharp's face with her thumb.
+PINKY: What do you say, leader? The outskirts of the plantation are right behind the Red River. We can get Walnut her peppermint and while we're there just take a look at our potential escape route. You'll bring your team to do some simple looking, won't you? 
+BUG: H-H-Hey! I said I quit! 
+LISA SHARP: FINE. We need to get Walnut that peppermint and get it to her FAST. 
+WALNUT: Nosnosnosnosnos nots deres you cant's go deres rrrghhhhh you cant's! 
+LISA SHARP: SHUT UP ALREADY. 
+HOVERTEXT: Pinky smirks. She has the whole team wrapped around her finger.
+PINKY: Then it seems I'll be getting everything I want.
+HOVERTEXT: She notices the blood on her thumb.
+PINKY: Oh my. That's blood.
+HOVERTEXT: She faints. Lisa Sharp steps to the side to miss her fall.
+BOOM: There's one thing she wasn't lyin' about.
+HOVERTEXT: Lisa Sharp's toy gun is discarded in the murk.
+
+ACT_2/225/1.html
+HOVERTEXT: EXT. THE SWAMP - LATE DAY Lisa Sharp's toy gun is discarded in the murk.
+HOVERTEXT: EXT. THE RED RIVER - BEHIND THE OVERSEER'S TOWER - LATE DAY Peppermint plants line the Red River.
+HOVERTEXT: Walnut holds a piece of peppermint, fastened to a string necklace, up to her nose.
+MINIHEAD: Is the earth bleppermint working for your headache, Walnut? 
+WALNUT: Walnut might needs a new head soons... 
+HOVERTEXT: EXT. FOREST ON THE OUTSKIRTS OF THE PLANTATION - LATE DAY Lisa Sharp, Pinky, Jayjay, Boom, Bug and Walnut wander around carefully in the woods.
+BUG: I-i-is you sure we ain't escapin' right now? We keep gettin' further and further from the plantation.
+
+ACT_2/226/1.html
+HOVERTEXT: Lisa Sharp points out footsteps on the ground. Pinky records this on her map using Boom's back as a surface. Bug senses something isn't right.
+MINIHEAD: Walnut. They're about to find it.
+HOVERTEXT: The forest gets darker. Jayjay suggests they go back home. Spirits begin pouring out of trees.
+MINIHEAD: This may be your last chance to let me do something about them--nonviolently, of course.
+HOVERTEXT: A ghost creeps up behind Bug.
+WALNUT: ...My skys famblys is sayings to at mes I shoulds let yous.
+
+ACT_2/227/1.html
+HOVERTEXT: Bug is startled by a GHOST.
+HOVERTEXT: He falls backwards into a long curtain of leaves belonging to a willow tree at the top of the hill.
+BUG: D-d-did anybody else see that?! 
+PINKY: Nevermind that...Look at THAT.
+
+ACT_2/227/2.html
+HOVERTEXT: Pinky parts the foliage leading the way for the rest to wander beneath the tree.  A SPACESHIP sits inside, its scale so grand it makes it hard to believe it could fit under the tree at all.
+
+ACT_2/228/1.html
+TEXT:  Ghosts
+Projected by Minihead during the trip through the graveyard
+TEXT: Toilet
+Spawned in during the bathroom Blamagotchi minigame.
+Repurposed as the pilot's seat.
+TEXT: Wooden panels
+The regular wood Walnut uses in most inventions.
+TEXT:Metal panels
+Made from melted down guns.
+TEXT: Minihead's wires
+Megafuturistic tech from Minihead's anatomy,
+which originally came from Red Planet.
+TEXT:The Overseer's Guns
+Stolen from the Overseer's tower.
+The ship's primary engine.
+GODHEAD: In the week since I got here we've been hard at work creating Walnut's ship. Putting the catastrophic circumstance of the present aside, it's pretty cool, right? 
+
+ACT_2/229/1.html
+HOVERTEXT: EXT. THE WILLOW TREE - NIGHT (CONT'D)
+HOVERTEXT: Even Lisa Sharp finds herself awed. Walnut falls behind the rest.
+PINKY: This is amazing... What is this? Walnut, you couldn't have...?
+
+ACT_2/229/2.html
+HOVERTEXT: She clenches her head in pain, her headache still ongoing.
+WALNUT: ...Dis my flyships dats I been sneaksins out to built-it all da six days. 
+PINKY: So instead of building your sister a real weapon, you used the materials for this... Amazing... 
+
+ACT_2/230/1.html
+HOVERTEXT: Lisa Sharp looks at her reflection in the guns attached to the bottom of the ship.
+HOVERTEXT: Pinky tugs on her sleeve.
+PINKY: Don't be upset, Lisa Sharp. Think of how we can use this. Does it fly? 
+WALNUT: Nots yets it's nots dones. 
+PINKY: Well? What does it need to be completed? This could be our ride out of here. We could reach the North by tonight...! 
+HOVERTEXT: Bug snaps his head up from the ground.
+BUG: T-tonight? You said we was goin' back to the plantation tonight. 
+JAYJAY: You mean...we's leavin' home without even sayin' goodbye? But...But... 
+PINKY: Oh! Okay. Go home then. You can always take the next flying spacecraft you happen upon out of lifelong bondage...not! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
